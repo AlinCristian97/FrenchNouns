@@ -383,55 +383,62 @@ public static class NounRepository
 
     private static void LoadNounJson(string noun)
     {
-        // Compute the base folder path
+        // Defensive default
+        _cache[noun] = new WordMetadata();
+
+        if (string.IsNullOrWhiteSpace(noun))
+            return;
+
+        // First letter folder (A, B, C, ...)
+        char firstLetter = char.ToUpperInvariant(noun[0]);
+
+        // Base folder (runtime)
         string baseDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, BaseFolderName);
 
         if (!Directory.Exists(baseDir))
         {
             // Go up from bin/... to project root
-            string projectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", ".."));
+            string projectRoot = Path.GetFullPath(
+                Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..")
+            );
+
             baseDir = Path.Combine(projectRoot, BaseFolderName);
         }
 
         if (!Directory.Exists(baseDir))
-        {
-            _cache[noun] = new WordMetadata();
             return;
-        }
 
-        // Search recursively for the noun JSON file
-        string[] files = Directory.GetFiles(baseDir, $"{noun}{FileExtension}", SearchOption.AllDirectories);
+        // Sentences/A/arbre.json
+        string nounFolder = Path.Combine(baseDir, firstLetter.ToString());
+        string filePath = Path.Combine(nounFolder, $"{noun}{FileExtension}");
 
-        if (files.Length == 0)
-        {
-            _cache[noun] = new WordMetadata();
+        if (!File.Exists(filePath))
             return;
-        }
 
         try
         {
-            // Read the first matching file and deserialize into WordMetadata
-            string jsonContent = File.ReadAllText(files[0]);
+            string jsonContent = File.ReadAllText(filePath);
 
             var options = new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true
             };
 
-            var metadata = JsonSerializer.Deserialize<WordMetadata>(jsonContent, options) ?? new WordMetadata();
+            var metadata = JsonSerializer.Deserialize<WordMetadata>(jsonContent, options)
+                           ?? new WordMetadata();
 
-            // Normalize example sentences
+            metadata.Description ??= string.Empty;
+
             metadata.Sentences = (metadata.Sentences ?? new List<string>())
                 .Where(s => !string.IsNullOrWhiteSpace(s))
                 .Select(s => s.Trim())
                 .ToList();
 
-            metadata.Description ??= string.Empty;
-
             _cache[noun] = metadata;
         }
         catch
         {
+            // keep default empty metadata
             _cache[noun] = new WordMetadata();
         }
     }

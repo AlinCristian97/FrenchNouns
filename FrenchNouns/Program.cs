@@ -178,7 +178,11 @@ namespace FrenchNouns
 
             var sentences = NounRepository.GetSentencesForWord(word, count);
             if (sentences == null || sentences.Count == 0)
-                return;
+            {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
+                Console.WriteLine("***JSON SENTENCES MISSING***");
+                Console.ResetColor();
+            }
 
             var previous = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.DarkGray;
@@ -196,7 +200,11 @@ namespace FrenchNouns
 
             var description = NounRepository.GetDescriptionForWord(word);
             if (string.IsNullOrWhiteSpace(description))
-                return;
+            {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
+                Console.Write("***JSON DESCRIPTION MISSING***");
+                Console.ResetColor();
+            }
 
             var previous = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.DarkCyan;
