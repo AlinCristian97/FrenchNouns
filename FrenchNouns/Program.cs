@@ -13,7 +13,6 @@ namespace FrenchNouns
                 Console.WriteLine("2) Mot aléatoire par lettre");
                 Console.WriteLine("3) Entrer un mot");
                 Console.WriteLine("Q) Quitter");
-                Console.Write("> ");
 
                 var choice = Console.ReadLine()?.Trim();
                 if (string.IsNullOrEmpty(choice))
@@ -66,7 +65,7 @@ namespace FrenchNouns
 
                 if (choice == "3")
                 {
-                    Console.Write("Entrez le mot (avec ou sans article) : ");
+                    Console.Write("Entrez le mot : ");
                     var userInput = Console.ReadLine()?.Trim();
                     if (string.IsNullOrEmpty(userInput))
                     {
@@ -132,7 +131,7 @@ namespace FrenchNouns
             // Article: blue for "un", red for "une"
             if (!string.IsNullOrEmpty(article))
             {
-                Console.Write("> ");
+                Console.Write(Constants.GuillemetOuvrant + Constants.Space);
 
                 if (string.Equals(article, Constants.Un, StringComparison.Ordinal))
                 {
@@ -157,17 +156,15 @@ namespace FrenchNouns
 
                 if (!string.IsNullOrEmpty(article))
                 {
-
                     Console.Write(Constants.Space + rest);
-                    Console.ResetColor();
-                    Console.Write(" <");
                 }
                 else
                 {
-                    Console.ResetColor();
                     Console.Write(rest);
-                    Console.Write(" <");
                 }
+                
+                Console.ResetColor();
+                Console.Write(Constants.Space + Constants.GuillemetFermant);
             }
 
             // Restore console color
