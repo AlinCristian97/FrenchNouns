@@ -186,7 +186,7 @@ public class Constants
 
     #region "S" Nouns
     public const string Salle = Une + Space + "salle";
-    public const string Soeur = Une + Space + "sœur";
+    public const string Soeur = Une + Space + "soeur";
     public const string Soleil = Un + Space + "soleil";
     public const string Sport = Un + Space + "sport";
     public const string Stylo = Un + Space + "stylo";
