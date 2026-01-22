@@ -49,9 +49,9 @@ public class Constants
     #endregion
 
     #region "B" Nouns
-    public const string Bateau = Un + Space + "bateau";
     public const string Banane = Une + Space + "banane";
     public const string Banque = Une + Space + "banque";
+    public const string Bateau = Un + Space + "bateau";
     public const string Bebe = Un + Space + "bébé";
     public const string Bureau = Un + Space + "bureau";
     #endregion
@@ -73,9 +73,9 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Eau = Une + Space + "eau";
     public const string Ecole = Une + Space + "école";
     public const string Enfant = Un + Space + "enfant";
-    public const string Eau = Une + Space + "eau";
     public const string Espece = Une + Space + "espèce";
     public const string Etoile = Une + Space + "étoile";
     #endregion
@@ -121,11 +121,11 @@ public class Constants
     #endregion
 
     #region "K" Nouns
+    public const string Kangourou = Un + Space + "kangourou";
     public const string Kayak = Un + Space + "kayak";
     public const string Kilo = Un + Space + "kilo";
     public const string Kit = Un + Space + "kit";
     public const string Kiosque = Un + Space + "kiosque";
-    public const string Kangourou = Un + Space + "kangourou";
     #endregion
 
     #region "L" Nouns
@@ -153,7 +153,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
-    public const string Oeuf = Un + Space + "œuf";
+    public const string Oeuf = Un + Space + "oeuf";
     public const string Oiseau = Un + Space + "oiseau";
     public const string Orange = Une + Space + "orange";
     public const string Organisme = Un + Space + "organisme";
@@ -201,10 +201,10 @@ public class Constants
     #endregion
 
     #region "U" Nouns
-    public const string Usage = Un + Space + "usage";
-    public const string Urgence = Une + Space + "urgence";
     public const string Univers = Un + Space + "univers";
     public const string Universite = Une + Space + "université";
+    public const string Usage = Un + Space + "usage";
+    public const string Urgence = Une + Space + "urgence";
     public const string Usine = Une + Space + "usine";
     #endregion
 
@@ -241,7 +241,6 @@ public class Constants
     #endregion
 
     #region "Z" Nouns
-    public const string Zero = Un + Space + "zéro";
     public const string Zebre = Un + Space + "zèbre";
     public const string Zeste = Un + Space + "zeste";
     public const string Zone = Une + Space + "zone";
