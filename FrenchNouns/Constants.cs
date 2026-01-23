@@ -53,13 +53,20 @@ public class Constants
     public const string Banque = Une + Space + "banque";
     public const string Bateau = Un + Space + "bateau";
     public const string Bebe = Un + Space + "bébé";
+    public const string Bruit = Un + Space + "bruit";
     public const string Bureau = Un + Space + "bureau";
     #endregion
 
     #region "C" Nouns
+
+    public const string Cafe = Un + Space + "café"; 
     public const string Chambre = Une + Space + "chambre";
     public const string Chat = Un + Space + "chat";
     public const string Cheval = Un + Space + "cheval";
+    public const string Chocolat = Un + Space + "chocolat";
+    public const string Chose = Une + Space + "chose";
+    public const string Cinema = Un + Space + "cinéma"; 
+    public const string Confiture = Une + Space + "confiture";
     public const string Cle = Une + Space + "clé";
     public const string Ciel = Un + Space + "ciel";
     #endregion
@@ -67,6 +74,7 @@ public class Constants
     #region "D" Nouns
     public const string Departement = Un + Space + "département";
     public const string Dent = Une + Space + "dent";
+    public const string Devoir = Un + Space + "devoir";
     public const string Dimanche = Un + Space + "dimanche";
     public const string Docteur = Un + Space + "docteur";
     public const string Douleur = Une + Space + "douleur";
@@ -84,6 +92,7 @@ public class Constants
     public const string Feu = Un + Space + "feu";
     public const string Femme = Une + Space + "femme";
     public const string Fille = Une + Space + "fille";
+    public const string Film = Un + Space + "film";
     public const string Foret = Une + Space + "forêt";
     public const string Frere = Un + Space + "frère";
     #endregion
@@ -107,6 +116,7 @@ public class Constants
     #region "I" Nouns
     public const string Idee = Une + Space + "idée";
     public const string Image = Une + Space + "image";
+    public const string Information = Une + Space + "information";
     public const string Ile = Une + Space + "île";
     public const string Insecte = Un + Space + "insecte";
     public const string Invite = Un + Space + "invité";
@@ -117,6 +127,7 @@ public class Constants
     public const string Jardin = Un + Space + "jardin";
     public const string Jour = Un + Space + "jour";
     public const string Jouet = Un + Space + "jouet";
+    public const string Journal = Un + Space + "journal";
     public const string Jupe = Une + Space + "jupe";
     #endregion
 
@@ -131,6 +142,7 @@ public class Constants
     #region "L" Nouns
     public const string Lampe = Une + Space + "lampe";
     public const string Langue = Une + Space + "langue";
+    public const string Lecon = Une + Space + "leçon";
     public const string Lit = Un + Space + "lit";
     public const string Livre = Un + Space + "livre";
     public const string Lune = Une + Space + "lune";
@@ -140,6 +152,7 @@ public class Constants
     public const string Maison = Une + Space + "maison";
     public const string Main = Une + Space + "main";
     public const string Marche = Un + Space + "marché";
+    public const string Matin = Un + Space + "matin";
     public const string Mere = Une + Space + "mère";
     public const string Musique = Une + Space + "musique";
     #endregion
@@ -164,6 +177,7 @@ public class Constants
     public const string Pain = Un + Space + "pain";
     public const string Pere = Un + Space + "père";
     public const string Personne = Une + Space + "personne";
+    public const string Phrase = Une + Space + "phrase";
     public const string Porte = Une + Space + "porte";
     public const string Poulet = Un + Space + "poulet";
     #endregion
@@ -190,12 +204,14 @@ public class Constants
     public const string Soleil = Un + Space + "soleil";
     public const string Sport = Un + Space + "sport";
     public const string Stylo = Un + Space + "stylo";
+    public const string Supermarche = Un + Space + "supermarché";
     #endregion
 
     #region "T" Nouns
     public const string Table = Une + Space + "table";
     public const string Television = Une + Space + "télévision";
     public const string Temps = Un + Space + "temps";
+    public const string The = Un + Space + "thé";
     public const string Train = Un + Space + "train";
     public const string Travail = Un + Space + "travail";
     #endregion
@@ -213,6 +229,7 @@ public class Constants
     public const string Vent = Un + Space + "vent";
     public const string Ville = Une + Space + "ville";
     public const string Voiture = Une + Space + "voiture";
+    public const string Viande = Une + Space + "viande";
     public const string Visage = Un + Space + "visage";
     #endregion
 
