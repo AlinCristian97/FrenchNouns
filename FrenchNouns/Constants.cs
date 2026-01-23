@@ -144,6 +144,7 @@ public class Constants
     public const string Lampe = Une + Space + "lampe";
     public const string Langue = Une + Space + "langue";
     public const string Lecon = Une + Space + "leçon";
+    public const string Lettre = Une + Space + "lettre";
     public const string Lit = Un + Space + "lit";
     public const string Livre = Un + Space + "livre";
     public const string Lune = Une + Space + "lune";
@@ -156,6 +157,7 @@ public class Constants
     public const string Matin = Un + Space + "matin";
     public const string Matiere = Une + Space + "matière";
     public const string Mere = Une + Space + "mère";
+    public const string Mot = Un + Space + "mot";
     public const string Musique = Une + Space + "musique";
     #endregion
 
