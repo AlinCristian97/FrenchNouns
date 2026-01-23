@@ -46,6 +46,7 @@ public class Constants
     public const string Appartement = Un + Space + "appartement";
     public const string Arbre = Un + Space + "arbre";
     public const string Amour = Un + Space + "amour";
+    public const string Animal = Un + Space + "animal";
     #endregion
 
     #region "B" Nouns
@@ -153,6 +154,7 @@ public class Constants
     public const string Main = Une + Space + "main";
     public const string Marche = Un + Space + "marché";
     public const string Matin = Un + Space + "matin";
+    public const string Matiere = Une + Space + "matière";
     public const string Mere = Une + Space + "mère";
     public const string Musique = Une + Space + "musique";
     #endregion
@@ -200,6 +202,7 @@ public class Constants
 
     #region "S" Nouns
     public const string Salle = Une + Space + "salle";
+    public const string Semaine = Une + Space + "semaine";
     public const string Soeur = Une + Space + "soeur";
     public const string Soleil = Un + Space + "soleil";
     public const string Sport = Un + Space + "sport";
