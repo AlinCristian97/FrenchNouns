@@ -68,6 +68,7 @@ public class Constants
     public const string Chose = Une + Space + "chose";
     public const string Cinema = Un + Space + "cinéma"; 
     public const string Confiture = Une + Space + "confiture";
+    public const string Consonne = Une + Space + "consonne";
     public const string Cle = Une + Space + "clé";
     public const string Ciel = Un + Space + "ciel";
     #endregion
@@ -234,6 +235,7 @@ public class Constants
     public const string Vent = Un + Space + "vent";
     public const string Ville = Une + Space + "ville";
     public const string Voiture = Une + Space + "voiture";
+    public const string Voyelle = Une + Space + "voyelle";
     public const string Viande = Une + Space + "viande";
     public const string Visage = Un + Space + "visage";
     #endregion
