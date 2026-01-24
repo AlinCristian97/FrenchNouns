@@ -236,6 +236,7 @@ public class Constants
     public const string Sport = MasculineArticle + Space + "sport";
     public const string Stylo = MasculineArticle + Space + "stylo";
     public const string Supermarche = MasculineArticle + Space + "supermarché";
+    public const string Sac = MasculineArticle + Space + "sac";
     #endregion
 
     #region "T" Nouns
