@@ -24,7 +24,10 @@ public static class NounRepository
         Constants.Appartement,
         Constants.Arbre,
         Constants.Amour,
-        Constants.Animal
+        Constants.Animal,
+        Constants.Avion,
+        Constants.Artiste,
+        Constants.Adresse
     };
 
     public static readonly IReadOnlyList<string> B = new[]
