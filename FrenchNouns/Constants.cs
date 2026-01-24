@@ -85,6 +85,7 @@ public class Constants
     public const string Chanteuse = Une + Space + "chanteuse";
     public const string Chemise = Un + Space + "chemise";
     public const string Cours = Un + Space + "cours";
+    public const string Chiffre = Un + Space + "chiffre";
     #endregion
 
     #region "D" Nouns
@@ -184,6 +185,7 @@ public class Constants
     public const string Nez = Un + Space + "nez";
     public const string Nom = Un + Space + "nom";
     public const string Nuit = Une + Space + "nuit";
+    public const string Numero = Un + Space + "numéro";
     #endregion
 
     #region "O" Nouns
@@ -203,6 +205,8 @@ public class Constants
     public const string Phrase = Une + Space + "phrase";
     public const string Porte = Une + Space + "porte";
     public const string Poulet = Un + Space + "poulet";
+    public const string Professeur = Un + Space + "professeur";
+    public const string Pomme = Une + Space + "pomme";
     #endregion
 
     #region "Q" Nouns
