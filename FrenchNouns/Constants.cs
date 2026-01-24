@@ -66,7 +66,6 @@ public class Constants
     #endregion
 
     #region "C" Nouns
-
     public const string Cafe = Un + Space + "café"; 
     public const string Chambre = Une + Space + "chambre";
     public const string Chat = Un + Space + "chat";
