@@ -82,6 +82,7 @@ public class Constants
     public const string Concours = Un + Space + "concours";
     public const string Chanteur = Un + Space + "chanteur";
     public const string Chanteuse = Une + Space + "chanteuse";
+    public const string Chemise = Un + Space + "chemise";
     #endregion
 
     #region "D" Nouns
