@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Sentences\A\" />
     <Folder Include="Sentences\B\" />
     <Folder Include="Sentences\C\" />
     <Folder Include="Sentences\D\" />
