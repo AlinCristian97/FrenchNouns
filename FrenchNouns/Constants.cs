@@ -64,6 +64,7 @@ public class Constants
     public const string Blouse = Une + Space + "blouse";
     public const string Bougie = Une + Space + "bougie";
     public const string Ballon = Un + Space + "ballon";
+    public const string Bus = Un + Space + "bus";
     #endregion
 
     #region "C" Nouns
@@ -83,6 +84,7 @@ public class Constants
     public const string Chanteur = Un + Space + "chanteur";
     public const string Chanteuse = Une + Space + "chanteuse";
     public const string Chemise = Un + Space + "chemise";
+    public const string Cours = Un + Space + "cours";
     #endregion
 
     #region "D" Nouns
