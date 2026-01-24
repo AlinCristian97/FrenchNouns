@@ -102,6 +102,7 @@ public class Constants
     public const string Enfant = Un + Space + "enfant";
     public const string Espece = Une + Space + "espèce";
     public const string Etoile = Une + Space + "étoile";
+    public const string Expression = Une + Space + "expression";
     #endregion
 
     #region "F" Nouns
@@ -217,6 +218,7 @@ public class Constants
     public const string Robe = Une + Space + "robe";
     public const string Roi = Un + Space + "roi";
     public const string Rue = Une + Space + "rue";
+    public const string Raison = Une + Space + "raison";
     #endregion
 
     #region "S" Nouns
