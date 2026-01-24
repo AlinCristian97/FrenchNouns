@@ -133,11 +133,11 @@ namespace FrenchNouns
             {
                 Console.Write(Constants.GuillemetOuvrant + Constants.Space);
 
-                if (string.Equals(article, Constants.Un, StringComparison.Ordinal))
+                if (string.Equals(article, Constants.MasculineArticle, StringComparison.Ordinal))
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
                 }
-                else if (string.Equals(article, Constants.Une, StringComparison.Ordinal))
+                else if (string.Equals(article, Constants.FeminineArticle, StringComparison.Ordinal))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                 }
@@ -235,7 +235,7 @@ namespace FrenchNouns
             {
                 var article = parts[0].ToLowerInvariant();
                 var noun = nounPart.ToLowerInvariant();
-                if (article == Constants.Un || article == Constants.Une)
+                if (article == Constants.MasculineArticle || article == Constants.FeminineArticle)
                     return article + Constants.Space + noun;
             }
 
