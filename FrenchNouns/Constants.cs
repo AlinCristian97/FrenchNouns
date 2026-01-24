@@ -47,6 +47,9 @@ public class Constants
     public const string Arbre = Un + Space + "arbre";
     public const string Amour = Un + Space + "amour";
     public const string Animal = Un + Space + "animal";
+    public const string Avion = Un + Space + "avion";
+    public const string Adresse = Une + Space + "adresse";
+    public const string Artiste = Un + Space + "artiste";
     #endregion
 
     #region "B" Nouns

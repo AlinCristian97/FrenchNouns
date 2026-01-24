@@ -18,7 +18,13 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> A = new[]
     {
+        Constants.Aide,
+        Constants.Ami,
+        Constants.Amie,
+        Constants.Appartement,
         Constants.Arbre,
+        Constants.Amour,
+        Constants.Animal
     };
 
     public static readonly IReadOnlyList<string> B = new[]
