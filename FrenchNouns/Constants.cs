@@ -77,6 +77,7 @@ public class Constants
     public const string Consonne = Une + Space + "consonne";
     public const string Cle = Une + Space + "clé";
     public const string Ciel = Un + Space + "ciel";
+    public const string Colere = Une + Space + "colère";
     #endregion
 
     #region "D" Nouns
@@ -182,6 +183,7 @@ public class Constants
     public const string Orange = Une + Space + "orange";
     public const string Organisme = Un + Space + "organisme";
     public const string Ordinateur = Un + Space + "ordinateur";
+    public const string Outil = Un + Space + "outil";
     #endregion
 
     #region "P" Nouns
