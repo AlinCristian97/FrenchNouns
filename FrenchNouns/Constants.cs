@@ -59,6 +59,10 @@ public class Constants
     public const string Bebe = Un + Space + "bébé";
     public const string Bruit = Un + Space + "bruit";
     public const string Bureau = Un + Space + "bureau";
+    public const string Bijou = Un + Space + "bijou";
+    public const string Blouse = Une + Space + "blouse";
+    public const string Bougie = Une + Space + "bougie";
+    public const string Ballon = Un + Space + "ballon";
     #endregion
 
     #region "C" Nouns

@@ -32,7 +32,16 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> B = new[]
     {
+        Constants.Banane,
+        Constants.Banque,
         Constants.Bateau,
+        Constants.Bebe,
+        Constants.Bruit,
+        Constants.Bureau,
+        Constants.Bijou,
+        Constants.Blouse,
+        Constants.Bougie,
+        Constants.Ballon
     };
 
     public static readonly IReadOnlyList<string> C = new[]
