@@ -116,6 +116,7 @@ public class Constants
     public const string Film = MasculineArticle + Space + "film";
     public const string Foret = FeminineArticle + Space + "forêt";
     public const string Frere = MasculineArticle + Space + "frère";
+    public const string Fleur = FeminineArticle + Space + "fleur";
     #endregion
 
     #region "G" Nouns
@@ -180,6 +181,7 @@ public class Constants
     public const string Mere = FeminineArticle + Space + "mère";
     public const string Mot = MasculineArticle + Space + "mot";
     public const string Musique = FeminineArticle + Space + "musique";
+    public const string Monde = MasculineArticle + Space + "monde";
     #endregion
 
     #region "N" Nouns
