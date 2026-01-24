@@ -27,7 +27,9 @@ public static class NounRepository
         Constants.Animal,
         Constants.Avion,
         Constants.Artiste,
-        Constants.Adresse
+        Constants.Adresse,
+        Constants.Annee,
+        Constants.Avenir
     };
 
     public static readonly IReadOnlyList<string> B = new[]
