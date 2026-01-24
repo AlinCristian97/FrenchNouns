@@ -51,6 +51,7 @@ public class Constants
     public const string Adresse = Une + Space + "adresse";
     public const string Artiste = Un + Space + "artiste";
     public const string Annee = Une + Space + "année";
+    public const string Avenir = Un + Space + "avenir";
     #endregion
 
     #region "B" Nouns
