@@ -107,6 +107,7 @@ public class Constants
     public const string Espece = FeminineArticle + Space + "espèce";
     public const string Etoile = FeminineArticle + Space + "étoile";
     public const string Expression = FeminineArticle + Space + "expression";
+    public const string Etagere = FeminineArticle + Space + "étagère";
     #endregion
 
     #region "F" Nouns
