@@ -43,7 +43,10 @@ public static class NounRepository
         Constants.Bijou,
         Constants.Blouse,
         Constants.Bougie,
-        Constants.Ballon
+        Constants.Ballon,
+        Constants.Bus,
+        Constants.Boite,
+        Constants.Boue
     };
 
     public static readonly IReadOnlyList<string> C = new[]
