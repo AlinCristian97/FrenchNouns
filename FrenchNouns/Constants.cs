@@ -66,6 +66,7 @@ public class Constants
     public const string Bougie = FeminineArticle + Space + "bougie";
     public const string Ballon = MasculineArticle + Space + "ballon";
     public const string Bus = MasculineArticle + Space + "bus";
+    public const string Boue = FeminineArticle + Space + "boue";
     #endregion
 
     #region "C" Nouns
