@@ -50,6 +50,7 @@ public class Constants
     public const string Avion = Un + Space + "avion";
     public const string Adresse = Une + Space + "adresse";
     public const string Artiste = Un + Space + "artiste";
+    public const string Annee = Une + Space + "année";
     #endregion
 
     #region "B" Nouns
@@ -78,6 +79,7 @@ public class Constants
     public const string Cle = Une + Space + "clé";
     public const string Ciel = Un + Space + "ciel";
     public const string Colere = Une + Space + "colère";
+    public const string Concours = Un + Space + "concours";
     #endregion
 
     #region "D" Nouns
