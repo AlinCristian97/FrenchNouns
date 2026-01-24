@@ -192,6 +192,7 @@ public class Constants
 
     #region "P" Nouns
     public const string Pain = Un + Space + "pain";
+    public const string Parc = Un + Space + "parc";
     public const string Pere = Un + Space + "père";
     public const string Personne = Une + Space + "personne";
     public const string Phrase = Une + Space + "phrase";
