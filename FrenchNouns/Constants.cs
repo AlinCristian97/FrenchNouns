@@ -80,6 +80,8 @@ public class Constants
     public const string Ciel = Un + Space + "ciel";
     public const string Colere = Une + Space + "colère";
     public const string Concours = Un + Space + "concours";
+    public const string Chanteur = Un + Space + "chanteur";
+    public const string Chanteuse = Une + Space + "chanteuse";
     #endregion
 
     #region "D" Nouns
