@@ -120,6 +120,7 @@ public class Constants
     public const string Gateau = Un + Space + "gâteau";
     public const string Glace = Une + Space + "glace";
     public const string Guitare = Une + Space + "guitare";
+    public const string Genre = Un + Space + "genre";
     #endregion
 
     #region "H" Nouns
