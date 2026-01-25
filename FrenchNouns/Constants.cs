@@ -99,6 +99,10 @@ public class Constants
     public const string Dimanche = MasculineArticle + Space + "dimanche";
     public const string Docteur = MasculineArticle + Space + "docteur";
     public const string Douleur = FeminineArticle + Space + "douleur";
+    public const string Drapeau = MasculineArticle + Space + "drapeau";
+    public const string Danse = FeminineArticle + Space + "danse";
+    public const string Dessin = MasculineArticle + Space + "dessin";
+    public const string Distance = FeminineArticle + Space + "distance";
     #endregion
 
     #region "E" Nouns

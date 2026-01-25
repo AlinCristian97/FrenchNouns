@@ -75,6 +75,15 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> D = new[]
     {
         Constants.Departement,
+        Constants.Dent,
+        Constants.Devoir,
+        Constants.Dimanche,
+        Constants.Docteur,
+        Constants.Douleur,
+        Constants.Drapeau,
+        Constants.Danse,
+        Constants.Dessin,
+        Constants.Distance
     };
 
     public static readonly IReadOnlyList<string> E = new[]
