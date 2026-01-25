@@ -61,7 +61,15 @@ public static class NounRepository
         Constants.Confiture,
         Constants.Consonne,
         Constants.Cle,
-        Constants.Ciel
+        Constants.Ciel,
+        Constants.Colere,
+        Constants.Concours,
+        Constants.Chanteur,
+        Constants.Chanteuse,
+        Constants.Chemise,
+        Constants.Cours,
+        Constants.Chiffre,
+        Constants.Chaussure,
     };
 
     public static readonly IReadOnlyList<string> D = new[]
