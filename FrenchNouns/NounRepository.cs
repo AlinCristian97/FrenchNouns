@@ -130,26 +130,50 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> H = new[]
     {
         Constants.Herbe,
+        Constants.Heure,
+        Constants.Histoire,
+        Constants.Homme,
+        Constants.Hopital,
     };
 
     public static readonly IReadOnlyList<string> I = new[]
     {
         Constants.Idee,
+        Constants.Image,
+        Constants.Information,
+        Constants.Ile,
+        Constants.Insecte,
+        Constants.Invite,
     };
 
     public static readonly IReadOnlyList<string> J = new[]
     {
         Constants.Jambe,
+        Constants.Jardin,
+        Constants.Jour,
+        Constants.Jouet,
+        Constants.Journal,
+        Constants.Jupe,
     };
 
     public static readonly IReadOnlyList<string> K = new[]
     {
+        Constants.Kangourou,
         Constants.Kayak,
+        Constants.Kilo,
+        Constants.Kit,
+        Constants.Kiosque,
     };
 
     public static readonly IReadOnlyList<string> L = new[]
     {
         Constants.Lampe,
+        Constants.Langue,
+        Constants.Lecon,
+        Constants.Lettre,
+        Constants.Lit,
+        Constants.Livre,
+        Constants.Lune,
     };
 
     public static readonly IReadOnlyList<string> M = new[]
