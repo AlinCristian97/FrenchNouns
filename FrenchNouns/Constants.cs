@@ -86,7 +86,7 @@ public class Constants
     public const string Concours = MasculineArticle + Space + "concours";
     public const string Chanteur = MasculineArticle + Space + "chanteur";
     public const string Chanteuse = FeminineArticle + Space + "chanteuse";
-    public const string Chemise = MasculineArticle + Space + "chemise";
+    public const string Chemise = FeminineArticle + Space + "chemise";
     public const string Cours = MasculineArticle + Space + "cours";
     public const string Chiffre = MasculineArticle + Space + "chiffre";
     public const string Chaussure = FeminineArticle + Space + "chaussure";
