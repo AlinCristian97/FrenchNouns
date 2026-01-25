@@ -113,6 +113,9 @@ public class Constants
     public const string Etoile = FeminineArticle + Space + "étoile";
     public const string Expression = FeminineArticle + Space + "expression";
     public const string Etagere = FeminineArticle + Space + "étagère";
+    public const string Energie = FeminineArticle + Space + "énergie";
+    public const string Evenement = MasculineArticle + Space + "événement";
+    public const string Erreur = FeminineArticle + Space + "erreur";
     #endregion
 
     #region "F" Nouns
