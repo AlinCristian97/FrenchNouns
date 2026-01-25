@@ -117,6 +117,14 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> G = new[]
     {
         Constants.Gare,
+        Constants.Garcon,
+        Constants.Gateau,
+        Constants.Glace,
+        Constants.Guitare,
+        Constants.Genre,
+        Constants.Garage,
+        Constants.Gomme,
+        Constants.Graine,
     };
 
     public static readonly IReadOnlyList<string> H = new[]

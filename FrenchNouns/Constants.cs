@@ -138,6 +138,9 @@ public class Constants
     public const string Glace = FeminineArticle + Space + "glace";
     public const string Guitare = FeminineArticle + Space + "guitare";
     public const string Genre = MasculineArticle + Space + "genre";
+    public const string Garage = MasculineArticle + Space + "garage";
+    public const string Gomme = FeminineArticle + Space + "gomme";
+    public const string Graine = FeminineArticle + Space + "graine";
     #endregion
 
     #region "H" Nouns
