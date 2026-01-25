@@ -102,7 +102,16 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> F = new[]
     {
+        Constants.Famille,
         Constants.Feu,
+        Constants.Femme,
+        Constants.Fille,
+        Constants.Film,
+        Constants.Foret,
+        Constants.Frere,
+        Constants.Fleur,
+        Constants.Fromage,
+        Constants.Fenetre,
     };
 
     public static readonly IReadOnlyList<string> G = new[]

@@ -126,6 +126,9 @@ public class Constants
     public const string Foret = FeminineArticle + Space + "forêt";
     public const string Frere = MasculineArticle + Space + "frère";
     public const string Fleur = FeminineArticle + Space + "fleur";
+    public const string Fromage = MasculineArticle + Space + "fromage";
+    public const string Fenetre = FeminineArticle + Space + "fenêtre";
+    public const string Famille = FeminineArticle + Space + "famille";
     #endregion
 
     #region "G" Nouns
