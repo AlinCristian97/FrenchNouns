@@ -548,6 +548,16 @@ public class Constants
     public const string Tour_Feminine = FeminineArticle + Space + "tour";
     public const string Tour_Masculine = MasculineArticle + Space + "tour";
     public const string Tutoriel = MasculineArticle + Space + "tutoriel";
+    public const string Troupeau = MasculineArticle + Space + "troupeau";
+    public const string Tradition = FeminineArticle + Space + "tradition";
+    public const string Tristesse = FeminineArticle + Space + "tristesse";
+    public const string Tolerance = FeminineArticle + Space + "tolérance";
+    public const string Toxicite = FeminineArticle + Space + "toxicité";
+    public const string Tension = FeminineArticle + Space + "tension";
+    public const string Telecommunication = FeminineArticle + Space + "télécommunication";
+    public const string Telepathie = FeminineArticle + Space + "télépathie";
+    public const string Teletravail = MasculineArticle + Space + "télétravail";
+    public const string Tunique = FeminineArticle + Space + "tunique";
     #endregion
 
     #region "U" Nouns
