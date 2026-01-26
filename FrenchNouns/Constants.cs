@@ -62,6 +62,25 @@ public class Constants
     public const string Aiguille = FeminineArticle + Space + "aiguille";
     public const string Armure = FeminineArticle + Space + "armure";
     public const string Ame = FeminineArticle + Space + "âme";
+    public const string Ambition = FeminineArticle + Space + "ambition";
+    public const string Analyse = FeminineArticle + Space + "analyse";
+    public const string Annonce = FeminineArticle + Space + "annonce";
+    public const string Antenne = FeminineArticle + Space + "antenne";
+    public const string Apologie = FeminineArticle + Space + "apologie";
+    public const string Apostrophe = FeminineArticle + Space + "apostrophe";
+    public const string Armoire = FeminineArticle + Space + "armoire";
+    public const string Armee = FeminineArticle + Space + "armée";
+    public const string Arriere = MasculineArticle + Space + "arrière";
+    public const string Assiette = FeminineArticle + Space + "assiette";
+    public const string Assistance = FeminineArticle + Space + "assistance";
+    public const string Atmosphere = FeminineArticle + Space + "atmosphère";
+    public const string Attitude = FeminineArticle + Space + "attitude";
+    public const string Audience = FeminineArticle + Space + "audience";
+    public const string Autonomie = FeminineArticle + Space + "autonomie";
+    public const string Aventure = FeminineArticle + Space + "aventure";
+    public const string Avocate = FeminineArticle + Space + "avocate";
+    public const string Avocat = MasculineArticle + Space + "avocat";
+    public const string Air = MasculineArticle + Space + "air";
     #endregion
 
     #region "B" Nouns
