@@ -223,6 +223,7 @@ public class Constants
     public const string Force = FeminineArticle + Space + "force";
     public const string Fonction = FeminineArticle + Space + "fonction";
     public const string Fragrance = FeminineArticle + Space + "fragrance";
+    public const string Fruit = MasculineArticle + Space + "fruit";
     #endregion
 
     #region "G" Nouns
