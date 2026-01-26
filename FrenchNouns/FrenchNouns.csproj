@@ -7,26 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Sentences\A\" />
-    <Folder Include="Sentences\B\" />
-    <Folder Include="Sentences\C\" />
-    <Folder Include="Sentences\D\" />
-    <Folder Include="Sentences\E\" />
-    <Folder Include="Sentences\M\" />
-    <Folder Include="Sentences\N\" />
-    <Folder Include="Sentences\O\" />
-    <Folder Include="Sentences\P\" />
-    <Folder Include="Sentences\Q\" />
-    <Folder Include="Sentences\R\" />
-    <Folder Include="Sentences\S\" />
-    <Folder Include="Sentences\T\" />
-    <Folder Include="Sentences\U\" />
-    <Folder Include="Sentences\V\" />
-    <Folder Include="Sentences\W\" />
-    <Folder Include="Sentences\X\" />
-    <Folder Include="Sentences\Y\" />
-    <Folder Include="Sentences\Z\" />
-  </ItemGroup>
-
 </Project>
