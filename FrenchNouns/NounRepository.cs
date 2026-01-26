@@ -234,46 +234,88 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> R = new[]
     {
         Constants.Restaurant,
+        Constants.Reve,
+        Constants.Robe,
+        Constants.Roi,
+        Constants.Rue,
+        Constants.Raison,
     };
 
     public static readonly IReadOnlyList<string> S = new[]
     {
         Constants.Salle,
+        Constants.Semaine,
+        Constants.Soeur,
+        Constants.Soleil,
+        Constants.Sport,
+        Constants.Stylo,
+        Constants.Supermarche,
+        Constants.Sac,
     };
 
     public static readonly IReadOnlyList<string> T = new[]
     {
         Constants.Table,
+        Constants.Television,
+        Constants.Temps,
+        Constants.The,
+        Constants.Train,
+        Constants.Travail,
     };
 
     public static readonly IReadOnlyList<string> U = new[]
     {
+        Constants.Univers,
+        Constants.Universite,
         Constants.Usage,
+        Constants.Urgence,
+        Constants.Usine,
     };
 
     public static readonly IReadOnlyList<string> V = new[]
     {
         Constants.Verre,
+        Constants.Vent,
+        Constants.Ville,
+        Constants.Voiture,
+        Constants.Voyelle,
+        Constants.Viande,
+        Constants.Visage,
     };
 
     public static readonly IReadOnlyList<string> W = new[]
     {
         Constants.Wagon,
+        Constants.Web,
+        Constants.Weekend,
+        Constants.Whisky,
+        Constants.Wifi,
     };
 
     public static readonly IReadOnlyList<string> X = new[]
     {
         Constants.Xenon,
+        Constants.Xenophobie,
+        Constants.Xeres,
+        Constants.Xylem,
+        Constants.Xylophone,
     };
 
     public static readonly IReadOnlyList<string> Y = new[]
     {
         Constants.Yak,
+        Constants.Yaourt,
+        Constants.Yacht,
+        Constants.Yeux,
+        Constants.Yoga,
     };
 
     public static readonly IReadOnlyList<string> Z = new[]
     {
         Constants.Zebre,
+        Constants.Zeste,
+        Constants.Zone,
+        Constants.Zoo,
     };
 
     // Super-list that contains every letter list
