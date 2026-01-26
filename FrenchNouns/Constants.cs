@@ -498,6 +498,8 @@ public class Constants
     public const string Queue = FeminineArticle + Space + "queue";
     public const string Quiche = FeminineArticle + Space + "quiche";
     public const string Quinine = FeminineArticle + Space + "quinine";
+    public const string Quota = MasculineArticle + Space + "quota";
+    public const string Quantite = FeminineArticle + Space + "quantité";
     #endregion
 
     #region "R" Nouns
