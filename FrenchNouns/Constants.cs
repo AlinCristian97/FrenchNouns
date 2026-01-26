@@ -333,6 +333,33 @@ public class Constants
     public const string Nom = MasculineArticle + Space + "nom";
     public const string Nuit = FeminineArticle + Space + "nuit";
     public const string Numero = MasculineArticle + Space + "numéro";
+    public const string Nation = FeminineArticle + Space + "nation";
+    public const string Nounours = MasculineArticle + Space + "nounours";
+    public const string Nage = FeminineArticle + Space + "nage";
+    public const string Nappe = FeminineArticle + Space + "nappe";
+    public const string Neuronne = FeminineArticle + Space + "neuronne";
+    public const string Neutralite = FeminineArticle + Space + "neutralité";
+    public const string Niche = FeminineArticle + Space + "niche";
+    public const string Noblesse = FeminineArticle + Space + "noblesse";
+    public const string Nostalgie = FeminineArticle + Space + "nostalgie";
+    public const string Notion = FeminineArticle + Space + "notion";
+    public const string Nucleaire = MasculineArticle + Space + "nucléaire";
+    public const string Nuisance = FeminineArticle + Space + "nuisance";
+    public const string Nutrition = FeminineArticle + Space + "nutrition";
+    public const string Navigation = FeminineArticle + Space + "navigation";
+    public const string Negociation = FeminineArticle + Space + "négociation";
+    public const string Neon = MasculineArticle + Space + "néon";
+    public const string Neuroscience = FeminineArticle + Space + "neuroscience";
+    public const string Nomenclature = FeminineArticle + Space + "nomenclature";
+    public const string Nomination = FeminineArticle + Space + "nomination";
+    public const string Normalisation = FeminineArticle + Space + "normalisation";
+    public const string Notariat = MasculineArticle + Space + "notariat";
+    public const string Nouveaute = FeminineArticle + Space + "nouveauté";
+    public const string Nuisible = MasculineArticle + Space + "nuisible";
+    public const string Niveau = MasculineArticle + Space + "niveau";
+    public const string Nausee = FeminineArticle + Space + "nausée";
+    public const string Nebuleuse = FeminineArticle + Space + "nébuleuse";
+    
     #endregion
 
     #region "O" Nouns
