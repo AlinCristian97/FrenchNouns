@@ -499,6 +499,11 @@ public class Constants
     public const string Saisonniere = FeminineArticle + Space + "saisonnière";
     public const string Salade = FeminineArticle + Space + "salade";
     public const string Sort = MasculineArticle + Space + "sort";
+    public const string Sante = FeminineArticle + Space + "santé";
+    public const string Solidarite = FeminineArticle + Space + "solidarité";
+    public const string Spiritualite = FeminineArticle + Space + "spiritualité";
+    public const string Stature = FeminineArticle + Space + "stature";
+    public const string Source = FeminineArticle + Space + "source";
     #endregion
 
     #region "T" Nouns
