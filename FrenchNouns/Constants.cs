@@ -93,6 +93,12 @@ public class Constants
     public const string Chiffre = MasculineArticle + Space + "chiffre";
     public const string Chaussure = FeminineArticle + Space + "chaussure";
     public const string Colline = FeminineArticle + Space + "colline";
+    public const string Cadeau = MasculineArticle + Space + "cadeau";
+    public const string Carte = FeminineArticle + Space + "carte";
+    public const string Couteau = MasculineArticle + Space + "couteau";
+    public const string Cuillère = FeminineArticle + Space + "cuillère";
+    public const string Culture = FeminineArticle + Space + "culture";
+    public const string Chance = FeminineArticle + Space + "chance";
 
     #endregion
 
