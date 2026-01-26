@@ -418,6 +418,21 @@ public class Constants
     public const string Voyelle = FeminineArticle + Space + "voyelle";
     public const string Viande = FeminineArticle + Space + "viande";
     public const string Visage = MasculineArticle + Space + "visage";
+    public const string Village = MasculineArticle + Space + "village";
+    public const string Vitesse = FeminineArticle + Space + "vitesse";
+    public const string Volcan = MasculineArticle + Space + "volcan";
+    public const string Volume = MasculineArticle + Space + "volume";
+    public const string Valeur = FeminineArticle + Space + "valeur";
+    public const string Veste = FeminineArticle + Space + "veste";
+    public const string Victoire = FeminineArticle + Space + "victoire";
+    public const string Violence = FeminineArticle + Space + "violence";
+    public const string Vision = FeminineArticle + Space + "vision";
+    public const string Vocation = FeminineArticle + Space + "vocation";
+    public const string Voleur = MasculineArticle + Space + "voleur";
+    public const string Voleuse = FeminineArticle + Space + "voleuse";
+    public const string Voyage = MasculineArticle + Space + "voyage";
+    public const string Vignette = FeminineArticle + Space + "vignette";
+    public const string Vinaigre = MasculineArticle + Space + "vinaigre";
     #endregion
 
     #region "W" Nouns
