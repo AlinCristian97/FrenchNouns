@@ -161,6 +161,7 @@ public class Constants
     public const string Ile = FeminineArticle + Space + "île";
     public const string Insecte = MasculineArticle + Space + "insecte";
     public const string Invite = MasculineArticle + Space + "invité";
+    public const string Inventaire = MasculineArticle + Space + "inventaire";
     #endregion
 
     #region "J" Nouns
