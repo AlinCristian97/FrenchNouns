@@ -127,6 +127,35 @@ public class Constants
     public const string Cuillère = FeminineArticle + Space + "cuillère";
     public const string Culture = FeminineArticle + Space + "culture";
     public const string Chance = FeminineArticle + Space + "chance";
+    public const string Cirque = MasculineArticle + Space + "cirque";
+    public const string Classe = FeminineArticle + Space + "classe";
+    public const string Clown = MasculineArticle + Space + "clown";
+    public const string Coeur = MasculineArticle + Space + "cœur";
+    public const string Colis = MasculineArticle + Space + "colis";
+    public const string Comedie = FeminineArticle + Space + "comédie";
+    public const string Compte = MasculineArticle + Space + "compte";
+    public const string Courrier = MasculineArticle + Space + "courrier";
+    public const string Cuisine = FeminineArticle + Space + "cuisine";
+    public const string Couture = FeminineArticle + Space + "couture";
+    public const string Cadeaux = MasculineArticle + Space + "cadeaux";
+    public const string Capitale = FeminineArticle + Space + "capitale";
+    public const string Carriere = FeminineArticle + Space + "carrière";
+    public const string Cartouche = FeminineArticle + Space + "cartouche";
+    public const string Caverne = FeminineArticle + Space + "caverne";
+    public const string Celebrité = FeminineArticle + Space + "célébrité";
+    public const string Centaine = FeminineArticle + Space + "centaine";
+    public const string Chaleur = FeminineArticle + Space + "chaleur";
+    public const string Chanson = FeminineArticle + Space + "chanson";
+    public const string Chauffeur = MasculineArticle + Space + "chauffeur";
+    public const string Cheminee = FeminineArticle + Space + "cheminée";
+    public const string Chute = FeminineArticle + Space + "chute";
+    public const string Circulation = FeminineArticle + Space + "circulation";
+    public const string Citation = FeminineArticle + Space + "citation";
+    public const string Civilisation = FeminineArticle + Space + "civilisation";
+    public const string Clarté = FeminineArticle + Space + "clarté";
+    public const string Clementine = FeminineArticle + Space + "clémentine";
+    public const string Coiffure = FeminineArticle + Space + "coiffure";
+    public const string Collier = MasculineArticle + Space + "collier";
 
     #endregion
 
