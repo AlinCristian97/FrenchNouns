@@ -53,6 +53,15 @@ public class Constants
     public const string Annee = FeminineArticle + Space + "année";
     public const string Avenir = MasculineArticle + Space + "avenir";
     public const string Attribut = MasculineArticle + Space + "attribut";
+    public const string Attention = FeminineArticle + Space + "attention";
+    public const string Autoroute = FeminineArticle + Space + "autoroute";
+    public const string Avantage = MasculineArticle + Space + "avantage";
+    public const string Axe = MasculineArticle + Space + "axe";
+    public const string Agence = FeminineArticle + Space + "agence";
+    public const string Agneau = MasculineArticle + Space + "agneau";
+    public const string Aiguille = FeminineArticle + Space + "aiguille";
+    public const string Armure = FeminineArticle + Space + "armure";
+    public const string Ame = FeminineArticle + Space + "âme";
     #endregion
 
     #region "B" Nouns
