@@ -90,6 +90,8 @@ public class Constants
     public const string Cours = MasculineArticle + Space + "cours";
     public const string Chiffre = MasculineArticle + Space + "chiffre";
     public const string Chaussure = FeminineArticle + Space + "chaussure";
+    public const string Colline = FeminineArticle + Space + "colline";
+
     #endregion
 
     #region "D" Nouns
@@ -129,6 +131,7 @@ public class Constants
     public const string Fromage = MasculineArticle + Space + "fromage";
     public const string Fenetre = FeminineArticle + Space + "fenêtre";
     public const string Famille = FeminineArticle + Space + "famille";
+    public const string Foin = MasculineArticle + Space + "foin";
     #endregion
 
     #region "G" Nouns
@@ -264,6 +267,8 @@ public class Constants
     public const string The = MasculineArticle + Space + "thé";
     public const string Train = MasculineArticle + Space + "train";
     public const string Travail = MasculineArticle + Space + "travail";
+    public const string Tour_Feminine = FeminineArticle + Space + "tour";
+    public const string Tour_Masculine = MasculineArticle + Space + "tour";
     #endregion
 
     #region "U" Nouns
