@@ -224,6 +224,7 @@ public class Constants
     public const string Edifice = MasculineArticle + Space + "édifice";
     public const string Effervescence = FeminineArticle + Space + "effervescence";
     public const string Experience = FeminineArticle + Space + "expérience";
+    public const string Equipement = MasculineArticle + Space + "équipement";
 
     #endregion
 
