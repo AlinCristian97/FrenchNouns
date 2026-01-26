@@ -52,6 +52,7 @@ public class Constants
     public const string Artiste = MasculineArticle + Space + "artiste";
     public const string Annee = FeminineArticle + Space + "année";
     public const string Avenir = MasculineArticle + Space + "avenir";
+    public const string Attribut = MasculineArticle + Space + "attribut";
     #endregion
 
     #region "B" Nouns
@@ -68,6 +69,7 @@ public class Constants
     public const string Bus = MasculineArticle + Space + "bus";
     public const string Boue = FeminineArticle + Space + "boue";
     public const string Boite = FeminineArticle + Space + "boîte";
+    public const string Bouton = MasculineArticle + Space + "bouton";
     #endregion
 
     #region "C" Nouns
@@ -152,6 +154,11 @@ public class Constants
     public const string Histoire = FeminineArticle + Space + "histoire";
     public const string Homme = MasculineArticle + Space + "homme";
     public const string Hopital = MasculineArticle + Space + "hôpital";
+    public const string Hotel = MasculineArticle + Space + "hôtel";
+    public const string Hache = FeminineArticle + Space + "hache";
+    public const string Hymne = MasculineArticle + Space + "hymne";
+    public const string Haricot = MasculineArticle + Space + "haricot";
+    public const string Huile = FeminineArticle + Space + "huile";
     #endregion
 
     #region "I" Nouns
@@ -219,6 +226,7 @@ public class Constants
     public const string Organisme = MasculineArticle + Space + "organisme";
     public const string Ordinateur = MasculineArticle + Space + "ordinateur";
     public const string Outil = MasculineArticle + Space + "outil";
+    public const string Objet = MasculineArticle + Space + "objet";
     #endregion
 
     #region "P" Nouns
@@ -259,6 +267,7 @@ public class Constants
     public const string Stylo = MasculineArticle + Space + "stylo";
     public const string Supermarche = MasculineArticle + Space + "supermarché";
     public const string Sac = MasculineArticle + Space + "sac";
+    public const string Souris = FeminineArticle + Space + "souris";
     #endregion
 
     #region "T" Nouns
@@ -270,6 +279,7 @@ public class Constants
     public const string Travail = MasculineArticle + Space + "travail";
     public const string Tour_Feminine = FeminineArticle + Space + "tour";
     public const string Tour_Masculine = MasculineArticle + Space + "tour";
+    public const string Tutoriel = MasculineArticle + Space + "tutoriel";
     #endregion
 
     #region "U" Nouns
