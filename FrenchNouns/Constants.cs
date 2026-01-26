@@ -221,6 +221,8 @@ public class Constants
     public const string Famille = FeminineArticle + Space + "famille";
     public const string Foin = MasculineArticle + Space + "foin";
     public const string Force = FeminineArticle + Space + "force";
+    public const string Fonction = FeminineArticle + Space + "fonction";
+    public const string Fragrance = FeminineArticle + Space + "fragrance";
     #endregion
 
     #region "G" Nouns
