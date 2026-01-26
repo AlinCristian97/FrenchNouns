@@ -485,6 +485,8 @@ public class Constants
     public const string Physique = FeminineArticle + Space + "physique";
     public const string Pianiste = MasculineArticle + Space + "pianiste";
     public const string Perception = FeminineArticle + Space + "perception";
+    public const string Performance = FeminineArticle + Space + "performance";
+    public const string Poitrine = FeminineArticle + Space + "poitrine";
     #endregion
 
     #region "Q" Nouns
