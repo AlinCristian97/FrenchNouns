@@ -374,6 +374,20 @@ public class Constants
     public const string Sac = MasculineArticle + Space + "sac";
     public const string Souris = FeminineArticle + Space + "souris";
     public const string Souvenir = MasculineArticle + Space + "souvenir";
+    public const string Saison = FeminineArticle + Space + "saison";
+    public const string Science = FeminineArticle + Space + "science";
+    public const string Signal = MasculineArticle + Space + "signal";
+    public const string Silence = MasculineArticle + Space + "silence";
+    public const string Situation = FeminineArticle + Space + "situation";
+    public const string Societe = FeminineArticle + Space + "société";
+    public const string Strategie = FeminineArticle + Space + "stratégie";
+    public const string Structure = FeminineArticle + Space + "structure";
+    public const string Symbole = MasculineArticle + Space + "symbole";
+    public const string Systeme = MasculineArticle + Space + "système";
+    public const string Sculpture = FeminineArticle + Space + "sculpture";
+    public const string Saisonniere = FeminineArticle + Space + "saisonnière";
+    public const string Salade = FeminineArticle + Space + "salade";
+    public const string Sort = MasculineArticle + Space + "sort";
     #endregion
 
     #region "T" Nouns
