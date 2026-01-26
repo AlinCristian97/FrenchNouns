@@ -113,6 +113,16 @@ public class Constants
     public const string Danse = FeminineArticle + Space + "danse";
     public const string Dessin = MasculineArticle + Space + "dessin";
     public const string Distance = FeminineArticle + Space + "distance";
+    public const string Dictionnaire = MasculineArticle + Space + "dictionnaire";
+    public const string Direction = FeminineArticle + Space + "direction";
+    public const string Document = MasculineArticle + Space + "document";
+    public const string Doute = MasculineArticle + Space + "doute";
+    public const string Dragon = MasculineArticle + Space + "dragon";
+    public const string Dejeuner = MasculineArticle + Space + "déjeuner";
+    public const string Dessert = MasculineArticle + Space + "dessert";
+    public const string Discipline = FeminineArticle + Space + "discipline";
+    public const string Division = FeminineArticle + Space + "division";
+    public const string Dexterité = FeminineArticle + Space + "dextérité";
     #endregion
 
     #region "E" Nouns
@@ -140,6 +150,7 @@ public class Constants
     public const string Fenetre = FeminineArticle + Space + "fenêtre";
     public const string Famille = FeminineArticle + Space + "famille";
     public const string Foin = MasculineArticle + Space + "foin";
+    public const string Force = FeminineArticle + Space + "force";
     #endregion
 
     #region "G" Nouns
@@ -214,6 +225,35 @@ public class Constants
     public const string Mot = MasculineArticle + Space + "mot";
     public const string Musique = FeminineArticle + Space + "musique";
     public const string Monde = MasculineArticle + Space + "monde";
+    public const string Mur = MasculineArticle + Space + "mur";
+    public const string Mouton = MasculineArticle + Space + "mouton";
+    public const string Message = MasculineArticle + Space + "message";
+    public const string Mode_Masculine = MasculineArticle + Space + "mode";
+    public const string Mode_Feminine = FeminineArticle + Space + "mode";
+    public const string Moment = MasculineArticle + Space + "moment";
+    public const string Mouvement = MasculineArticle + Space + "mouvement";
+    public const string Machine = FeminineArticle + Space + "machine";
+    public const string Mer = FeminineArticle + Space + "mer";
+    public const string Monnaie = FeminineArticle + Space + "monnaie";
+    public const string Musee = MasculineArticle + Space + "musée";
+    public const string Miracle = MasculineArticle + Space + "miracle";
+    public const string Menu = MasculineArticle + Space + "menu";
+    public const string Marathon = MasculineArticle + Space + "marathon";
+    public const string Magasin = MasculineArticle + Space + "magasin";
+    public const string Mariage = MasculineArticle + Space + "mariage";
+    public const string Melodie = FeminineArticle + Space + "mélodie";
+    public const string Moniteur = MasculineArticle + Space + "moniteur";
+    public const string Motif = MasculineArticle + Space + "motif";
+    public const string Mystere = MasculineArticle + Space + "mystère";
+    public const string Mecanique = FeminineArticle + Space + "mécanique";
+    public const string Medaille = FeminineArticle + Space + "médaille";
+    public const string Medecin = MasculineArticle + Space + "médecin";
+    public const string Mesure = FeminineArticle + Space + "mesure";
+    public const string Mission = FeminineArticle + Space + "mission";
+    public const string Modele = MasculineArticle + Space + "modèle";
+    public const string Moral = MasculineArticle + Space + "moral";
+    public const string Motocyclette = FeminineArticle + Space + "motocyclette";
+    public const string Memoire = FeminineArticle + Space + "mémoire";
     #endregion
 
     #region "N" Nouns
@@ -274,6 +314,7 @@ public class Constants
     public const string Supermarche = MasculineArticle + Space + "supermarché";
     public const string Sac = MasculineArticle + Space + "sac";
     public const string Souris = FeminineArticle + Space + "souris";
+    public const string Souvenir = MasculineArticle + Space + "souvenir";
     #endregion
 
     #region "T" Nouns
