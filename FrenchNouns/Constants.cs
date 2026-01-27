@@ -338,6 +338,19 @@ public class Constants
     public const string Lit = MasculineArticle + Space + "lit";
     public const string Livre = MasculineArticle + Space + "livre";
     public const string Lune = FeminineArticle + Space + "lune";
+    public const string Lait = MasculineArticle + Space + "lait";
+    public const string Lieu = MasculineArticle + Space + "lieu";
+    public const string Loi = FeminineArticle + Space + "loi";
+    public const string Laboratoire = MasculineArticle + Space + "laboratoire";
+    public const string Langage = MasculineArticle + Space + "langage";
+    public const string Larcin = MasculineArticle + Space + "larcin";
+    public const string Laverie = FeminineArticle + Space + "laverie";
+    public const string Lecture = FeminineArticle + Space + "lecture";
+    public const string Legende = FeminineArticle + Space + "légende";
+    public const string Limite = FeminineArticle + Space + "limite";
+    public const string Logique = FeminineArticle + Space + "logique";
+    public const string Louange = FeminineArticle + Space + "louange";
+    public const string Luxe = MasculineArticle + Space + "luxe";
     #endregion
 
     #region "M" Nouns
