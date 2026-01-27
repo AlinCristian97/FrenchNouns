@@ -540,6 +540,28 @@ public class Constants
     public const string Roi = MasculineArticle + Space + "roi";
     public const string Rue = FeminineArticle + Space + "rue";
     public const string Raison = FeminineArticle + Space + "raison";
+    public const string Riviere = FeminineArticle + Space + "rivière";
+    public const string Reseau = MasculineArticle + Space + "réseau";
+    public const string Rythme = MasculineArticle + Space + "rythme";
+    public const string Rappel = MasculineArticle + Space + "rappel";
+    public const string Recherche = FeminineArticle + Space + "recherche";
+    public const string Redaction = FeminineArticle + Space + "rédaction";
+    public const string Reference = FeminineArticle + Space + "référence";
+    public const string Region = FeminineArticle + Space + "région";
+    public const string Relation = FeminineArticle + Space + "relation";
+    public const string Religion = FeminineArticle + Space + "religion";
+    public const string Remarque = FeminineArticle + Space + "remarque";
+    public const string Rencontre = FeminineArticle + Space + "rencontre";
+    public const string Reponse = FeminineArticle + Space + "réponse";
+    public const string Ressource = FeminineArticle + Space + "ressource";
+    public const string Retraite = FeminineArticle + Space + "retraite";
+    public const string Revolution = FeminineArticle + Space + "révolution";
+    public const string Rigueur = FeminineArticle + Space + "rigueur";
+    public const string Romance = FeminineArticle + Space + "romance";
+    public const string Ronde = FeminineArticle + Space + "ronde";
+    public const string Ruse = FeminineArticle + Space + "ruse";
+    public const string Restauration = FeminineArticle + Space + "restauration";
+    public const string Retenue = FeminineArticle + Space + "retenue";
     #endregion
 
     #region "S" Nouns
