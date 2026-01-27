@@ -276,6 +276,7 @@ public class Constants
     public const string Fondation = FeminineArticle + Space + "fondation";
     public const string Fraction = FeminineArticle + Space + "fraction";
     public const string Fraicheur = FeminineArticle + Space + "fraîcheur";
+    public const string Frigo = MasculineArticle + Space + "frigo";
     #endregion
 
     #region "G" Nouns
