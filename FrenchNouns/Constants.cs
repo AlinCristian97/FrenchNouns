@@ -659,4 +659,10 @@ public class Constants
     public const string Zone = FeminineArticle + Space + "zone";
     public const string Zoo = MasculineArticle + Space + "zoo";
     #endregion
+
+    #region Plural-only Nouns
+
+    public const string Plural_Gens = "gens";
+
+    #endregion
 }

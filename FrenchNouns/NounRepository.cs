@@ -125,6 +125,10 @@ public static class NounRepository
         Constants.Garage,
         Constants.Gomme,
         Constants.Graine,
+
+        //
+
+        Constants.Plural_Gens,
     };
 
     public static readonly IReadOnlyList<string> H = new[]
@@ -316,6 +320,12 @@ public static class NounRepository
         Constants.Zeste,
         Constants.Zone,
         Constants.Zoo,
+    };
+
+    // used for plural-only nouns like "les gens", to check against and apply custom rules
+    public static readonly IReadOnlyList<string> PluralOnlyNouns = new[]
+    {
+        Constants.Plural_Gens
     };
 
     // Super-list that contains every letter list
