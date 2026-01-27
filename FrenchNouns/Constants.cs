@@ -490,6 +490,17 @@ public class Constants
     public const string Perception = FeminineArticle + Space + "perception";
     public const string Performance = FeminineArticle + Space + "performance";
     public const string Poitrine = FeminineArticle + Space + "poitrine";
+    public const string Politicien = MasculineArticle + Space + "politicien";
+    public const string Politicienne = FeminineArticle + Space + "politicienne";
+    public const string Population = FeminineArticle + Space + "population";
+    public const string Portee = FeminineArticle + Space + "portée";
+    public const string Posterite = FeminineArticle + Space + "postérité";
+    public const string Potentiel = MasculineArticle + Space + "potentiel";
+    public const string Pragmatique = MasculineArticle + Space + "pragmatique";
+    public const string Prestation = FeminineArticle + Space + "prestation";
+    public const string Prevalence = FeminineArticle + Space + "prévalence";
+    public const string Propriete = FeminineArticle + Space + "propriété";
+    public const string Pantalon = MasculineArticle + Space + "pantalon";
     #endregion
 
     #region "Q" Nouns
