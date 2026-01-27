@@ -440,6 +440,10 @@ public class Constants
     public const string Moral = MasculineArticle + Space + "moral";
     public const string Motocyclette = FeminineArticle + Space + "motocyclette";
     public const string Memoire = FeminineArticle + Space + "mémoire";
+    public const string Metropole = FeminineArticle + Space + "métropole";
+    public const string Mobilier = MasculineArticle + Space + "mobilier";
+    public const string Metro = MasculineArticle + Space + "métro";
+    public const string Moralite = FeminineArticle + Space + "moralité";
     #endregion
 
     #region "N" Nouns
