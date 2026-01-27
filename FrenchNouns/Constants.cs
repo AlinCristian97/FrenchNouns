@@ -288,7 +288,7 @@ public class Constants
     public const string Fatalite = FeminineArticle + Space + "fatalité";
     public const string Felicite = FeminineArticle + Space + "félicité";
     public const string Fertilite = FeminineArticle + Space + "fertilité";
-    public const string Fidéelite = FeminineArticle + Space + "fidélité";
+    public const string Fidelite = FeminineArticle + Space + "fidélité";
     public const string Flamme = FeminineArticle + Space + "flamme";
     public const string Flemme = FeminineArticle + Space + "flemme";
     public const string Fete = FeminineArticle + Space + "fête";
