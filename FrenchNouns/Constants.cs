@@ -452,6 +452,7 @@ public class Constants
     public const string Professeur = MasculineArticle + Space + "professeur";
     public const string Pomme = FeminineArticle + Space + "pomme";
     public const string Plage = FeminineArticle + Space + "plage";
+    public const string Place = FeminineArticle + Space + "place";
     public const string Poisson = MasculineArticle + Space + "poisson";
     public const string Poison = MasculineArticle + Space + "poison";
     public const string Papier = MasculineArticle + Space + "papier";
