@@ -178,6 +178,20 @@ public class Constants
     public const string Comedien = MasculineArticle + Space + "comédien";
     public const string Comedienne = FeminineArticle + Space + "comédienne";
     public const string Commerce = MasculineArticle + Space + "commerce";
+    public const string Communauté = FeminineArticle + Space + "communauté";
+    public const string Compagnie = FeminineArticle + Space + "compagnie";
+    public const string Competition = FeminineArticle + Space + "compétition";
+    public const string Comprehension = FeminineArticle + Space + "compréhension";
+    public const string Confiance = FeminineArticle + Space + "confiance";
+    public const string Confusion = FeminineArticle + Space + "confusion";
+    public const string Connexion = FeminineArticle + Space + "connexion";
+    public const string Conscience = FeminineArticle + Space + "conscience";
+    public const string Consommation = FeminineArticle + Space + "consommation";
+    public const string Contemplation = FeminineArticle + Space + "contemplation";
+    public const string Contradiction = FeminineArticle + Space + "contradiction";
+    public const string Convention = FeminineArticle + Space + "convention";
+    public const string Corne = FeminineArticle + Space + "corne";
+    public const string Chaise = FeminineArticle + Space + "chaise";
 
     #endregion
 
