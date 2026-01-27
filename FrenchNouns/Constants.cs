@@ -623,6 +623,15 @@ public class Constants
     public const string Spiritualite = FeminineArticle + Space + "spiritualité";
     public const string Stature = FeminineArticle + Space + "stature";
     public const string Source = FeminineArticle + Space + "source";
+    public const string Subsistance = FeminineArticle + Space + "subsistance";
+    public const string Superficie = FeminineArticle + Space + "superficie";
+    public const string Surveillance = FeminineArticle + Space + "surveillance";
+    public const string Sympathie = FeminineArticle + Space + "sympathie";
+    public const string Synchronisation = FeminineArticle + Space + "synchronisation";
+    public const string Securite = FeminineArticle + Space + "sécurité";
+    public const string Solution = FeminineArticle + Space + "solution";
+    public const string Surface = FeminineArticle + Space + "surface";
+    public const string Sphere = FeminineArticle + Space + "sphère";
     #endregion
 
     #region "T" Nouns
