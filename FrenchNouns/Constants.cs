@@ -81,6 +81,25 @@ public class Constants
     public const string Avocate = FeminineArticle + Space + "avocate";
     public const string Avocat = MasculineArticle + Space + "avocat";
     public const string Air = MasculineArticle + Space + "air";
+    public const string Alcool = MasculineArticle + Space + "alcool";
+    public const string Ameublement = MasculineArticle + Space + "ameublement";
+    public const string Amelioration = FeminineArticle + Space + "amélioration";
+    public const string Amphitheatre = MasculineArticle + Space + "amphithéâtre";
+    public const string Analyseur = MasculineArticle + Space + "analyseur";
+    public const string Ancetre = MasculineArticle + Space + "ancêtre";
+    public const string Angelus = MasculineArticle + Space + "angelus";
+    public const string Angine = FeminineArticle + Space + "angine";
+    public const string Animation = FeminineArticle + Space + "animation";
+    public const string Anonymat = MasculineArticle + Space + "anonymat";
+    public const string Anticipation = FeminineArticle + Space + "anticipation";
+    public const string Antidote = MasculineArticle + Space + "antidote";
+    public const string Apprentissage = MasculineArticle + Space + "apprentissage";
+    public const string Arbitre = MasculineArticle + Space + "arbitre";
+    public const string Arena = FeminineArticle + Space + "arène";
+    public const string Argument = MasculineArticle + Space + "argument";
+    public const string ApresMidi = MasculineArticle + Space + "après-midi";
+    public const string Aromate = MasculineArticle + Space + "aromate";
+    public const string Articulation = FeminineArticle + Space + "articulation";
     #endregion
 
     #region "B" Nouns
