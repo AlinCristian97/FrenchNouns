@@ -629,6 +629,11 @@ public class Constants
     public const string Telepathie = FeminineArticle + Space + "télépathie";
     public const string Teletravail = MasculineArticle + Space + "télétravail";
     public const string Tunique = FeminineArticle + Space + "tunique";
+    public const string Turbulence = FeminineArticle + Space + "turbulence";
+    public const string Tactique = FeminineArticle + Space + "tactique";
+    public const string Terrasse = FeminineArticle + Space + "terrasse";
+    public const string Theatre = MasculineArticle + Space + "théâtre";
+    public const string Tasse = FeminineArticle + Space + "tasse";
     #endregion
 
     #region "U" Nouns
