@@ -157,6 +157,10 @@ public class Constants
     public const string Clementine = FeminineArticle + Space + "clémentine";
     public const string Coiffure = FeminineArticle + Space + "coiffure";
     public const string Collier = MasculineArticle + Space + "collier";
+    public const string Colonne = FeminineArticle + Space + "colonne";
+    public const string Comedien = MasculineArticle + Space + "comédien";
+    public const string Comedienne = FeminineArticle + Space + "comédienne";
+    public const string Commerce = MasculineArticle + Space + "commerce";
 
     #endregion
 
