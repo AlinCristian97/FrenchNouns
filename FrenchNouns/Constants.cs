@@ -98,6 +98,22 @@ public class Constants
     public const string Boue = FeminineArticle + Space + "boue";
     public const string Boite = FeminineArticle + Space + "boîte";
     public const string Bouton = MasculineArticle + Space + "bouton";
+    public const string Boulangerie = FeminineArticle + Space + "boulangerie";
+    public const string Boulot = MasculineArticle + Space + "boulot";
+    public const string Branche = FeminineArticle + Space + "branche";
+    public const string Brique = FeminineArticle + Space + "brique";
+    public const string Bibliotheque = FeminineArticle + Space + "bibliothèque";
+    public const string Boisson = FeminineArticle + Space + "boisson";
+    public const string Batterie = FeminineArticle + Space + "batterie";
+    public const string Beaute = FeminineArticle + Space + "beauté";
+    public const string Bienfait = MasculineArticle + Space + "bienfait";
+    public const string Billet = MasculineArticle + Space + "billet";
+    public const string Bonte = FeminineArticle + Space + "bonté";
+    public const string Boucherie = FeminineArticle + Space + "boucherie";
+    public const string Boutique = FeminineArticle + Space + "boutique";
+    public const string Bricolage = MasculineArticle + Space + "bricolage";
+    public const string Budget = MasculineArticle + Space + "budget";
+    public const string Bureaucratie = FeminineArticle + Space + "bureaucratie";
     #endregion
 
     #region "C" Nouns
