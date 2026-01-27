@@ -155,7 +155,6 @@ public class Constants
     public const string Courrier = MasculineArticle + Space + "courrier";
     public const string Cuisine = FeminineArticle + Space + "cuisine";
     public const string Couture = FeminineArticle + Space + "couture";
-    public const string Cadeaux = MasculineArticle + Space + "cadeaux";
     public const string Capitale = FeminineArticle + Space + "capitale";
     public const string Carriere = FeminineArticle + Space + "carrière";
     public const string Cartouche = FeminineArticle + Space + "cartouche";
@@ -406,6 +405,7 @@ public class Constants
     public const string Main = FeminineArticle + Space + "main";
     public const string Marche = MasculineArticle + Space + "marché";
     public const string Matin = MasculineArticle + Space + "matin";
+    public const string Matinee = FeminineArticle + Space + "matinée";
     public const string Matiere = FeminineArticle + Space + "matière";
     public const string Mere = FeminineArticle + Space + "mère";
     public const string Mot = MasculineArticle + Space + "mot";
@@ -650,6 +650,8 @@ public class Constants
     public const string Solution = FeminineArticle + Space + "solution";
     public const string Surface = FeminineArticle + Space + "surface";
     public const string Sphere = FeminineArticle + Space + "sphère";
+    public const string Soir = MasculineArticle + Space + "soir";
+    public const string Soiree = FeminineArticle + Space + "soirée";
     #endregion
 
     #region "T" Nouns
