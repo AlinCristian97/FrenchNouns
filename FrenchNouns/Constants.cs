@@ -496,6 +496,7 @@ public class Constants
     public const string Pratique = FeminineArticle + Space + "pratique";
     public const string Prison = FeminineArticle + Space + "prison";
     public const string Priorite = FeminineArticle + Space + "priorité";
+    public const string Probleme = MasculineArticle + Space + "problème";
     public const string Plaisir = MasculineArticle + Space + "plaisir";
     public const string Poids = MasculineArticle + Space + "poids";
     public const string Parfum = MasculineArticle + Space + "parfum";
