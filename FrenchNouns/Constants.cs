@@ -142,7 +142,7 @@ public class Constants
     public const string Cadeau = MasculineArticle + Space + "cadeau";
     public const string Carte = FeminineArticle + Space + "carte";
     public const string Couteau = MasculineArticle + Space + "couteau";
-    public const string Cuillère = FeminineArticle + Space + "cuillère";
+    public const string Cuillere = FeminineArticle + Space + "cuillère";
     public const string Culture = FeminineArticle + Space + "culture";
     public const string Chance = FeminineArticle + Space + "chance";
     public const string Cirque = MasculineArticle + Space + "cirque";
@@ -160,7 +160,7 @@ public class Constants
     public const string Carriere = FeminineArticle + Space + "carrière";
     public const string Cartouche = FeminineArticle + Space + "cartouche";
     public const string Caverne = FeminineArticle + Space + "caverne";
-    public const string Celebrité = FeminineArticle + Space + "célébrité";
+    public const string Celebrite = FeminineArticle + Space + "célébrité";
     public const string Centaine = FeminineArticle + Space + "centaine";
     public const string Chaleur = FeminineArticle + Space + "chaleur";
     public const string Chanson = FeminineArticle + Space + "chanson";
@@ -170,7 +170,7 @@ public class Constants
     public const string Circulation = FeminineArticle + Space + "circulation";
     public const string Citation = FeminineArticle + Space + "citation";
     public const string Civilisation = FeminineArticle + Space + "civilisation";
-    public const string Clarté = FeminineArticle + Space + "clarté";
+    public const string Clarte = FeminineArticle + Space + "clarté";
     public const string Clementine = FeminineArticle + Space + "clémentine";
     public const string Coiffure = FeminineArticle + Space + "coiffure";
     public const string Collier = MasculineArticle + Space + "collier";
@@ -178,7 +178,7 @@ public class Constants
     public const string Comedien = MasculineArticle + Space + "comédien";
     public const string Comedienne = FeminineArticle + Space + "comédienne";
     public const string Commerce = MasculineArticle + Space + "commerce";
-    public const string Communauté = FeminineArticle + Space + "communauté";
+    public const string Communaute = FeminineArticle + Space + "communauté";
     public const string Compagnie = FeminineArticle + Space + "compagnie";
     public const string Competition = FeminineArticle + Space + "compétition";
     public const string Comprehension = FeminineArticle + Space + "compréhension";
