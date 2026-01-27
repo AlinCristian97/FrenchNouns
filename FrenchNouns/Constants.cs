@@ -104,6 +104,7 @@ public class Constants
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Chat = MasculineArticle + Space + "chat";
+    public const string Chien = MasculineArticle + Space + "chien";
     public const string Cheval = MasculineArticle + Space + "cheval";
     public const string Chocolat = MasculineArticle + Space + "chocolat";
     public const string Chose = FeminineArticle + Space + "chose";
