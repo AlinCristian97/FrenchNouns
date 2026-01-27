@@ -282,6 +282,17 @@ public class Constants
     public const string Fraction = FeminineArticle + Space + "fraction";
     public const string Fraicheur = FeminineArticle + Space + "fraîcheur";
     public const string Frigo = MasculineArticle + Space + "frigo";
+    public const string Fumee = FeminineArticle + Space + "fumée";
+    public const string Fusion = FeminineArticle + Space + "fusion";
+    public const string Faculté = FeminineArticle + Space + "faculté";
+    public const string Fatalité = FeminineArticle + Space + "fatalité";
+    public const string Félicité = FeminineArticle + Space + "félicité";
+    public const string Fertilité = FeminineArticle + Space + "fertilité";
+    public const string Fidélité = FeminineArticle + Space + "fidélité";
+    public const string Flamme = FeminineArticle + Space + "flamme";
+    public const string Flemme = FeminineArticle + Space + "flemme";
+    public const string Fete = FeminineArticle + Space + "fête";
+    public const string Folie = FeminineArticle + Space + "folie";
     #endregion
 
     #region "G" Nouns
