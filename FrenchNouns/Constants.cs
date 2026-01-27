@@ -114,6 +114,7 @@ public class Constants
     public const string Ciel = MasculineArticle + Space + "ciel";
     public const string Colere = FeminineArticle + Space + "colère";
     public const string Concours = MasculineArticle + Space + "concours";
+    public const string Concert = MasculineArticle + Space + "concert";
     public const string Chanteur = MasculineArticle + Space + "chanteur";
     public const string Chanteuse = FeminineArticle + Space + "chanteuse";
     public const string Chemise = FeminineArticle + Space + "chemise";
