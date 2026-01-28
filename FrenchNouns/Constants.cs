@@ -41,6 +41,7 @@ public class Constants
 
     #region "A" Nouns
     public const string Aide = FeminineArticle + Space + "aide";
+    public const string An = MasculineArticle + Space + "an";
     public const string Ami = MasculineArticle + Space + "ami";
     public const string Application = FeminineArticle + Space + "application";
     public const string Agilite = FeminineArticle + Space + "agilité";
@@ -115,6 +116,7 @@ public class Constants
 
     #region "B" Nouns
     public const string Banane = FeminineArticle + Space + "banane";
+    public const string Besoin = MasculineArticle + Space + "besoin";
     public const string Banque = FeminineArticle + Space + "banque";
     public const string Bateau = MasculineArticle + Space + "bateau";
     public const string Bebe = MasculineArticle + Space + "bébé";
@@ -149,7 +151,9 @@ public class Constants
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Chambre = FeminineArticle + Space + "chambre";
+    public const string Cafard = MasculineArticle + Space + "cafard";
     public const string Chaton = MasculineArticle + Space + "chaton";
+    public const string Chaud = MasculineArticle + Space + "chaud";
     public const string Chansonnette = FeminineArticle + Space + "chansonnette";
     public const string Coin = MasculineArticle + Space + "coin";
     public const string Cote = MasculineArticle + Space + "côté";
@@ -295,6 +299,12 @@ public class Constants
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Ecole = FeminineArticle + Space + "école";
     public const string Enfant = MasculineArticle + Space + "enfant";
+    public const string Ecran = MasculineArticle + Space + "écran";
+    public const string Effaceur = MasculineArticle + Space + "effaceur";
+    public const string Eleve = MasculineArticle + Space + "élève";
+    public const string Eleveur = MasculineArticle + Space + "éleveur";
+    public const string Eleveuse = FeminineArticle + Space + "éleveuse";
+    public const string Envie = FeminineArticle + Space + "envie";
     public const string Espece = FeminineArticle + Space + "espèce";
     public const string Etoile = FeminineArticle + Space + "étoile";
     public const string Expression = FeminineArticle + Space + "expression";
@@ -370,6 +380,8 @@ public class Constants
     #region "F" Nouns
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Femme = FeminineArticle + Space + "femme";
+    public const string Faim = FeminineArticle + Space + "faim";
+    public const string Froid = MasculineArticle + Space + "froid";
     public const string Fille = FeminineArticle + Space + "fille";
     public const string Film = MasculineArticle + Space + "film";
     public const string Foret = FeminineArticle + Space + "forêt";
@@ -417,6 +429,7 @@ public class Constants
     #region "H" Nouns
     public const string Herbe = FeminineArticle + Space + "herbe";
     public const string Heure = FeminineArticle + Space + "heure";
+    public const string Honte = FeminineArticle + Space + "honte";
     public const string Histoire = FeminineArticle + Space + "histoire";
     public const string Homme = MasculineArticle + Space + "homme";
     public const string Hopital = MasculineArticle + Space + "hôpital";
@@ -521,6 +534,7 @@ public class Constants
     public const string Marcheuse = FeminineArticle + Space + "marcheuse";
     public const string Magie = FeminineArticle + Space + "magie";
     public const string Maladie = FeminineArticle + Space + "maladie";
+    public const string Mal = MasculineArticle + Space + "mal";
     public const string Mari = MasculineArticle + Space + "mari";
     public const string Mars = MasculineArticle + Space + "mars";
     public const string Miel = MasculineArticle + Space + "miel";
@@ -638,9 +652,11 @@ public class Constants
 
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
+    public const string Peur = FeminineArticle + Space + "peur";
     public const string Parc = MasculineArticle + Space + "parc";
     public const string Paysage = MasculineArticle + Space + "paysage";
     public const string Ponton = MasculineArticle + Space + "ponton";
+    public const string Peche = FeminineArticle + Space + "pêche";
     public const string Printemps = MasculineArticle + Space + "printemps";
     public const string Pere = MasculineArticle + Space + "père";
     public const string Personne = FeminineArticle + Space + "personne";
@@ -768,6 +784,8 @@ public class Constants
     public const string Soeur = FeminineArticle + Space + "soeur";
     public const string Soleil = MasculineArticle + Space + "soleil";
     public const string Sport = MasculineArticle + Space + "sport";
+    public const string Soif = FeminineArticle + Space + "soif";
+    public const string Sommeil = MasculineArticle + Space + "sommeil";
     public const string Stylo = MasculineArticle + Space + "stylo";
     public const string Supermarche = MasculineArticle + Space + "supermarché";
     public const string Sac = MasculineArticle + Space + "sac";
@@ -810,6 +828,7 @@ public class Constants
 
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
+    public const string Tort = MasculineArticle + Space + "tort";
     public const string Television = FeminineArticle + Space + "télévision";
     public const string Temps = MasculineArticle + Space + "temps";
     public const string The = MasculineArticle + Space + "thé";
