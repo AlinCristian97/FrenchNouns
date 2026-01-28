@@ -931,6 +931,9 @@ public class Constants
     public const string Usage = MasculineArticle + Space + "usage";
     public const string Urgence = FeminineArticle + Space + "urgence";
     public const string Usine = FeminineArticle + Space + "usine";
+    public const string Utilisation = FeminineArticle + Space + "utilisation";
+    public const string Utilite = FeminineArticle + Space + "utilité";
+    public const string Ustensile = MasculineArticle + Space + "ustensile";
     #endregion
 
     #region "V" Nouns
