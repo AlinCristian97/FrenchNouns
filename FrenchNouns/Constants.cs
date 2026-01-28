@@ -42,6 +42,7 @@ public class Constants
     #region "A" Nouns
     public const string Aide = FeminineArticle + Space + "aide";
     public const string An = MasculineArticle + Space + "an";
+    public const string Administration = FeminineArticle + Space + "administration";
     public const string Ami = MasculineArticle + Space + "ami";
     public const string Application = FeminineArticle + Space + "application";
     public const string Agilite = FeminineArticle + Space + "agilité";
@@ -298,6 +299,7 @@ public class Constants
     #region "E" Nouns
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Ecole = FeminineArticle + Space + "école";
+    public const string Enquete = FeminineArticle + Space + "enquête";
     public const string Enfant = MasculineArticle + Space + "enfant";
     public const string Ecran = MasculineArticle + Space + "écran";
     public const string Effaceur = MasculineArticle + Space + "effaceur";
@@ -460,6 +462,7 @@ public class Constants
     #region "I" Nouns
     public const string Idee = FeminineArticle + Space + "idée";
     public const string Image = FeminineArticle + Space + "image";
+    public const string Investigation = FeminineArticle + Space + "investigation";
     public const string Information = FeminineArticle + Space + "information";
     public const string Ile = FeminineArticle + Space + "île";
     public const string Insecte = MasculineArticle + Space + "insecte";
