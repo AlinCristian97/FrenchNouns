@@ -335,6 +335,7 @@ public class Constants
     #region "E" Nouns
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Ecole = FeminineArticle + Space + "école";
+    public const string Excuse = FeminineArticle + Space + "excuse";
     public const string Enquete = FeminineArticle + Space + "enquête";
     public const string Enfant = MasculineArticle + Space + "enfant";
     public const string Ecran = MasculineArticle + Space + "écran";
@@ -894,6 +895,7 @@ public class Constants
 
     #region "S" Nouns
     public const string Salle = FeminineArticle + Space + "salle";
+    public const string Salon = MasculineArticle + Space + "salon";
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Surprise = FeminineArticle + Space + "surprise";
     public const string Serveur = MasculineArticle + Space + "serveur";
