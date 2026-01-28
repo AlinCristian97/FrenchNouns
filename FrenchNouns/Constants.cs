@@ -141,6 +141,8 @@ public class Constants
     public const string Bebe = MasculineArticle + Space + "bébé";
     public const string Bruit = MasculineArticle + Space + "bruit";
     public const string Bureau = MasculineArticle + Space + "bureau";
+    public const string Bonheur = MasculineArticle + Space + "bonheur";
+    public const string Bouteille = FeminineArticle+ Space + "bouteille";
     public const string Bijou = MasculineArticle + Space + "bijou";
     public const string Blouse = FeminineArticle + Space + "blouse";
     public const string Bougie = FeminineArticle + Space + "bougie";
