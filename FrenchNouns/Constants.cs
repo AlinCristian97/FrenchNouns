@@ -595,6 +595,7 @@ public class Constants
     public const string Plateau = MasculineArticle + Space + "plateau";
     public const string Poeme = MasculineArticle + Space + "poème";
     public const string Potage = MasculineArticle + Space + "potage";
+    public const string Pot = MasculineArticle + Space + "pot";
     public const string Premier = MasculineArticle + Space + "premier";
     public const string Premiere = FeminineArticle + Space + "première";
     public const string Privee = FeminineArticle + Space + "privée";
