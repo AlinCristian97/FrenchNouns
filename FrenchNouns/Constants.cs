@@ -984,5 +984,8 @@ public class Constants
     // S
     public const string Plural_Soldes = "soldes";
 
+    // T
+    public const string Plural_Toilettes = "toilettes";
+
     #endregion
 }

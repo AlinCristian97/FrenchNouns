@@ -273,6 +273,10 @@ public static class NounRepository
         Constants.The,
         Constants.Train,
         Constants.Travail,
+
+        //
+
+        Constants.Plural_Toilettes
     };
 
     public static readonly IReadOnlyList<string> U = new[]
@@ -340,7 +344,10 @@ public static class NounRepository
         Constants.Plural_Frais,
 
         // S
-        Constants.Plural_Soldes
+        Constants.Plural_Soldes,
+
+        // T
+        Constants.Plural_Toilettes
     };
 
     // Super-list that contains every letter list
