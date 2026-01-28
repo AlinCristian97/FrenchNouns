@@ -441,6 +441,34 @@ public class Constants
 
     #region "G" Nouns
     public const string Gare = FeminineArticle + Space + "gare";
+    public const string Gazon = MasculineArticle + Space + "gazon";
+    public const string Guitariste = MasculineArticle + Space + "guitariste";
+    public const string Galerie = FeminineArticle + Space + "galerie";
+    public const string Garantie = FeminineArticle + Space + "garantie";
+    public const string Genealogie = FeminineArticle + Space + "généalogie";
+    public const string Generosite = FeminineArticle + Space + "générosité";
+    public const string Geographie = FeminineArticle + Space + "géographie";
+    public const string Geologie = FeminineArticle + Space + "géologie";
+    public const string Gerbe = FeminineArticle + Space + "gerbe";
+    public const string Gigot = MasculineArticle + Space + "gigot";
+    public const string Girafe = FeminineArticle + Space + "girafe";
+    public const string Gloire = FeminineArticle + Space + "gloire";
+    public const string Gouvernance = FeminineArticle + Space + "gouvernance";
+    public const string Gouvernement = MasculineArticle + Space + "gouvernement";
+    public const string Grammaire = FeminineArticle + Space + "grammaire";
+    public const string GrandMere = FeminineArticle + Space + "grand-mère";
+    public const string GrandPere = MasculineArticle + Space + "grand-père";
+    public const string Grenouille = FeminineArticle + Space + "grenouille";
+    public const string Grille = FeminineArticle + Space + "grille";
+    public const string Grotte = FeminineArticle + Space + "grotte";
+    public const string Guerre = FeminineArticle + Space + "guerre";
+    public const string Guide = MasculineArticle + Space + "guide";
+    public const string Gadget = MasculineArticle + Space + "gadget";
+    public const string Galaxie = FeminineArticle + Space + "galaxie";
+    public const string Galette = FeminineArticle + Space + "galette";
+    public const string Gambade = FeminineArticle + Space + "gambade";
+    public const string Garde_Masculine = MasculineArticle + Space + "garde";
+    public const string Garde_Feminine = FeminineArticle + Space + "garde";
     public const string Garcon = MasculineArticle + Space + "garçon";
     public const string Gateau = MasculineArticle + Space + "gâteau";
     public const string Glace = FeminineArticle + Space + "glace";
@@ -917,8 +945,8 @@ public class Constants
     public const string The = MasculineArticle + Space + "thé";
     public const string Train = MasculineArticle + Space + "train";
     public const string Travail = MasculineArticle + Space + "travail";
-    public const string Tour_Feminine = FeminineArticle + Space + "tour";
     public const string Tour_Masculine = MasculineArticle + Space + "tour";
+    public const string Tour_Feminine = FeminineArticle + Space + "tour";
     public const string Tutoriel = MasculineArticle + Space + "tutoriel";
     public const string Troupeau = MasculineArticle + Space + "troupeau";
     public const string Tradition = FeminineArticle + Space + "tradition";
