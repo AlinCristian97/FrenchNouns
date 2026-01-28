@@ -692,7 +692,8 @@ public class Constants
     public const string Ruse = FeminineArticle + Space + "ruse";
     public const string Restauration = FeminineArticle + Space + "restauration";
     public const string Retenue = FeminineArticle + Space + "retenue";
-    public const string Record = FeminineArticle + Space + "record";
+    public const string Record = MasculineArticle + Space + "record";
+    public const string Releve = MasculineArticle + Space + "relevé";
 
     #endregion
 
