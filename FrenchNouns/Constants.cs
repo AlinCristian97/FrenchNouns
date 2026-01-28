@@ -158,6 +158,8 @@ public class Constants
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
     public const string Cafard = MasculineArticle + Space + "cafard";
+    public const string Chateau = MasculineArticle + Space + "château";
+    public const string Campement = MasculineArticle + Space + "campement";
     public const string Chaton = MasculineArticle + Space + "chaton";
     public const string Chaud = MasculineArticle + Space + "chaud";
     public const string Chansonnette = FeminineArticle + Space + "chansonnette";
