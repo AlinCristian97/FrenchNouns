@@ -511,6 +511,14 @@ public class Constants
     public const string Jupe = FeminineArticle + Space + "jupe";
     public const string Juillet = MasculineArticle + Space + "juillet";
     public const string Janvier = MasculineArticle + Space + "janvier";
+    public const string Jeu = MasculineArticle + Space + "jeu";
+    public const string Jardinier = MasculineArticle + Space + "jardinier";
+    public const string Jardiniere = FeminineArticle + Space + "jardinière";
+    public const string Jeune = MasculineArticle + Space + "jeune";
+    public const string Jeunesse = FeminineArticle + Space + "jeunesse";
+    public const string Joystick = MasculineArticle + Space + "joystick";
+    public const string Journaliste = MasculineArticle + Space + "journaliste";
+    public const string Jus = MasculineArticle + Space + "jus";
     public const string Juin = MasculineArticle + Space + "juin";
     public const string Jambon = MasculineArticle + Space + "jambon";
     public const string Jeton = MasculineArticle + Space + "jeton";
