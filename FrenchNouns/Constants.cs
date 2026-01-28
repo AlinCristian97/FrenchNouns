@@ -301,6 +301,7 @@ public class Constants
     #region "D" Nouns
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dent = FeminineArticle + Space + "dent";
+    public const string Diner = MasculineArticle + Space + "dîner";
     public const string Destination = FeminineArticle + Space + "destination";
     public const string Devoir = MasculineArticle + Space + "devoir";
     public const string Dimanche = MasculineArticle + Space + "dimanche";
@@ -679,7 +680,6 @@ public class Constants
     public const string Mystere = MasculineArticle + Space + "mystère";
     public const string Mecanique = FeminineArticle + Space + "mécanique";
     public const string Medaille = FeminineArticle + Space + "médaille";
-    public const string Medecin = MasculineArticle + Space + "médecin";
     public const string Mesure = FeminineArticle + Space + "mesure";
     public const string Mission = FeminineArticle + Space + "mission";
     public const string Modele = MasculineArticle + Space + "modèle";
@@ -905,6 +905,7 @@ public class Constants
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Salon = MasculineArticle + Space + "salon";
     public const string Semaine = FeminineArticle + Space + "semaine";
+    public const string Skateboard = MasculineArticle + Space + "skateboard";
     public const string Surprise = FeminineArticle + Space + "surprise";
     public const string Serveur = MasculineArticle + Space + "serveur";
     public const string Sable = MasculineArticle + Space + "sable";
