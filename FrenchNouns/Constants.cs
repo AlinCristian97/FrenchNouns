@@ -1027,5 +1027,8 @@ public class Constants
     // T
     public const string Plural_Toilettes = "toilettes";
 
+    // V
+    public const string Plural_Vacances = "vacances";
+
     #endregion
 }

@@ -297,6 +297,10 @@ public static class NounRepository
         Constants.Voyelle,
         Constants.Viande,
         Constants.Visage,
+
+        //
+
+        Constants.Plural_Vacances
     };
 
     public static readonly IReadOnlyList<string> W = new[]
@@ -347,7 +351,10 @@ public static class NounRepository
         Constants.Plural_Soldes,
 
         // T
-        Constants.Plural_Toilettes
+        Constants.Plural_Toilettes,
+
+        // V
+        Constants.Plural_Vacances,
     };
 
     // Super-list that contains every letter list
