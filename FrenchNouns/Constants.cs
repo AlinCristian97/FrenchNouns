@@ -836,7 +836,11 @@ public class Constants
 
     #region Plural-only Nouns
 
+    // G
     public const string Plural_Gens = "gens";
+
+    // F
+    public const string Plural_Frais = "frais";
 
     #endregion
 }

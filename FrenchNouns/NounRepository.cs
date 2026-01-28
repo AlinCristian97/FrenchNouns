@@ -112,6 +112,10 @@ public static class NounRepository
         Constants.Fleur,
         Constants.Fromage,
         Constants.Fenetre,
+
+        //
+
+        Constants.Plural_Frais
     };
 
     public static readonly IReadOnlyList<string> G = new[]
@@ -325,7 +329,11 @@ public static class NounRepository
     // used for plural-only nouns like "les gens", to check against and apply custom rules
     public static readonly IReadOnlyList<string> PluralOnlyNouns = new[]
     {
-        Constants.Plural_Gens
+        // G
+        Constants.Plural_Gens,
+
+        // F
+        Constants.Plural_Frais
     };
 
     // Super-list that contains every letter list
