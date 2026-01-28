@@ -772,6 +772,7 @@ public class Constants
     #region "R" Nouns
     public const string Restaurant = MasculineArticle + Space + "restaurant";
     public const string Reve = MasculineArticle + Space + "rêve";
+    public const string Risque = MasculineArticle + Space + "risque";
     public const string Rapport = MasculineArticle + Space + "rapport";
     public const string Robe = FeminineArticle + Space + "robe";
     public const string Roi = MasculineArticle + Space + "roi";
