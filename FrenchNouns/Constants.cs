@@ -692,6 +692,7 @@ public class Constants
     public const string Peur = FeminineArticle + Space + "peur";
     public const string Premier = MasculineArticle + Space + "premier";
     public const string Premiere = FeminineArticle + Space + "première";
+    public const string Palais = MasculineArticle + Space + "palais";
     public const string Parc = MasculineArticle + Space + "parc";
     public const string Paysage = MasculineArticle + Space + "paysage";
     public const string Ponton = MasculineArticle + Space + "ponton";
