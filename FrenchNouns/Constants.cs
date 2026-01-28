@@ -446,6 +446,7 @@ public class Constants
     #region "H" Nouns
     public const string Herbe = FeminineArticle + Space + "herbe";
     public const string Heure = FeminineArticle + Space + "heure";
+    public const string Hate = FeminineArticle + Space + "hâte";
     public const string Honte = FeminineArticle + Space + "honte";
     public const string Histoire = FeminineArticle + Space + "histoire";
     public const string Homme = MasculineArticle + Space + "homme";
