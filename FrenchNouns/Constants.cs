@@ -486,6 +486,7 @@ public class Constants
     public const string Monnaie = FeminineArticle + Space + "monnaie";
     public const string Montagne = FeminineArticle + Space + "montagne";
     public const string Maitresse = FeminineArticle + Space + "maîtresse";
+    public const string Maitre = FeminineArticle + Space + "maître";
     public const string Musee = MasculineArticle + Space + "musée";
     public const string Miracle = MasculineArticle + Space + "miracle";
     public const string Menu = MasculineArticle + Space + "menu";
