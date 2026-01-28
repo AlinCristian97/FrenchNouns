@@ -759,6 +759,8 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
+    public const string Preposition = FeminineArticle + Space + "préposition";
+    public const string Proposition = FeminineArticle + Space + "proposition";
     public const string Pharmacie = FeminineArticle + Space + "pharmacie";
     public const string Plumeau = MasculineArticle + Space + "plumeau";
     public const string Poele_Masculine = MasculineArticle + Space + "poêle";
