@@ -398,6 +398,19 @@ public class Constants
     public const string Hymne = MasculineArticle + Space + "hymne";
     public const string Haricot = MasculineArticle + Space + "haricot";
     public const string Huile = FeminineArticle + Space + "huile";
+    public const string Harmonie = FeminineArticle + Space + "harmonie";
+    public const string Honnetete = FeminineArticle + Space + "honnêteté";
+    public const string Hospitalite = FeminineArticle + Space + "hospitalité";
+    public const string Hypothese = FeminineArticle + Space + "hypothèse";
+    public const string Humeur = FeminineArticle + Space + "humeur";
+    public const string Hutte = FeminineArticle + Space + "hutte";
+    public const string Handicap = MasculineArticle + Space + "handicap";
+    public const string Hangar = MasculineArticle + Space + "hangar";
+    public const string Harpe = FeminineArticle + Space + "harpe";
+    public const string Hauteur = FeminineArticle + Space + "hauteur";
+    public const string Hibernation = FeminineArticle + Space + "hibernation";
+    public const string Hierarchie = FeminineArticle + Space + "hiérarchie";
+    public const string Horloge = FeminineArticle + Space + "horloge";
     #endregion
 
     #region "I" Nouns
