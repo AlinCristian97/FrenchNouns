@@ -562,6 +562,7 @@ public class Constants
     public const string Mari = MasculineArticle + Space + "mari";
     public const string Mars = MasculineArticle + Space + "mars";
     public const string Miel = MasculineArticle + Space + "miel";
+    public const string Mort = MasculineArticle + Space + "mort";
     public const string Melon = MasculineArticle + Space + "melon";
     public const string Mecanicien = MasculineArticle + Space + "mécanicien";
     public const string Mecanicienne = FeminineArticle + Space + "mécanicienne";
@@ -722,8 +723,6 @@ public class Constants
     public const string Poeme = MasculineArticle + Space + "poème";
     public const string Potage = MasculineArticle + Space + "potage";
     public const string Pot = MasculineArticle + Space + "pot";
-    public const string Premier = MasculineArticle + Space + "premier";
-    public const string Premiere = FeminineArticle + Space + "première";
     public const string Privee = FeminineArticle + Space + "privée";
     public const string Procedure = FeminineArticle + Space + "procédure";
     public const string Promenade = FeminineArticle + Space + "promenade";
