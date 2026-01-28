@@ -1021,6 +1021,7 @@ public class Constants
     #region "V" Nouns
     public const string Verre = MasculineArticle + Space + "verre";
     public const string Vent = MasculineArticle + Space + "vent";
+    public const string Version = FeminineArticle + Space + "version";
     public const string Ville = FeminineArticle + Space + "ville";
     public const string Voix = FeminineArticle + Space + "voix";
     public const string Vache = FeminineArticle + Space + "vache";
