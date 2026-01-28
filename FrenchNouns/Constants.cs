@@ -622,6 +622,7 @@ public class Constants
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
     public const string Main = FeminineArticle + Space + "main";
+    public const string Morceau = MasculineArticle + Space + "morceau";
     public const string Metier = MasculineArticle + Space + "métier";
     public const string Medecin = MasculineArticle + Space + "médecin";
     public const string Mercredi = MasculineArticle + Space + "mercredi";
@@ -795,6 +796,8 @@ public class Constants
     public const string Politique = FeminineArticle + Space + "politique";
     public const string Pont = MasculineArticle + Space + "pont";
     public const string Presse = FeminineArticle + Space + "presse";
+    public const string Plante = FeminineArticle + Space + "plante";
+    public const string Piece = FeminineArticle + Space + "pièce";
     public const string Princesse = FeminineArticle + Space + "princesse";
     public const string Programme = MasculineArticle + Space + "programme";
     public const string Projet = MasculineArticle + Space + "projet";
