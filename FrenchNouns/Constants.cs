@@ -173,6 +173,8 @@ public class Constants
     public const string Ciel = MasculineArticle + Space + "ciel";
     public const string Colere = FeminineArticle + Space + "colère";
     public const string Concours = MasculineArticle + Space + "concours";
+    public const string Cousin = MasculineArticle + Space + "cousin";
+    public const string Coussin = MasculineArticle + Space + "coussin";
     public const string Concert = MasculineArticle + Space + "concert";
     public const string Chanteur = MasculineArticle + Space + "chanteur";
     public const string Chanteuse = FeminineArticle + Space + "chanteuse";
@@ -285,6 +287,7 @@ public class Constants
     public const string Dragon = MasculineArticle + Space + "dragon";
     public const string Dejeuner = MasculineArticle + Space + "déjeuner";
     public const string Dessert = MasculineArticle + Space + "dessert";
+    public const string Desert = MasculineArticle + Space + "désert";
     public const string Discipline = FeminineArticle + Space + "discipline";
     public const string Division = FeminineArticle + Space + "division";
     public const string Domination = FeminineArticle + Space + "domination";
@@ -660,6 +663,7 @@ public class Constants
     public const string Oiseau = MasculineArticle + Space + "oiseau";
     public const string Orange = FeminineArticle + Space + "orange";
     public const string Organisme = MasculineArticle + Space + "organisme";
+    public const string Oreiller = MasculineArticle + Space + "oreiller";
     public const string Ordinateur = MasculineArticle + Space + "ordinateur";
     public const string Outil = MasculineArticle + Space + "outil";
     public const string Objet = MasculineArticle + Space + "objet";
