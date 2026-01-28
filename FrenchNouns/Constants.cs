@@ -677,7 +677,8 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
-
+    public const string Premier = MasculineArticle + Space + "premier";
+    public const string Premiere = FeminineArticle + Space + "première";
     public const string Parc = MasculineArticle + Space + "parc";
     public const string Paysage = MasculineArticle + Space + "paysage";
     public const string Ponton = MasculineArticle + Space + "ponton";
@@ -772,6 +773,7 @@ public class Constants
     #region "R" Nouns
     public const string Restaurant = MasculineArticle + Space + "restaurant";
     public const string Reve = MasculineArticle + Space + "rêve";
+    public const string Rapport = MasculineArticle + Space + "rapport";
     public const string Robe = FeminineArticle + Space + "robe";
     public const string Roi = MasculineArticle + Space + "roi";
     public const string Rue = FeminineArticle + Space + "rue";
