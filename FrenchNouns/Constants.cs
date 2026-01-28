@@ -690,6 +690,7 @@ public class Constants
     public const string Toxicite = FeminineArticle + Space + "toxicité";
     public const string Tension = FeminineArticle + Space + "tension";
     public const string Telecommunication = FeminineArticle + Space + "télécommunication";
+    public const string Telephone = MasculineArticle + Space + "téléphone";
     public const string Telepathie = FeminineArticle + Space + "télépathie";
     public const string Teletravail = MasculineArticle + Space + "télétravail";
     public const string Tunique = FeminineArticle + Space + "tunique";
