@@ -282,6 +282,7 @@ public class Constants
     public const string Docteur = MasculineArticle + Space + "docteur";
     public const string Douleur = FeminineArticle + Space + "douleur";
     public const string Drapeau = MasculineArticle + Space + "drapeau";
+    public const string Donnee = FeminineArticle + Space + "donnée";
     public const string Danse = FeminineArticle + Space + "danse";
     public const string Dessin = MasculineArticle + Space + "dessin";
     public const string Distance = FeminineArticle + Space + "distance";
@@ -709,6 +710,7 @@ public class Constants
     public const string Place = FeminineArticle + Space + "place";
     public const string Poisson = MasculineArticle + Space + "poisson";
     public const string Poison = MasculineArticle + Space + "poison";
+    public const string Pizza = FeminineArticle + Space + "pizza";
     public const string Papier = MasculineArticle + Space + "papier";
     public const string Pays = MasculineArticle + Space + "pays";
     public const string Peinture = FeminineArticle + Space + "peinture";
@@ -911,6 +913,11 @@ public class Constants
     public const string Verre = MasculineArticle + Space + "verre";
     public const string Vent = MasculineArticle + Space + "vent";
     public const string Ville = FeminineArticle + Space + "ville";
+    public const string Voix = FeminineArticle + Space + "voix";
+    public const string Vache = FeminineArticle + Space + "vache";
+    public const string Vêtement = MasculineArticle + Space + "vêtement";
+    public const string Villageois = MasculineArticle + Space + "villageois";
+    public const string Vote = MasculineArticle + Space + "vote";
     public const string Voiture = FeminineArticle + Space + "voiture";
     public const string Voyelle = FeminineArticle + Space + "voyelle";
     public const string Viande = FeminineArticle + Space + "viande";
