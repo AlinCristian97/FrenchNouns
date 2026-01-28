@@ -44,6 +44,7 @@ public class Constants
     public const string Addition = FeminineArticle + Space + "addition";
     public const string Amitié = FeminineArticle + Space + "amitié";
     public const string An = MasculineArticle + Space + "an";
+    public const string Annee = FeminineArticle + Space + "année";
     public const string Accident = MasculineArticle + Space + "accident";
     public const string Association = FeminineArticle + Space + "association";
     public const string Administration = FeminineArticle + Space + "administration";
