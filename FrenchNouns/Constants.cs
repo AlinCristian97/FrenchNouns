@@ -549,7 +549,9 @@ public class Constants
     public const string Niveau = MasculineArticle + Space + "niveau";
     public const string Nausee = FeminineArticle + Space + "nausée";
     public const string Nebuleuse = FeminineArticle + Space + "nébuleuse";
-    
+    public const string Necessite = FeminineArticle + Space + "nécessité";
+    public const string Notification = FeminineArticle + Space + "notification";
+
     #endregion
 
     #region "O" Nouns
