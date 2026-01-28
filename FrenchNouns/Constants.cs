@@ -125,6 +125,16 @@ public class Constants
     public const string Banane = FeminineArticle + Space + "banane";
     public const string Bois = MasculineArticle + Space + "bois";
     public const string Biere = FeminineArticle + Space + "bière";
+    public const string Boucle = FeminineArticle + Space + "boucle";
+    public const string Boeuf = MasculineArticle + Space + "bœuf";
+    public const string Boulanger = MasculineArticle + Space + "boulanger";
+    public const string Bague = FeminineArticle + Space + "bague";
+    public const string Ballade = FeminineArticle + Space + "ballade";
+    public const string Balcon = MasculineArticle + Space + "balcon";
+    public const string banquier = MasculineArticle + Space + "banquier";
+    public const string Barbecue = MasculineArticle + Space + "barbecue";
+    public const string Barman = MasculineArticle + Space + "barman";
+    public const string Baguette = FeminineArticle + Space + "baguette";
     public const string Besoin = MasculineArticle + Space + "besoin";
     public const string Banque = FeminineArticle + Space + "banque";
     public const string Bateau = MasculineArticle + Space + "bateau";
@@ -163,6 +173,7 @@ public class Constants
     public const string Commentaire = MasculineArticle + Space + "commentaire";
     public const string Critique = FeminineArticle + Space + "critique";
     public const string Competence = FeminineArticle + Space + "compétence";
+    public const string Croissant = MasculineArticle + Space + "croissant";
     public const string Conversation = FeminineArticle + Space + "conversation";
     public const string Courage = MasculineArticle + Space + "courage";
     public const string Continuation = FeminineArticle + Space + "continuation";
@@ -739,6 +750,7 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
+    public const string Pret = MasculineArticle + Space + "prêt";
     public const string Parent = MasculineArticle + Space + "parent";
     public const string Passeport = MasculineArticle + Space + "passeport";
     public const string Premier = MasculineArticle + Space + "premier";
