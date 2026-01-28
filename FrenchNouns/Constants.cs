@@ -911,6 +911,9 @@ public class Constants
     #region "S" Nouns
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Salon = MasculineArticle + Space + "salon";
+    public const string Somme = FeminineArticle + Space + "somme";
+    public const string Stylet = MasculineArticle + Space + "stylet";
+    public const string Succes = MasculineArticle + Space + "succès";
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Skateboard = MasculineArticle + Space + "skateboard";
     public const string Surprise = FeminineArticle + Space + "surprise";
