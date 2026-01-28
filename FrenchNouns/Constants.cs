@@ -846,6 +846,7 @@ public class Constants
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Surprise = FeminineArticle + Space + "surprise";
     public const string Soeur = FeminineArticle + Space + "soeur";
+    public const string Son = MasculineArticle + Space + "son";
     public const string Soleil = MasculineArticle + Space + "soleil";
     public const string Sport = MasculineArticle + Space + "sport";
     public const string Soif = FeminineArticle + Space + "soif";
