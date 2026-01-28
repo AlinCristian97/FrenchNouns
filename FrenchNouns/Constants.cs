@@ -1030,6 +1030,7 @@ public class Constants
     public const string Vestige = MasculineArticle + Space + "vestige";
     public const string Vibration = FeminineArticle + Space + "vibration";
     public const string Vente = FeminineArticle + Space + "vente";
+    public const string Vin = MasculineArticle + Space + "vin";
     #endregion
 
     #region "W" Nouns
