@@ -173,6 +173,7 @@ public class Constants
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
+    public const string Crabe = MasculineArticle + Space + "crabe";
     public const string Critique = FeminineArticle + Space + "critique";
     public const string Competence = FeminineArticle + Space + "compétence";
     public const string Croissant = MasculineArticle + Space + "croissant";
@@ -893,6 +894,7 @@ public class Constants
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Surprise = FeminineArticle + Space + "surprise";
+    public const string Sable = MasculineArticle + Space + "sable";
     public const string Soeur = FeminineArticle + Space + "soeur";
     public const string Son = MasculineArticle + Space + "son";
     public const string Soleil = MasculineArticle + Space + "soleil";
@@ -1004,6 +1006,19 @@ public class Constants
     public const string Voiture = FeminineArticle + Space + "voiture";
     public const string Voyelle = FeminineArticle + Space + "voyelle";
     public const string Viande = FeminineArticle + Space + "viande";
+    public const string Voisin = MasculineArticle + Space + "voisin";
+    public const string Valee = FeminineArticle + Space + "vallée";
+    public const string Vachette = FeminineArticle + Space + "vachette";
+    public const string Vainqueur = MasculineArticle + Space + "vainqueur";
+    public const string Vainqueuse = FeminineArticle + Space + "vainqueuse";
+    public const string Valse = FeminineArticle + Space + "valse";
+    public const string Vampire = MasculineArticle + Space + "vampire";
+    public const string Vanille = FeminineArticle + Space + "vanille";
+    public const string Vengeance = FeminineArticle + Space + "vengeance";
+    public const string Vegetal = MasculineArticle + Space + "végétal";
+    public const string Velours = MasculineArticle + Space + "velours";
+    public const string Venin = MasculineArticle + Space + "venin";
+    public const string Verdict = MasculineArticle + Space + "verdict";
     public const string Visage = MasculineArticle + Space + "visage";
     public const string Village = MasculineArticle + Space + "village";
     public const string Vitesse = FeminineArticle + Space + "vitesse";
