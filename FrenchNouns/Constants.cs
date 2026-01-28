@@ -732,6 +732,8 @@ public class Constants
     public const string Voyage = MasculineArticle + Space + "voyage";
     public const string Vignette = FeminineArticle + Space + "vignette";
     public const string Vinaigre = MasculineArticle + Space + "vinaigre";
+    public const string Virage = MasculineArticle + Space + "virage";
+    public const string Velo = MasculineArticle + Space + "vélo";
     #endregion
 
     #region "W" Nouns
