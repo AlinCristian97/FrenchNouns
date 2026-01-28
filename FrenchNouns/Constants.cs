@@ -131,7 +131,7 @@ public class Constants
     public const string Bague = FeminineArticle + Space + "bague";
     public const string Ballade = FeminineArticle + Space + "ballade";
     public const string Balcon = MasculineArticle + Space + "balcon";
-    public const string banquier = MasculineArticle + Space + "banquier";
+    public const string Banquier = MasculineArticle + Space + "banquier";
     public const string Barbecue = MasculineArticle + Space + "barbecue";
     public const string Barman = MasculineArticle + Space + "barman";
     public const string Baguette = FeminineArticle + Space + "baguette";
