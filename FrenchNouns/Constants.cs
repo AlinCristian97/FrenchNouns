@@ -68,7 +68,6 @@ public class Constants
     public const string Avion = MasculineArticle + Space + "avion";
     public const string Adresse = FeminineArticle + Space + "adresse";
     public const string Artiste = MasculineArticle + Space + "artiste";
-    public const string Annee = FeminineArticle + Space + "année";
     public const string Avenir = MasculineArticle + Space + "avenir";
     public const string Attribut = MasculineArticle + Space + "attribut";
     public const string Attention = FeminineArticle + Space + "attention";
@@ -161,7 +160,10 @@ public class Constants
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
     public const string Critique = FeminineArticle + Space + "critique";
+    public const string Competence = FeminineArticle + Space + "compétence";
     public const string Conversation = FeminineArticle + Space + "conversation";
+    public const string Courage = MasculineArticle + Space + "courage";
+    public const string Continuation = FeminineArticle + Space + "continuation";
     public const string Cafard = MasculineArticle + Space + "cafard";
     public const string Chateau = MasculineArticle + Space + "château";
     public const string Campement = MasculineArticle + Space + "campement";
@@ -708,6 +710,7 @@ public class Constants
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
     public const string Parent = MasculineArticle + Space + "parent";
+    public const string Passeport = MasculineArticle + Space + "passeport";
     public const string Premier = MasculineArticle + Space + "premier";
     public const string Premiere = FeminineArticle + Space + "première";
     public const string Palais = MasculineArticle + Space + "palais";
@@ -901,6 +904,7 @@ public class Constants
     public const string Samedi = FeminineArticle + Space + "samedi";
     public const string Sensation = FeminineArticle + Space + "sensation";
     public const string Septembre = MasculineArticle + Space + "septembre";
+    public const string Suite = FeminineArticle + Space + "suite";
     #endregion
 
     #region "T" Nouns
