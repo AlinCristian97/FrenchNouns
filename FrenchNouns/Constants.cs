@@ -138,6 +138,10 @@ public class Constants
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Chambre = FeminineArticle + Space + "chambre";
+    public const string Chaton = MasculineArticle + Space + "chaton";
+    public const string Chansonnette = FeminineArticle + Space + "chansonnette";
+    public const string Coin = MasculineArticle + Space + "coin";
+    public const string Cote = MasculineArticle + Space + "côté";
     public const string Chat = MasculineArticle + Space + "chat";
     public const string Chien = MasculineArticle + Space + "chien";
     public const string Cheval = MasculineArticle + Space + "cheval";
