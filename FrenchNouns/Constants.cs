@@ -763,6 +763,8 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Plafond = MasculineArticle + Space + "plafond";
+    public const string Plat = MasculineArticle + Space + "plat";
+    public const string Plate = FeminineArticle + Space + "plate";
     public const string Proces = MasculineArticle + Space + "procès";
     public const string Peur = FeminineArticle + Space + "peur";
     public const string Preposition = FeminineArticle + Space + "préposition";
