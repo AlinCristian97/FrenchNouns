@@ -556,6 +556,18 @@ public class Constants
     public const string Ordinateur = MasculineArticle + Space + "ordinateur";
     public const string Outil = MasculineArticle + Space + "outil";
     public const string Objet = MasculineArticle + Space + "objet";
+    public const string Occasion = FeminineArticle + Space + "occasion";
+    public const string Odeur = FeminineArticle + Space + "odeur";
+    public const string Offrande = FeminineArticle + Space + "offrande";
+    public const string Operation = FeminineArticle + Space + "opération";
+    public const string Opinion = FeminineArticle + Space + "opinion";
+    public const string Oreille = FeminineArticle + Space + "oreille";
+    public const string Orientation = FeminineArticle + Space + "orientation";
+    public const string Origine = FeminineArticle + Space + "origine";
+    public const string Ouverture = FeminineArticle + Space + "ouverture";
+    public const string Olympiade = FeminineArticle + Space + "olympiade";
+    public const string Ombre = FeminineArticle + Space + "ombre";
+    public const string Oncle = MasculineArticle + Space + "oncle";
     #endregion
 
     #region "P" Nouns
