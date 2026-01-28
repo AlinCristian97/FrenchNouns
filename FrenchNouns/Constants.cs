@@ -744,6 +744,10 @@ public class Constants
     public const string Periode = FeminineArticle + Space + "période";
     public const string Philosophie = FeminineArticle + Space + "philosophie";
     public const string Photographie = FeminineArticle + Space + "photographie";
+    public const string Photo = FeminineArticle + Space + "photo";
+    public const string Physicien = MasculineArticle + Space + "physicien";
+    public const string Physicienne = FeminineArticle + Space + "physicienne";
+    public const string Philosophe = MasculineArticle + Space + "philosophe";
     public const string Physique = FeminineArticle + Space + "physique";
     public const string Pianiste = MasculineArticle + Space + "pianiste";
     public const string Perception = FeminineArticle + Space + "perception";
