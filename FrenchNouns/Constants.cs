@@ -465,6 +465,25 @@ public class Constants
     public const string Insecte = MasculineArticle + Space + "insecte";
     public const string Invite = MasculineArticle + Space + "invité";
     public const string Inventaire = MasculineArticle + Space + "inventaire";
+    public const string Ironie = FeminineArticle + Space + "ironie";
+    public const string Illusion = FeminineArticle + Space + "illusion";
+    public const string Immunite = FeminineArticle + Space + "immunité";
+    public const string Impatience = FeminineArticle + Space + "impatience";
+    public const string Impression = FeminineArticle + Space + "impression";
+    public const string Incertitude = FeminineArticle + Space + "incertitude";
+    public const string Indication = FeminineArticle + Space + "indication";
+    public const string Industrie = FeminineArticle + Space + "industrie";
+    public const string Influence = FeminineArticle + Space + "influence";
+    public const string Initiative = FeminineArticle + Space + "initiative";
+    public const string Inscription = FeminineArticle + Space + "inscription";
+    public const string Inspiration = FeminineArticle + Space + "inspiration";
+    public const string Installation = FeminineArticle + Space + "installation";
+    public const string Institution = FeminineArticle + Space + "institution";
+    public const string Intention = FeminineArticle + Space + "intention";
+    public const string Interaction = FeminineArticle + Space + "interaction";
+    public const string Introduction = FeminineArticle + Space + "introduction";
+    public const string Invention = FeminineArticle + Space + "invention";
+    public const string Invitation = FeminineArticle + Space + "invitation";
     #endregion
 
     #region "J" Nouns
@@ -653,6 +672,7 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
+
     public const string Parc = MasculineArticle + Space + "parc";
     public const string Paysage = MasculineArticle + Space + "paysage";
     public const string Ponton = MasculineArticle + Space + "ponton";
