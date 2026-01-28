@@ -173,6 +173,7 @@ public class Constants
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Chambre = FeminineArticle + Space + "chambre";
+    public const string Courriel = MasculineArticle + Space + "courriel";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
     public const string Crabe = MasculineArticle + Space + "crabe";
     public const string Critique = FeminineArticle + Space + "critique";
@@ -620,6 +621,8 @@ public class Constants
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
     public const string Main = FeminineArticle + Space + "main";
+    public const string Metier = MasculineArticle + Space + "métier";
+    public const string Medecin = MasculineArticle + Space + "médecin";
     public const string Mercredi = MasculineArticle + Space + "mercredi";
     public const string Mardi = MasculineArticle + Space + "mardi";
     public const string Musicien = MasculineArticle + Space + "musicien";
@@ -756,6 +759,11 @@ public class Constants
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
     public const string Pharmacie = FeminineArticle + Space + "pharmacie";
+    public const string Plumeau = MasculineArticle + Space + "plumeau";
+    public const string Poele_Masculine = MasculineArticle + Space + "poêle";
+    public const string Poele_Feminine = FeminineArticle + Space + "poêle";
+    public const string Portable = MasculineArticle + Space + "portable";
+    public const string PetitDejeuner = MasculineArticle + Space + "petit-déjeuner";
     public const string Pret = MasculineArticle + Space + "prêt";
     public const string Parent = MasculineArticle + Space + "parent";
     public const string Passeport = MasculineArticle + Space + "passeport";
