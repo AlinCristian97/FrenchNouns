@@ -42,6 +42,7 @@ public class Constants
     #region "A" Nouns
     public const string Aide = FeminineArticle + Space + "aide";
     public const string Addition = FeminineArticle + Space + "addition";
+    public const string Amitié = FeminineArticle + Space + "amitié";
     public const string An = MasculineArticle + Space + "an";
     public const string Accident = MasculineArticle + Space + "accident";
     public const string Association = FeminineArticle + Space + "association";
@@ -960,6 +961,7 @@ public class Constants
     public const string Voyage = MasculineArticle + Space + "voyage";
     public const string Vignette = FeminineArticle + Space + "vignette";
     public const string Vinaigre = MasculineArticle + Space + "vinaigre";
+    public const string Valise = FeminineArticle + Space + "valise";
     public const string Virage = MasculineArticle + Space + "virage";
     public const string Velo = MasculineArticle + Space + "vélo";
     public const string Vegetation = FeminineArticle + Space + "végétation";
