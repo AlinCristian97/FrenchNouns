@@ -42,6 +42,17 @@ public class Constants
     #region "A" Nouns
     public const string Aide = FeminineArticle + Space + "aide";
     public const string Ami = MasculineArticle + Space + "ami";
+    public const string Application = FeminineArticle + Space + "application";
+    public const string Agilite = FeminineArticle + Space + "agilité";
+    public const string Alimentation = FeminineArticle + Space + "alimentation";
+    public const string Ambassade = FeminineArticle + Space + "ambassade";
+    public const string Amusement = MasculineArticle + Space + "amusement";
+    public const string Anorak = MasculineArticle + Space + "anorak";
+    public const string Appareil = MasculineArticle + Space + "appareil";
+    public const string Ange = MasculineArticle + Space + "ange";
+    public const string Automne = MasculineArticle + Space + "automne";
+    public const string Avril = MasculineArticle + Space + "avril";
+    public const string Août = MasculineArticle + Space + "août";
     public const string Amie = FeminineArticle + Space + "amie";
     public const string Appartement = MasculineArticle + Space + "appartement";
     public const string Arbre = MasculineArticle + Space + "arbre";
@@ -268,6 +279,15 @@ public class Constants
     public const string Dessert = MasculineArticle + Space + "dessert";
     public const string Discipline = FeminineArticle + Space + "discipline";
     public const string Division = FeminineArticle + Space + "division";
+    public const string Domination = FeminineArticle + Space + "domination";
+    public const string Donation = FeminineArticle + Space + "donation";
+    public const string Douane = FeminineArticle + Space + "douane";
+    public const string Duree = FeminineArticle + Space + "durée";
+    public const string Dignité = FeminineArticle + Space + "dignité";
+    public const string Diplomatie = FeminineArticle + Space + "diplomatie";
+    public const string Discretion = FeminineArticle + Space + "discrétion";
+    public const string Dispute = FeminineArticle + Space + "dispute";
+    public const string Decembre = MasculineArticle + Space + "décembre";
     public const string Dexterité = FeminineArticle + Space + "dextérité";
     #endregion
 
@@ -342,6 +362,7 @@ public class Constants
     public const string Edifice = MasculineArticle + Space + "édifice";
     public const string Effervescence = FeminineArticle + Space + "effervescence";
     public const string Experience = FeminineArticle + Space + "expérience";
+    public const string Ete = MasculineArticle + Space + "été";
     public const string Equipement = MasculineArticle + Space + "équipement";
 
     #endregion
@@ -355,6 +376,8 @@ public class Constants
     public const string Frere = MasculineArticle + Space + "frère";
     public const string Fleur = FeminineArticle + Space + "fleur";
     public const string Fromage = MasculineArticle + Space + "fromage";
+    public const string Fourchette = FeminineArticle + Space + "fourchette";
+    public const string Fevrier = MasculineArticle + Space + "février";
     public const string Fenetre = FeminineArticle + Space + "fenêtre";
     public const string Famille = FeminineArticle + Space + "famille";
     public const string Foin = MasculineArticle + Space + "foin";
@@ -413,6 +436,10 @@ public class Constants
     public const string Harpe = FeminineArticle + Space + "harpe";
     public const string Hauteur = FeminineArticle + Space + "hauteur";
     public const string Hibernation = FeminineArticle + Space + "hibernation";
+    public const string Historien = MasculineArticle + Space + "historien";
+    public const string Historienne = FeminineArticle + Space + "historienne";
+    public const string Hiver = MasculineArticle + Space + "hiver";
+    public const string Hommage = MasculineArticle + Space + "hommage";
     public const string Hierarchie = FeminineArticle + Space + "hiérarchie";
     public const string Horloge = FeminineArticle + Space + "horloge";
     #endregion
@@ -434,6 +461,15 @@ public class Constants
     public const string Jouet = MasculineArticle + Space + "jouet";
     public const string Journal = MasculineArticle + Space + "journal";
     public const string Jupe = FeminineArticle + Space + "jupe";
+    public const string Juillet = MasculineArticle + Space + "juillet";
+    public const string Janvier = MasculineArticle + Space + "janvier";
+    public const string Juin = MasculineArticle + Space + "juin";
+    public const string Jambon = MasculineArticle + Space + "jambon";
+    public const string Jeton = MasculineArticle + Space + "jeton";
+    public const string Joie = FeminineArticle + Space + "joie";
+    public const string Jongleur = MasculineArticle + Space + "jongleur";
+    public const string Juge = MasculineArticle + Space + "juge";
+    public const string Jeudi = MasculineArticle + Space + "jeudi";
     #endregion
 
     #region "K" Nouns
@@ -447,6 +483,8 @@ public class Constants
     #region "L" Nouns
     public const string Lampe = FeminineArticle + Space + "lampe";
     public const string Langue = FeminineArticle + Space + "langue";
+    public const string Livreur = MasculineArticle + Space + "livreur";
+    public const string Lundi = MasculineArticle + Space + "lundi";
     public const string Lecon = FeminineArticle + Space + "leçon";
     public const string Lettre = FeminineArticle + Space + "lettre";
     public const string Lit = MasculineArticle + Space + "lit";
@@ -470,6 +508,26 @@ public class Constants
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
     public const string Main = FeminineArticle + Space + "main";
+    public const string Mercredi = MasculineArticle + Space + "mercredi";
+    public const string Mardi = MasculineArticle + Space + "mardi";
+    public const string Musicien = MasculineArticle + Space + "musicien";
+    public const string Musicienne = FeminineArticle + Space + "musicienne";
+    public const string Maman = FeminineArticle + Space + "maman";
+    public const string Monsieur = MasculineArticle + Space + "monsieur";
+    public const string Madame = FeminineArticle + Space + "madame";
+    public const string Minute = FeminineArticle + Space + "minute";
+    public const string Merite = MasculineArticle + Space + "mérite";
+    public const string Marcheur = MasculineArticle + Space + "marcheur";
+    public const string Marcheuse = FeminineArticle + Space + "marcheuse";
+    public const string Magie = FeminineArticle + Space + "magie";
+    public const string Maladie = FeminineArticle + Space + "maladie";
+    public const string Mari = MasculineArticle + Space + "mari";
+    public const string Mars = MasculineArticle + Space + "mars";
+    public const string Miel = MasculineArticle + Space + "miel";
+    public const string Melon = MasculineArticle + Space + "melon";
+    public const string Mecanicien = MasculineArticle + Space + "mécanicien";
+    public const string Mecanicienne = FeminineArticle + Space + "mécanicienne";
+    public const string Mai = MasculineArticle + Space + "mai";
     public const string Marche = MasculineArticle + Space + "marché";
     public const string Matin = MasculineArticle + Space + "matin";
     public const string Matinee = FeminineArticle + Space + "matinée";
@@ -551,6 +609,7 @@ public class Constants
     public const string Nebuleuse = FeminineArticle + Space + "nébuleuse";
     public const string Necessite = FeminineArticle + Space + "nécessité";
     public const string Notification = FeminineArticle + Space + "notification";
+    public const string Novembre = MasculineArticle + Space + "novembre";
 
     #endregion
 
@@ -574,11 +633,15 @@ public class Constants
     public const string Olympiade = FeminineArticle + Space + "olympiade";
     public const string Ombre = FeminineArticle + Space + "ombre";
     public const string Oncle = MasculineArticle + Space + "oncle";
+    public const string Octobre = MasculineArticle + Space + "octobre";
     #endregion
 
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Parc = MasculineArticle + Space + "parc";
+    public const string Paysage = MasculineArticle + Space + "paysage";
+    public const string Ponton = MasculineArticle + Space + "ponton";
+    public const string Printemps = MasculineArticle + Space + "printemps";
     public const string Pere = MasculineArticle + Space + "père";
     public const string Personne = FeminineArticle + Space + "personne";
     public const string Phrase = FeminineArticle + Space + "phrase";
@@ -740,6 +803,9 @@ public class Constants
     public const string Sphere = FeminineArticle + Space + "sphère";
     public const string Soir = MasculineArticle + Space + "soir";
     public const string Soiree = FeminineArticle + Space + "soirée";
+    public const string Samedi = FeminineArticle + Space + "samedi";
+    public const string Sensation = FeminineArticle + Space + "sensation";
+    public const string Septembre = MasculineArticle + Space + "septembre";
     #endregion
 
     #region "T" Nouns
@@ -803,6 +869,12 @@ public class Constants
     public const string Vinaigre = MasculineArticle + Space + "vinaigre";
     public const string Virage = MasculineArticle + Space + "virage";
     public const string Velo = MasculineArticle + Space + "vélo";
+    public const string Vegetation = FeminineArticle + Space + "végétation";
+    public const string Vegetarien = MasculineArticle + Space + "végétarien";
+    public const string Vegetarienne = FeminineArticle + Space + "végétarienne";
+    public const string Velocite = FeminineArticle + Space + "vélocité";
+    public const string Verification = FeminineArticle + Space + "vérification";
+    public const string Vendredi = MasculineArticle + Space + "vendredi";
     #endregion
 
     #region "W" Nouns
