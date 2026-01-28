@@ -43,6 +43,8 @@ public class Constants
     public const string Aide = FeminineArticle + Space + "aide";
     public const string Addition = FeminineArticle + Space + "addition";
     public const string Amitié = FeminineArticle + Space + "amitié";
+    public const string Avance = FeminineArticle + Space + "avance";
+    public const string Aeroport = MasculineArticle + Space + "aéroport";
     public const string An = MasculineArticle + Space + "an";
     public const string Annee = FeminineArticle + Space + "année";
     public const string Accident = MasculineArticle + Space + "accident";
