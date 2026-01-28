@@ -755,6 +755,7 @@ public class Constants
     public const string Passeport = MasculineArticle + Space + "passeport";
     public const string Premier = MasculineArticle + Space + "premier";
     public const string Premiere = FeminineArticle + Space + "première";
+    public const string Parfait = MasculineArticle + Space + "parfait";
     public const string Palais = MasculineArticle + Space + "palais";
     public const string Parc = MasculineArticle + Space + "parc";
     public const string Paysage = MasculineArticle + Space + "paysage";
