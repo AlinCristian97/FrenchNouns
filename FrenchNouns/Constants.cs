@@ -421,6 +421,7 @@ public class Constants
     #region "F" Nouns
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Femme = FeminineArticle + Space + "femme";
+    public const string Fissure = FeminineArticle + Space + "fissure";
     public const string Fin = FeminineArticle + Space + "fin";
     public const string Faim = FeminineArticle + Space + "faim";
     public const string Froid = MasculineArticle + Space + "froid";
@@ -873,6 +874,7 @@ public class Constants
     #region "R" Nouns
     public const string Restaurant = MasculineArticle + Space + "restaurant";
     public const string Reve = MasculineArticle + Space + "rêve";
+    public const string Royaume = MasculineArticle + Space + "royaume";
     public const string Risque = MasculineArticle + Space + "risque";
     public const string Rapport = MasculineArticle + Space + "rapport";
     public const string Robe = FeminineArticle + Space + "robe";
