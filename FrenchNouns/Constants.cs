@@ -124,6 +124,7 @@ public class Constants
     #region "B" Nouns
     public const string Banane = FeminineArticle + Space + "banane";
     public const string Bois = MasculineArticle + Space + "bois";
+    public const string Balle = FeminineArticle + Space + "balle";
     public const string Biere = FeminineArticle + Space + "bière";
     public const string Boucle = FeminineArticle + Space + "boucle";
     public const string Boeuf = MasculineArticle + Space + "bœuf";
@@ -753,6 +754,7 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
+    public const string Pharmacie = FeminineArticle + Space + "pharmacie";
     public const string Pret = MasculineArticle + Space + "prêt";
     public const string Parent = MasculineArticle + Space + "parent";
     public const string Passeport = MasculineArticle + Space + "passeport";
@@ -894,6 +896,7 @@ public class Constants
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Surprise = FeminineArticle + Space + "surprise";
+    public const string Serveur = MasculineArticle + Space + "serveur";
     public const string Sable = MasculineArticle + Space + "sable";
     public const string Soeur = FeminineArticle + Space + "soeur";
     public const string Son = MasculineArticle + Space + "son";
