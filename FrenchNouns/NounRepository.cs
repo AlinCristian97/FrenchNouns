@@ -259,6 +259,10 @@ public static class NounRepository
         Constants.Stylo,
         Constants.Supermarche,
         Constants.Sac,
+
+        //
+
+        Constants.Plural_Soldes
     };
 
     public static readonly IReadOnlyList<string> T = new[]
@@ -333,7 +337,10 @@ public static class NounRepository
         Constants.Plural_Gens,
 
         // F
-        Constants.Plural_Frais
+        Constants.Plural_Frais,
+
+        // S
+        Constants.Plural_Soldes
     };
 
     // Super-list that contains every letter list

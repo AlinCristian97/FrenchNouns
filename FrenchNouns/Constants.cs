@@ -976,5 +976,8 @@ public class Constants
     // F
     public const string Plural_Frais = "frais";
 
+    // S
+    public const string Plural_Soldes = "soldes";
+
     #endregion
 }
