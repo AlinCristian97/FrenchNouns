@@ -119,6 +119,8 @@ public class Constants
 
     #region "B" Nouns
     public const string Banane = FeminineArticle + Space + "banane";
+    public const string Bois = MasculineArticle + Space + "bois";
+    public const string Biere = FeminineArticle + Space + "bière";
     public const string Besoin = MasculineArticle + Space + "besoin";
     public const string Banque = FeminineArticle + Space + "banque";
     public const string Bateau = MasculineArticle + Space + "bateau";
@@ -272,6 +274,7 @@ public class Constants
     #region "D" Nouns
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dent = FeminineArticle + Space + "dent";
+    public const string Destination = FeminineArticle + Space + "destination";
     public const string Devoir = MasculineArticle + Space + "devoir";
     public const string Dimanche = MasculineArticle + Space + "dimanche";
     public const string Docteur = MasculineArticle + Space + "docteur";
