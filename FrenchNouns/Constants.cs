@@ -2,7 +2,7 @@
 
 public class Constants
 {
-    public const int NumberOfRandomExampleSentences = 5;
+    public const int NumberOfRandomExampleSentences = 5; // Max 7 !
     public const string Space = " ";
     public const string LongDivider = "----------------------------------------";
     public const string ShortDivider = "----";
