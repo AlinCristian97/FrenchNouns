@@ -160,6 +160,7 @@ public class Constants
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
     public const string Critique = FeminineArticle + Space + "critique";
+    public const string Conversation = FeminineArticle + Space + "conversation";
     public const string Cafard = MasculineArticle + Space + "cafard";
     public const string Chateau = MasculineArticle + Space + "château";
     public const string Campement = MasculineArticle + Space + "campement";
@@ -397,6 +398,7 @@ public class Constants
     #region "F" Nouns
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Femme = FeminineArticle + Space + "femme";
+    public const string Fin = FeminineArticle + Space + "fin";
     public const string Faim = FeminineArticle + Space + "faim";
     public const string Froid = MasculineArticle + Space + "froid";
     public const string Fils = MasculineArticle + Space + "fils";
