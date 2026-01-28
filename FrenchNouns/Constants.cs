@@ -932,6 +932,9 @@ public class Constants
     public const string Velocite = FeminineArticle + Space + "vélocité";
     public const string Verification = FeminineArticle + Space + "vérification";
     public const string Vendredi = MasculineArticle + Space + "vendredi";
+    public const string Vestige = MasculineArticle + Space + "vestige";
+    public const string Vibration = FeminineArticle + Space + "vibration";
+    public const string Vente = FeminineArticle + Space + "vente";
     #endregion
 
     #region "W" Nouns
