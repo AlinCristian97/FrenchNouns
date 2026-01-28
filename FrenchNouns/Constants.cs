@@ -396,6 +396,7 @@ public class Constants
     public const string Femme = FeminineArticle + Space + "femme";
     public const string Faim = FeminineArticle + Space + "faim";
     public const string Froid = MasculineArticle + Space + "froid";
+    public const string Fils = MasculineArticle + Space + "fils";
     public const string Fille = FeminineArticle + Space + "fille";
     public const string Film = MasculineArticle + Space + "film";
     public const string Foret = FeminineArticle + Space + "forêt";
