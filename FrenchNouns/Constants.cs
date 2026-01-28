@@ -210,6 +210,37 @@ public class Constants
     public const string Convention = FeminineArticle + Space + "convention";
     public const string Corne = FeminineArticle + Space + "corne";
     public const string Chaise = FeminineArticle + Space + "chaise";
+    public const string Caisse = FeminineArticle + Space + "caisse";
+    public const string Cabane = FeminineArticle + Space + "cabane";
+    public const string Cabaret = MasculineArticle + Space + "cabaret";
+    public const string Cacao = MasculineArticle + Space + "cacao";
+    public const string Calculatrice = FeminineArticle + Space + "calculatrice";
+    public const string Campagne = FeminineArticle + Space + "campagne";
+    public const string Canal = MasculineArticle + Space + "canal";
+    public const string Canape = MasculineArticle + Space + "canapé";
+    public const string Capitaine = MasculineArticle + Space + "capitaine";
+    public const string Caravane = FeminineArticle + Space + "caravane";
+    public const string Carbonne = MasculineArticle + Space + "carbone";
+    public const string Carrosse = MasculineArticle + Space + "carrosse";
+    public const string Carton = MasculineArticle + Space + "carton";
+    public const string Cascade = FeminineArticle + Space + "cascade";
+    public const string Casserole = FeminineArticle + Space + "casserole";
+    public const string Castor = MasculineArticle + Space + "castor";
+    public const string Categorie = FeminineArticle + Space + "catégorie";
+    public const string Caution = FeminineArticle + Space + "caution";
+    public const string Caverneux = MasculineArticle + Space + "caverneux";
+    public const string Celebration = FeminineArticle + Space + "célébration";
+    public const string Celibataire = MasculineArticle + Space + "célibataire";
+    public const string Centime = MasculineArticle + Space + "centime";
+    public const string Chandelier = MasculineArticle + Space + "chandelier";
+    public const string Chantier = MasculineArticle + Space + "chantier";
+    public const string Charme = MasculineArticle + Space + "charme";
+    public const string Chariot = MasculineArticle + Space + "chariot";
+    public const string Chauffage = MasculineArticle + Space + "chauffage";
+    public const string Chemin = MasculineArticle + Space + "chemin";
+    public const string Cheveu = MasculineArticle + Space + "cheveu";
+    public const string Chiffonnier = MasculineArticle + Space + "chiffonnier";
+    public const string Crayon = MasculineArticle + Space + "crayon";
 
     #endregion
 
