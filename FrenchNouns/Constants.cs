@@ -707,6 +707,7 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Peur = FeminineArticle + Space + "peur";
+    public const string Parent = MasculineArticle + Space + "parent";
     public const string Premier = MasculineArticle + Space + "premier";
     public const string Premiere = FeminineArticle + Space + "première";
     public const string Palais = MasculineArticle + Space + "palais";
