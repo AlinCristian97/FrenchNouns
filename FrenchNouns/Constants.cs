@@ -463,6 +463,7 @@ public class Constants
     public const string Idee = FeminineArticle + Space + "idée";
     public const string Image = FeminineArticle + Space + "image";
     public const string Investigation = FeminineArticle + Space + "investigation";
+    public const string Irregularite = FeminineArticle + Space + "irrégularité";
     public const string Information = FeminineArticle + Space + "information";
     public const string Ile = FeminineArticle + Space + "île";
     public const string Insecte = MasculineArticle + Space + "insecte";
@@ -551,6 +552,7 @@ public class Constants
     public const string Monsieur = MasculineArticle + Space + "monsieur";
     public const string Madame = FeminineArticle + Space + "madame";
     public const string Minute = FeminineArticle + Space + "minute";
+    public const string Manifestant = MasculineArticle + Space + "manifestant";
     public const string Merite = MasculineArticle + Space + "mérite";
     public const string Marcheur = MasculineArticle + Space + "marcheur";
     public const string Marcheuse = FeminineArticle + Space + "marcheuse";
