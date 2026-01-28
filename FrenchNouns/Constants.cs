@@ -422,6 +422,8 @@ public class Constants
     #region "F" Nouns
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Femme = FeminineArticle + Space + "femme";
+    public const string Fichier = MasculineArticle + Space + "fichier";
+    public const string Fleche = FeminineArticle + Space + "flèche";
     public const string Fissure = FeminineArticle + Space + "fissure";
     public const string Fin = FeminineArticle + Space + "fin";
     public const string Faim = FeminineArticle + Space + "faim";
