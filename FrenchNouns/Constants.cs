@@ -176,6 +176,10 @@ public class Constants
 
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café";
+    public const string Cheville = FeminineArticle + Space + "cheville";
+    public const string Chapeau = MasculineArticle + Space + "chapeau";
+    public const string Cagette = FeminineArticle + Space + "cagette";
+    public const string Coffre = MasculineArticle + Space + "coffre";
     public const string Cou = MasculineArticle + Space + "cou";
     public const string Centre = MasculineArticle + Space + "centre";
     public const string Clavier = MasculineArticle + Space + "clavier";
@@ -351,6 +355,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Eau = FeminineArticle + Space + "eau";
+    public const string Estomac = MasculineArticle + Space + "estomac";
     public const string Epaule = FeminineArticle + Space + "épaule";
     public const string Ecole = FeminineArticle + Space + "école";
     public const string Euro = MasculineArticle + Space + "euro";
@@ -437,6 +442,7 @@ public class Constants
 
     #region "F" Nouns
     public const string Feu = MasculineArticle + Space + "feu";
+    public const string Foie = MasculineArticle + Space + "foie";
     public const string Femme = FeminineArticle + Space + "femme";
     public const string Fichier = MasculineArticle + Space + "fichier";
     public const string Fleche = FeminineArticle + Space + "flèche";
@@ -479,6 +485,7 @@ public class Constants
 
     #region "G" Nouns
     public const string Gare = FeminineArticle + Space + "gare";
+    public const string Genou = MasculineArticle + Space + "genou";
     public const string Gazon = MasculineArticle + Space + "gazon";
     public const string Guitariste = MasculineArticle + Space + "guitariste";
     public const string Galerie = FeminineArticle + Space + "galerie";
@@ -620,6 +627,7 @@ public class Constants
     #region "L" Nouns
     public const string Lampe = FeminineArticle + Space + "lampe";
     public const string Langue = FeminineArticle + Space + "langue";
+    public const string Levre = FeminineArticle + Space + "lèvre";
     public const string Lapin = MasculineArticle + Space + "lapin";
     public const string Laitue = FeminineArticle + Space + "laitue";
     public const string Liste = FeminineArticle + Space + "liste";
@@ -794,6 +802,8 @@ public class Constants
 
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
+    public const string Penis = MasculineArticle + Space + "pénis";
+    public const string Poignet = MasculineArticle + Space + "poignet";
     public const string Porteur = MasculineArticle + Space + "porteur";
     public const string Peinture = FeminineArticle + Space + "peinture";
     public const string Plafond = MasculineArticle + Space + "plafond";
@@ -918,6 +928,7 @@ public class Constants
 
     #region "R" Nouns
     public const string Restaurant = MasculineArticle + Space + "restaurant";
+    public const string Rein = MasculineArticle + Space + "rein";
     public const string Reve = MasculineArticle + Space + "rêve";
     public const string Radeau = MasculineArticle + Space + "radeau";
     public const string Recommandation = FeminineArticle + Space + "recommandation";
@@ -1040,6 +1051,8 @@ public class Constants
 
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
+    public const string Testicule = MasculineArticle + Space + "testicule";
+    public const string Thorax = MasculineArticle + Space + "thorax";
     public const string Tete = FeminineArticle + Space + "tete";
     public const string Tort = MasculineArticle + Space + "tort";
     public const string Tigre = MasculineArticle + Space + "tigre";
@@ -1084,7 +1097,10 @@ public class Constants
 
     #region "V" Nouns
     public const string Verre = MasculineArticle + Space + "verre";
+    public const string Vulve = FeminineArticle + Space + "vulve";
     public const string Vent = MasculineArticle + Space + "vent";
+    public const string Vagin = MasculineArticle + Space + "vagin";
+    public const string Ventre = MasculineArticle + Space + "ventre";
     public const string Voyageur = MasculineArticle + Space + "voyageur";
     public const string Vitrine = FeminineArticle + Space + "vitrine";
     public const string Vedette_Masculine = MasculineArticle + Space + "vedette";
@@ -1181,6 +1197,7 @@ public class Constants
 
     // F
     public const string Plural_Frais = "frais";
+    public const string Plural_Fesses = "fesses";
 
     // S
     public const string Plural_Soldes = "soldes";
