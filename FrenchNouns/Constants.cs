@@ -543,6 +543,7 @@ public class Constants
     #region "I" Nouns
     public const string Idee = FeminineArticle + Space + "idée";
     public const string Image = FeminineArticle + Space + "image";
+    public const string Illustration = FeminineArticle + Space + "illustration";
     public const string Icone = FeminineArticle + Space + "icône";
     public const string Investigation = FeminineArticle + Space + "investigation";
     public const string Irregularite = FeminineArticle + Space + "irrégularité";
@@ -782,6 +783,8 @@ public class Constants
 
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
+    public const string Porteur = MasculineArticle + Space + "porteur";
+    public const string Peinture = FeminineArticle + Space + "peinture";
     public const string Plafond = MasculineArticle + Space + "plafond";
     public const string Parcours = MasculineArticle + Space + "parcours";
     public const string Produit = MasculineArticle + Space + "produit";
@@ -1028,6 +1031,8 @@ public class Constants
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
     public const string Tort = MasculineArticle + Space + "tort";
+    public const string Tigre = MasculineArticle + Space + "tigre";
+    public const string Tableau = MasculineArticle + Space + "tableau";
     public const string Television = FeminineArticle + Space + "télévision";
     public const string Tele = FeminineArticle + Space + "télé";
     public const string Temps = MasculineArticle + Space + "temps";
