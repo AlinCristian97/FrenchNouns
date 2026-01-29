@@ -594,6 +594,7 @@ public class Constants
 
     #region "J" Nouns
     public const string Jambe = FeminineArticle + Space + "jambe";
+    public const string Joue = FeminineArticle + Space + "joue";
     public const string Jardin = MasculineArticle + Space + "jardin";
     public const string Jour = MasculineArticle + Space + "jour";
     public const string Jouet = MasculineArticle + Space + "jouet";
@@ -658,6 +659,7 @@ public class Constants
 
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
+    public const string Machoire = FeminineArticle + Space + "mâchoire";
     public const string Mamelon = MasculineArticle + Space + "mamelon";
     public const string Mucus = MasculineArticle + Space + "mucus";
     public const string Marchette = FeminineArticle + Space + "marchette";
