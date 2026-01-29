@@ -991,6 +991,7 @@ public class Constants
     public const string Table = FeminineArticle + Space + "table";
     public const string Tort = MasculineArticle + Space + "tort";
     public const string Television = FeminineArticle + Space + "télévision";
+    public const string Tele = FeminineArticle + Space + "télé";
     public const string Temps = MasculineArticle + Space + "temps";
     public const string The = MasculineArticle + Space + "thé";
     public const string Train = MasculineArticle + Space + "train";
