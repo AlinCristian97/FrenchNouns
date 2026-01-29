@@ -125,11 +125,12 @@ public class Constants
 
     #region "B" Nouns
     public const string Banane = FeminineArticle + Space + "banane";
+    public const string Bras = MasculineArticle + Space + "bras";
     public const string Bois = MasculineArticle + Space + "bois";
     public const string Balle = FeminineArticle + Space + "balle";
     public const string Biere = FeminineArticle + Space + "bière";
     public const string Boucle = FeminineArticle + Space + "boucle";
-    public const string Boeuf = MasculineArticle + Space + "bœuf";
+    public const string Boeuf = MasculineArticle + Space + "boeuf";
     public const string Boulanger = MasculineArticle + Space + "boulanger";
     public const string Bague = FeminineArticle + Space + "bague";
     public const string Ballade = FeminineArticle + Space + "ballade";
@@ -227,7 +228,7 @@ public class Constants
     public const string Cirque = MasculineArticle + Space + "cirque";
     public const string Classe = FeminineArticle + Space + "classe";
     public const string Clown = MasculineArticle + Space + "clown";
-    public const string Coeur = MasculineArticle + Space + "cœur";
+    public const string Coeur = MasculineArticle + Space + "coeur";
     public const string Colis = MasculineArticle + Space + "colis";
     public const string Comedie = FeminineArticle + Space + "comédie";
     public const string Compte = MasculineArticle + Space + "compte";
@@ -307,6 +308,8 @@ public class Constants
     #region "D" Nouns
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dent = FeminineArticle + Space + "dent";
+    public const string Dialogue = MasculineArticle + Space + "dialogue";
+    public const string Doigt = MasculineArticle + Space + "doigt";
     public const string Diner = MasculineArticle + Space + "dîner";
     public const string Destination = FeminineArticle + Space + "destination";
     public const string Devoir = MasculineArticle + Space + "devoir";
@@ -756,6 +759,7 @@ public class Constants
 
     #region "O" Nouns
     public const string Oeuf = MasculineArticle + Space + "oeuf";
+    public const string Oeil = MasculineArticle + Space + "oeil";
     public const string Oiseau = MasculineArticle + Space + "oiseau";
     public const string Objetif = MasculineArticle + Space + "objectif";
     public const string Offre = FeminineArticle + Space + "offre";
@@ -829,7 +833,6 @@ public class Constants
     public const string Pizza = FeminineArticle + Space + "pizza";
     public const string Papier = MasculineArticle + Space + "papier";
     public const string Pays = MasculineArticle + Space + "pays";
-    public const string Peinture = FeminineArticle + Space + "peinture";
     public const string Pied = MasculineArticle + Space + "pied";
     public const string Politique = FeminineArticle + Space + "politique";
     public const string Pont = MasculineArticle + Space + "pont";
@@ -1030,6 +1033,7 @@ public class Constants
 
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
+    public const string Tete = FeminineArticle + Space + "tete";
     public const string Tort = MasculineArticle + Space + "tort";
     public const string Tigre = MasculineArticle + Space + "tigre";
     public const string Tableau = MasculineArticle + Space + "tableau";
