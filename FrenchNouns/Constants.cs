@@ -331,6 +331,7 @@ public class Constants
 
     #region "D" Nouns
     public const string Datte = FeminineArticle + Space + "datte";
+    public const string Difficulte = FeminineArticle + Space + "difficulté";
     public const string Dinde = FeminineArticle + Space + "dinde";
     public const string Décoration = FeminineArticle + Space + "décoration";
     public const string Dentiste = MasculineArticle + Space + "dentiste";
@@ -1173,6 +1174,7 @@ public class Constants
 
     #region "V" Nouns
     public const string Verre = MasculineArticle + Space + "verre";
+    public const string Vie = FeminineArticle + Space + "vie";
     public const string Vulve = FeminineArticle + Space + "vulve";
     public const string Veine = FeminineArticle + Space + "veine";
     public const string Vent = MasculineArticle + Space + "vent";
