@@ -42,6 +42,7 @@ public class Constants
     #region "A" Nouns
     public const string Aide = FeminineArticle + Space + "aide";
     public const string Appel = MasculineArticle + Space + "appel";
+    public const string Accessoire = MasculineArticle + Space + "accessoire";
     public const string Addition = FeminineArticle + Space + "addition";
     public const string Amitié = FeminineArticle + Space + "amitié";
     public const string Avance = FeminineArticle + Space + "avance";
