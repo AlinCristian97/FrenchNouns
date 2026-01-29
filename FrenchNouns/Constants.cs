@@ -194,6 +194,8 @@ public class Constants
     public const string Clou = MasculineArticle + Space + "clou";
     public const string Crotte = FeminineArticle + Space + "crotte";
     public const string Coude = MasculineArticle + Space + "coude";
+    public const string Canadien = MasculineArticle + Space + "canadien";
+    public const string Canadienne = FeminineArticle + Space + "canadienne";
     public const string Cheville = FeminineArticle + Space + "cheville";
     public const string Chapeau = MasculineArticle + Space + "chapeau";
     public const string Cagette = FeminineArticle + Space + "cagette";
