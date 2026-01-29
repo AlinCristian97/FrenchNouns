@@ -828,6 +828,7 @@ public class Constants
     public const string Oiseau = MasculineArticle + Space + "oiseau";
     public const string Objetif = MasculineArticle + Space + "objectif";
     public const string Offre = FeminineArticle + Space + "offre";
+    public const string Oral = MasculineArticle + Space + "oral";
     public const string Orange = FeminineArticle + Space + "orange";
     public const string Organisme = MasculineArticle + Space + "organisme";
     public const string Oreiller = MasculineArticle + Space + "oreiller";
