@@ -115,7 +115,8 @@ public static class NounRepository
 
         //
 
-        Constants.Plural_Frais
+        Constants.Plural_Frais,
+        Constants.Plural_Fesses,
     };
 
     public static readonly IReadOnlyList<string> G = new[]
@@ -346,6 +347,7 @@ public static class NounRepository
 
         // F
         Constants.Plural_Frais,
+        Constants.Plural_Fesses,
 
         // S
         Constants.Plural_Soldes,
