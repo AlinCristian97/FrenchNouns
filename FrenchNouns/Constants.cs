@@ -195,7 +195,6 @@ public class Constants
     public const string Crotte = FeminineArticle + Space + "crotte";
     public const string Coude = MasculineArticle + Space + "coude";
     public const string Canadien = MasculineArticle + Space + "canadien";
-    public const string Canadienne = FeminineArticle + Space + "canadienne";
     public const string Cheville = FeminineArticle + Space + "cheville";
     public const string Chapeau = MasculineArticle + Space + "chapeau";
     public const string Cagette = FeminineArticle + Space + "cagette";
@@ -633,6 +632,7 @@ public class Constants
     #region "J" Nouns
     public const string Jambe = FeminineArticle + Space + "jambe";
     public const string Joue = FeminineArticle + Space + "joue";
+    public const string Japonais = MasculineArticle + Space + "japonais";
     public const string Jardin = MasculineArticle + Space + "jardin";
     public const string Jour = MasculineArticle + Space + "jour";
     public const string Jouet = MasculineArticle + Space + "jouet";
