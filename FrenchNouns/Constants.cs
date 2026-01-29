@@ -174,6 +174,7 @@ public class Constants
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Centre = MasculineArticle + Space + "centre";
+    public const string Client = MasculineArticle + Space + "client";
     public const string Commande = FeminineArticle + Space + "commande";
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Courriel = MasculineArticle + Space + "courriel";
@@ -506,6 +507,7 @@ public class Constants
     #region "H" Nouns
     public const string Herbe = FeminineArticle + Space + "herbe";
     public const string Heure = FeminineArticle + Space + "heure";
+    public const string Hooligan = MasculineArticle + Space + "hooligan";
     public const string Hate = FeminineArticle + Space + "hâte";
     public const string Honte = FeminineArticle + Space + "honte";
     public const string Histoire = FeminineArticle + Space + "histoire";
@@ -749,6 +751,8 @@ public class Constants
     #region "O" Nouns
     public const string Oeuf = MasculineArticle + Space + "oeuf";
     public const string Oiseau = MasculineArticle + Space + "oiseau";
+    public const string Objetif = MasculineArticle + Space + "objectif";
+    public const string Offre = FeminineArticle + Space + "offre";
     public const string Orange = FeminineArticle + Space + "orange";
     public const string Organisme = MasculineArticle + Space + "organisme";
     public const string Oreiller = MasculineArticle + Space + "oreiller";
@@ -774,6 +778,8 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Plafond = MasculineArticle + Space + "plafond";
+    public const string Prix = MasculineArticle + Space + "prix";
+    public const string Plus = MasculineArticle + Space + "plus";
     public const string Plat = MasculineArticle + Space + "plat";
     public const string Plate = FeminineArticle + Space + "plate";
     public const string Proces = MasculineArticle + Space + "procès";
@@ -938,6 +944,7 @@ public class Constants
     #region "S" Nouns
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Salon = MasculineArticle + Space + "salon";
+    public const string Selection = FeminineArticle + Space + "sélection";
     public const string Somme = FeminineArticle + Space + "somme";
     public const string Stylet = MasculineArticle + Space + "stylet";
     public const string Succes = MasculineArticle + Space + "succès";
