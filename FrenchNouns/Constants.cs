@@ -331,6 +331,8 @@ public class Constants
     #region "D" Nouns
     public const string Datte = FeminineArticle + Space + "datte";
     public const string Dinde = FeminineArticle + Space + "dinde";
+    public const string Décoration = FeminineArticle + Space + "décoration";
+    public const string Dentiste = MasculineArticle + Space + "dentiste";
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dossier = MasculineArticle + Space + "dossier";
     public const string Dos = MasculineArticle + Space + "dos";
