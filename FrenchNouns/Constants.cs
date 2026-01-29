@@ -708,6 +708,7 @@ public class Constants
     #region "N" Nouns
     public const string Nature = FeminineArticle + Space + "nature";
     public const string Neige = FeminineArticle + Space + "neige";
+    public const string Note = FeminineArticle + Space + "note";
     public const string Nuitee = FeminineArticle + Space + "nuitée";
     public const string Nomade = MasculineArticle + Space + "nomade";
     public const string Navire = MasculineArticle + Space + "navire";
@@ -779,6 +780,7 @@ public class Constants
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Plafond = MasculineArticle + Space + "plafond";
     public const string Prix = MasculineArticle + Space + "prix";
+    public const string Peau = FeminineArticle + Space + "peau";
     public const string Plus = MasculineArticle + Space + "plus";
     public const string Plat = MasculineArticle + Space + "plat";
     public const string Plate = FeminineArticle + Space + "plate";
