@@ -301,7 +301,8 @@ public static class NounRepository
 
         //
 
-        Constants.Plural_Vacances
+        Constants.Plural_Vacances,
+        Constants.Plural_Vetements,
     };
 
     public static readonly IReadOnlyList<string> W = new[]
@@ -357,6 +358,7 @@ public static class NounRepository
 
         // V
         Constants.Plural_Vacances,
+        Constants.Plural_Vetements,
     };
 
     // Super-list that contains every letter list
