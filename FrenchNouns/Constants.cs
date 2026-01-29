@@ -176,6 +176,7 @@ public class Constants
 
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café";
+    public const string Crotte = FeminineArticle + Space + "crotte";
     public const string Cheville = FeminineArticle + Space + "cheville";
     public const string Chapeau = MasculineArticle + Space + "chapeau";
     public const string Cagette = FeminineArticle + Space + "cagette";
