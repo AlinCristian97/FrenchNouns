@@ -176,6 +176,7 @@ public class Constants
 
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café";
+    public const string Clou = MasculineArticle + Space + "clou";
     public const string Crotte = FeminineArticle + Space + "crotte";
     public const string Cheville = FeminineArticle + Space + "cheville";
     public const string Chapeau = MasculineArticle + Space + "chapeau";
@@ -657,6 +658,7 @@ public class Constants
 
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
+    public const string Mamelon = MasculineArticle + Space + "mamelon";
     public const string Mucus = MasculineArticle + Space + "mucus";
     public const string Merde = FeminineArticle + Space + "merde";
     public const string Main = FeminineArticle + Space + "main";
