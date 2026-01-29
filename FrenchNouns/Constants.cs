@@ -892,6 +892,10 @@ public class Constants
     public const string Raison = FeminineArticle + Space + "raison";
     public const string Riviere = FeminineArticle + Space + "rivière";
     public const string Reseau = MasculineArticle + Space + "réseau";
+    public const string Randonnee = FeminineArticle + Space + "randonnée";
+    public const string Rature = FeminineArticle + Space + "rature";
+    public const string Raisonnement = MasculineArticle + Space + "raisonnement";
+    public const string Reduction = FeminineArticle + Space + "réduction";
     public const string Rythme = MasculineArticle + Space + "rythme";
     public const string Rappel = MasculineArticle + Space + "rappel";
     public const string Recherche = FeminineArticle + Space + "recherche";
