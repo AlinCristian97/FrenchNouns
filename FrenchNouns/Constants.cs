@@ -779,6 +779,9 @@ public class Constants
     #region "P" Nouns
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Plafond = MasculineArticle + Space + "plafond";
+    public const string Parcours = MasculineArticle + Space + "parcours";
+    public const string Poids = MasculineArticle + Space + "poids";
+    public const string Produit = MasculineArticle + Space + "produit";
     public const string Prix = MasculineArticle + Space + "prix";
     public const string Peau = FeminineArticle + Space + "peau";
     public const string Plus = MasculineArticle + Space + "plus";
