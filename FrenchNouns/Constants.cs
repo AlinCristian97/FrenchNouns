@@ -41,6 +41,7 @@ public class Constants
 
     #region "A" Nouns
     public const string Abricot = MasculineArticle + Space + "abricot";
+    public const string Anglais = MasculineArticle + Space + "anglais";
     public const string Amande = FeminineArticle + Space + "amande";
     public const string Ananas = MasculineArticle + Space + "ananas";
     public const string Artichaut = MasculineArticle + Space + "artichaut";
@@ -376,6 +377,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Endive = FeminineArticle + Space + "endive";
+    public const string Espagnol = MasculineArticle + Space + "espagnol";
     public const string Escargot = MasculineArticle + Space + "escargot";
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Estomac = MasculineArticle + Space + "estomac";
@@ -467,6 +469,7 @@ public class Constants
     #region "F" Nouns
     public const string Fraise = FeminineArticle + Space + "fraise";
     public const string Figues = FeminineArticle + Space + "figues";
+    public const string Francais = MasculineArticle + Space + "français";
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Foie = MasculineArticle + Space + "foie";
     public const string Femme = FeminineArticle + Space + "femme";
@@ -978,6 +981,7 @@ public class Constants
     #region "R" Nouns
     public const string Raisin = MasculineArticle + Space + "raisin";
     public const string Radis = MasculineArticle + Space + "radis";
+    public const string Roumain = MasculineArticle + Space + "roumain";
     public const string Riz = MasculineArticle + Space + "riz";
     public const string Romarin = MasculineArticle + Space + "romarin";
     public const string Restaurant = MasculineArticle + Space + "restaurant";
