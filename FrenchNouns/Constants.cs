@@ -1045,6 +1045,7 @@ public class Constants
     #region "S" Nouns
     public const string Saumon = MasculineArticle + Space + "saumon";
     public const string Sucre = MasculineArticle + Space + "sucre";
+    public const string SousTitre = MasculineArticle + Space + "sous-titre";
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Sacrifice = MasculineArticle + Space + "sacrifice";
     public const string Sourire = MasculineArticle + Space + "sourire";
