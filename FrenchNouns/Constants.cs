@@ -1074,6 +1074,7 @@ public class Constants
 
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
+    public const string Talon = MasculineArticle + Space + "talon";
     public const string Tibia = MasculineArticle + Space + "tibia";
     public const string Testicule = MasculineArticle + Space + "testicule";
     public const string Thorax = MasculineArticle + Space + "thorax";
@@ -1232,6 +1233,7 @@ public class Constants
 
     // V
     public const string Plural_Vacances = "vacances";
+    public const string Plural_Vetements = "vêtements";
 
     #endregion
 }
