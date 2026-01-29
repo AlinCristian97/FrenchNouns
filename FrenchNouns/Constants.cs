@@ -343,6 +343,7 @@ public class Constants
     #region "E" Nouns
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Ecole = FeminineArticle + Space + "école";
+    public const string Euro = MasculineArticle + Space + "euro";
     public const string Excuse = FeminineArticle + Space + "excuse";
     public const string Enquete = FeminineArticle + Space + "enquête";
     public const string Enfant = MasculineArticle + Space + "enfant";
@@ -542,6 +543,7 @@ public class Constants
     #region "I" Nouns
     public const string Idee = FeminineArticle + Space + "idée";
     public const string Image = FeminineArticle + Space + "image";
+    public const string Icone = FeminineArticle + Space + "icône";
     public const string Investigation = FeminineArticle + Space + "investigation";
     public const string Irregularite = FeminineArticle + Space + "irrégularité";
     public const string Information = FeminineArticle + Space + "information";
