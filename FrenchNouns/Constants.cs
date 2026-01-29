@@ -176,8 +176,10 @@ public class Constants
 
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café";
+    public const string Cuisse = FeminineArticle + Space + "cuisse";
     public const string Clou = MasculineArticle + Space + "clou";
     public const string Crotte = FeminineArticle + Space + "crotte";
+    public const string Coude = MasculineArticle + Space + "coude";
     public const string Cheville = FeminineArticle + Space + "cheville";
     public const string Chapeau = MasculineArticle + Space + "chapeau";
     public const string Cagette = FeminineArticle + Space + "cagette";
@@ -204,7 +206,8 @@ public class Constants
     public const string Chaud = MasculineArticle + Space + "chaud";
     public const string Chansonnette = FeminineArticle + Space + "chansonnette";
     public const string Coin = MasculineArticle + Space + "coin";
-    public const string Cote = MasculineArticle + Space + "côté";
+    public const string Cote_Side = MasculineArticle + Space + "côté";
+    public const string Cote_Rib = FeminineArticle + Space + "côte";
     public const string Chat = MasculineArticle + Space + "chat";
     public const string Chien = MasculineArticle + Space + "chien";
     public const string Cheval = MasculineArticle + Space + "cheval";
@@ -659,6 +662,7 @@ public class Constants
 
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
+    public const string Mollet = MasculineArticle + Space + "mollet";
     public const string Machoire = FeminineArticle + Space + "mâchoire";
     public const string Mamelon = MasculineArticle + Space + "mamelon";
     public const string Mucus = MasculineArticle + Space + "mucus";
@@ -739,6 +743,7 @@ public class Constants
 
     #region "N" Nouns
     public const string Nature = FeminineArticle + Space + "nature";
+    public const string Nombril = MasculineArticle + Space + "nombril";
     public const string Neige = FeminineArticle + Space + "neige";
     public const string Note = FeminineArticle + Space + "note";
     public const string Nuitee = FeminineArticle + Space + "nuitée";
@@ -783,6 +788,7 @@ public class Constants
 
     #region "O" Nouns
     public const string Oeuf = MasculineArticle + Space + "oeuf";
+    public const string Os = MasculineArticle + Space + "os";
     public const string Oeil = MasculineArticle + Space + "oeil";
     public const string Oiseau = MasculineArticle + Space + "oiseau";
     public const string Objetif = MasculineArticle + Space + "objectif";
@@ -1068,6 +1074,7 @@ public class Constants
 
     #region "T" Nouns
     public const string Table = FeminineArticle + Space + "table";
+    public const string Tibia = MasculineArticle + Space + "tibia";
     public const string Testicule = MasculineArticle + Space + "testicule";
     public const string Thorax = MasculineArticle + Space + "thorax";
     public const string Tete = FeminineArticle + Space + "tete";
@@ -1115,6 +1122,7 @@ public class Constants
     #region "V" Nouns
     public const string Verre = MasculineArticle + Space + "verre";
     public const string Vulve = FeminineArticle + Space + "vulve";
+    public const string Veine = FeminineArticle + Space + "veine";
     public const string Vent = MasculineArticle + Space + "vent";
     public const string Vagin = MasculineArticle + Space + "vagin";
     public const string Ventre = MasculineArticle + Space + "ventre";
