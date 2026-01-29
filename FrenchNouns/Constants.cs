@@ -601,6 +601,7 @@ public class Constants
     #region "L" Nouns
     public const string Lampe = FeminineArticle + Space + "lampe";
     public const string Langue = FeminineArticle + Space + "langue";
+    public const string Legume = MasculineArticle + Space + "légume";
     public const string Livreur = MasculineArticle + Space + "livreur";
     public const string Lundi = MasculineArticle + Space + "lundi";
     public const string Lecon = FeminineArticle + Space + "leçon";
