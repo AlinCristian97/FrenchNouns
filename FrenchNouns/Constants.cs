@@ -656,6 +656,8 @@ public class Constants
 
     #region "M" Nouns
     public const string Maison = FeminineArticle + Space + "maison";
+    public const string Mucus = MasculineArticle + Space + "mucus";
+    public const string Merde = FeminineArticle + Space + "merde";
     public const string Main = FeminineArticle + Space + "main";
     public const string Morceau = MasculineArticle + Space + "morceau";
     public const string Metier = MasculineArticle + Space + "métier";
@@ -977,6 +979,7 @@ public class Constants
 
     #region "S" Nouns
     public const string Salle = FeminineArticle + Space + "salle";
+    public const string Stool = MasculineArticle + Space + "stool";
     public const string Salon = MasculineArticle + Space + "salon";
     public const string Sponsor = MasculineArticle + Space + "sponsor";
     public const string Signe = MasculineArticle + Space + "signe";
