@@ -982,6 +982,11 @@ public class Constants
 
     #region "S" Nouns
     public const string Salle = FeminineArticle + Space + "salle";
+    public const string Sacrifice = MasculineArticle + Space + "sacrifice";
+    public const string Sceau = MasculineArticle + Space + "sceau";
+    public const string Sel = MasculineArticle + Space + "sel";
+    public const string Sang = MasculineArticle + Space + "sang";
+    public const string Sourcil = MasculineArticle + Space + "sourcil";
     public const string Stool = MasculineArticle + Space + "stool";
     public const string Salon = MasculineArticle + Space + "salon";
     public const string Sponsor = MasculineArticle + Space + "sponsor";
