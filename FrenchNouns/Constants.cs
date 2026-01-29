@@ -133,6 +133,7 @@ public class Constants
 
     #region "B" Nouns
     public const string Banane = FeminineArticle + Space + "banane";
+    public const string Bienvenue = FeminineArticle + Space + "bienvenue";
     public const string Biscuit = MasculineArticle + Space + "biscuit";
     public const string Brocoli = MasculineArticle + Space + "brocoli";
     public const string Bras = MasculineArticle + Space + "bras";
@@ -378,6 +379,8 @@ public class Constants
 
     #region "E" Nouns
     public const string Endive = FeminineArticle + Space + "endive";
+    public const string Endroit = MasculineArticle + Space + "endroit";
+    public const string Episode = MasculineArticle + Space + "épisode";
     public const string Ecriture = FeminineArticle + Space + "écriture";
     public const string Espagnol = MasculineArticle + Space + "espagnol";
     public const string Escargot = MasculineArticle + Space + "escargot";
@@ -1106,6 +1109,7 @@ public class Constants
     public const string Sportive = FeminineArticle + Space + "sportive";
     public const string Sage = FeminineArticle + Space + "sage";
     public const string Salutation = FeminineArticle + Space + "salutation";
+    public const string Salut = MasculineArticle + Space + "salut";
     public const string Sculptureur = MasculineArticle + Space + "sculpteur";
     public const string Sculptureuse = FeminineArticle + Space + "sculptrice";
     public const string Secteur = MasculineArticle + Space + "secteur";
