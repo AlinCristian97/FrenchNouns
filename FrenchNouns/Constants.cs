@@ -173,6 +173,8 @@ public class Constants
 
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
+    public const string Centre = MasculineArticle + Space + "centre";
+    public const string Commande = FeminineArticle + Space + "commande";
     public const string Chambre = FeminineArticle + Space + "chambre";
     public const string Courriel = MasculineArticle + Space + "courriel";
     public const string Commentaire = MasculineArticle + Space + "commentaire";
@@ -745,6 +747,7 @@ public class Constants
     public const string Oreiller = MasculineArticle + Space + "oreiller";
     public const string Ordinateur = MasculineArticle + Space + "ordinateur";
     public const string Outil = MasculineArticle + Space + "outil";
+    public const string Ordre = FeminineArticle + Space + "ordre";
     public const string Objet = MasculineArticle + Space + "objet";
     public const string Occasion = FeminineArticle + Space + "occasion";
     public const string Odeur = FeminineArticle + Space + "odeur";
