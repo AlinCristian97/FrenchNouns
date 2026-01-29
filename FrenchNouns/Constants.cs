@@ -1182,6 +1182,7 @@ public class Constants
     public const string Ventre = MasculineArticle + Space + "ventre";
     public const string Voyageur = MasculineArticle + Space + "voyageur";
     public const string Vitrine = FeminineArticle + Space + "vitrine";
+    public const string Video = FeminineArticle + Space + "vidéo";
     public const string Vedette_Masculine = MasculineArticle + Space + "vedette";
     public const string Vedette_Feminine = FeminineArticle + Space + "vedette";
     public const string Version = FeminineArticle + Space + "version";
