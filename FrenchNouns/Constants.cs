@@ -175,6 +175,7 @@ public class Constants
     #region "C" Nouns
     public const string Cafe = MasculineArticle + Space + "café"; 
     public const string Centre = MasculineArticle + Space + "centre";
+    public const string Clavier = MasculineArticle + Space + "clavier";
     public const string Client = MasculineArticle + Space + "client";
     public const string Commande = FeminineArticle + Space + "commande";
     public const string Chambre = FeminineArticle + Space + "chambre";
@@ -903,6 +904,8 @@ public class Constants
     #region "R" Nouns
     public const string Restaurant = MasculineArticle + Space + "restaurant";
     public const string Reve = MasculineArticle + Space + "rêve";
+    public const string Radeau = MasculineArticle + Space + "radeau";
+    public const string Recommandation = FeminineArticle + Space + "recommandation";
     public const string Repas = MasculineArticle + Space + "repas";
     public const string Royaume = MasculineArticle + Space + "royaume";
     public const string Risque = MasculineArticle + Space + "risque";
@@ -1064,6 +1067,7 @@ public class Constants
     public const string Verre = MasculineArticle + Space + "verre";
     public const string Vent = MasculineArticle + Space + "vent";
     public const string Voyageur = MasculineArticle + Space + "voyageur";
+    public const string Vitrine = FeminineArticle + Space + "vitrine";
     public const string Vedette_Masculine = MasculineArticle + Space + "vedette";
     public const string Vedette_Feminine = FeminineArticle + Space + "vedette";
     public const string Version = FeminineArticle + Space + "version";
