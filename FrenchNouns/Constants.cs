@@ -660,6 +660,8 @@ public class Constants
     public const string Maison = FeminineArticle + Space + "maison";
     public const string Mamelon = MasculineArticle + Space + "mamelon";
     public const string Mucus = MasculineArticle + Space + "mucus";
+    public const string Marchette = FeminineArticle + Space + "marchette";
+    public const string Menton = MasculineArticle + Space + "menton";
     public const string Merde = FeminineArticle + Space + "merde";
     public const string Main = FeminineArticle + Space + "main";
     public const string Morceau = MasculineArticle + Space + "morceau";
