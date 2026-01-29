@@ -748,6 +748,7 @@ public class Constants
 
     #region "N" Nouns
     public const string Nature = FeminineArticle + Space + "nature";
+    public const string Nourriture = FeminineArticle + Space + "nourriture";
     public const string Nombril = MasculineArticle + Space + "nombril";
     public const string Neige = FeminineArticle + Space + "neige";
     public const string Note = FeminineArticle + Space + "note";
