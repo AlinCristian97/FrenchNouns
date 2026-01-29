@@ -166,6 +166,7 @@ public class Constants
     public const string Bienfait = MasculineArticle + Space + "bienfait";
     public const string Billet = MasculineArticle + Space + "billet";
     public const string Bonte = FeminineArticle + Space + "bonté";
+    public const string Bouche = FeminineArticle + Space + "bouche";
     public const string Boucherie = FeminineArticle + Space + "boucherie";
     public const string Boutique = FeminineArticle + Space + "boutique";
     public const string Bricolage = MasculineArticle + Space + "bricolage";
@@ -174,7 +175,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
-    public const string Cafe = MasculineArticle + Space + "café"; 
+    public const string Cafe = MasculineArticle + Space + "café";
+    public const string Cou = MasculineArticle + Space + "cou";
     public const string Centre = MasculineArticle + Space + "centre";
     public const string Clavier = MasculineArticle + Space + "clavier";
     public const string Client = MasculineArticle + Space + "client";
@@ -307,6 +309,10 @@ public class Constants
 
     #region "D" Nouns
     public const string Departement = MasculineArticle + Space + "département";
+    public const string Dossier = MasculineArticle + Space + "dossier";
+    public const string Dos = MasculineArticle + Space + "dos";
+    public const string Date = FeminineArticle + Space + "date";
+    public const string Demande = FeminineArticle + Space + "demande";
     public const string Dent = FeminineArticle + Space + "dent";
     public const string Dialogue = MasculineArticle + Space + "dialogue";
     public const string Doigt = MasculineArticle + Space + "doigt";
@@ -345,6 +351,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Eau = FeminineArticle + Space + "eau";
+    public const string Epaule = FeminineArticle + Space + "épaule";
     public const string Ecole = FeminineArticle + Space + "école";
     public const string Euro = MasculineArticle + Space + "euro";
     public const string Excuse = FeminineArticle + Space + "excuse";
