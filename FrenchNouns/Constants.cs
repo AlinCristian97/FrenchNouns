@@ -780,7 +780,6 @@ public class Constants
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Plafond = MasculineArticle + Space + "plafond";
     public const string Parcours = MasculineArticle + Space + "parcours";
-    public const string Poids = MasculineArticle + Space + "poids";
     public const string Produit = MasculineArticle + Space + "produit";
     public const string Prix = MasculineArticle + Space + "prix";
     public const string Peau = FeminineArticle + Space + "peau";
@@ -1063,6 +1062,9 @@ public class Constants
     #region "V" Nouns
     public const string Verre = MasculineArticle + Space + "verre";
     public const string Vent = MasculineArticle + Space + "vent";
+    public const string Voyageur = MasculineArticle + Space + "voyageur";
+    public const string Vedette_Masculine = MasculineArticle + Space + "vedette";
+    public const string Vedette_Feminine = FeminineArticle + Space + "vedette";
     public const string Version = FeminineArticle + Space + "version";
     public const string Ville = FeminineArticle + Space + "ville";
     public const string Voix = FeminineArticle + Space + "voix";
