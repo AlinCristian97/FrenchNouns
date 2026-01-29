@@ -914,6 +914,8 @@ public class Constants
     public const string Retenue = FeminineArticle + Space + "retenue";
     public const string Record = MasculineArticle + Space + "record";
     public const string Releve = MasculineArticle + Space + "relevé";
+    public const string Remboursement = MasculineArticle + Space + "remboursement";
+    public const string Rangée = FeminineArticle + Space + "rangée";
 
     #endregion
 
