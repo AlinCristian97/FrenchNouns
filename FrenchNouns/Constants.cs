@@ -698,6 +698,7 @@ public class Constants
     #region "M" Nouns
     public const string Moutarde = FeminineArticle + Space + "moutarde";
     public const string Maison = FeminineArticle + Space + "maison";
+    public const string Maniere = FeminineArticle + Space + "manière";
     public const string Mollet = MasculineArticle + Space + "mollet";
     public const string Machoire = FeminineArticle + Space + "mâchoire";
     public const string Mamelon = MasculineArticle + Space + "mamelon";
