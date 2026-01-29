@@ -56,6 +56,9 @@ public class Constants
     public const string Application = FeminineArticle + Space + "application";
     public const string Agilite = FeminineArticle + Space + "agilité";
     public const string Alimentation = FeminineArticle + Space + "alimentation";
+    public const string Ambiance = FeminineArticle + Space + "ambiance";
+    public const string Auteur = MasculineArticle + Space + "auteur";
+    public const string Aliment = MasculineArticle + Space + "aliment";
     public const string Ambassade = FeminineArticle + Space + "ambassade";
     public const string Amusement = MasculineArticle + Space + "amusement";
     public const string Anorak = MasculineArticle + Space + "anorak";
@@ -442,6 +445,7 @@ public class Constants
     public const string Experience = FeminineArticle + Space + "expérience";
     public const string Ete = MasculineArticle + Space + "été";
     public const string Equipement = MasculineArticle + Space + "équipement";
+    public const string Exterieur = MasculineArticle + Space + "extérieur";
 
     #endregion
 
@@ -564,6 +568,7 @@ public class Constants
 
     #region "I" Nouns
     public const string Idee = FeminineArticle + Space + "idée";
+    public const string Interieur = MasculineArticle + Space + "intérieur";
     public const string Image = FeminineArticle + Space + "image";
     public const string Illustration = FeminineArticle + Space + "illustration";
     public const string Icone = FeminineArticle + Space + "icône";
