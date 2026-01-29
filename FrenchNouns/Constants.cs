@@ -377,6 +377,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Endive = FeminineArticle + Space + "endive";
+    public const string Ecriture = FeminineArticle + Space + "écriture";
     public const string Espagnol = MasculineArticle + Space + "espagnol";
     public const string Escargot = MasculineArticle + Space + "escargot";
     public const string Eau = FeminineArticle + Space + "eau";
@@ -821,6 +822,7 @@ public class Constants
 
     #region "O" Nouns
     public const string Oeuf = MasculineArticle + Space + "oeuf";
+    public const string Orthographe = FeminineArticle + Space + "orthographe";
     public const string Os = MasculineArticle + Space + "os";
     public const string Oeil = MasculineArticle + Space + "oeil";
     public const string Oiseau = MasculineArticle + Space + "oiseau";
@@ -980,6 +982,7 @@ public class Constants
 
     #region "R" Nouns
     public const string Raisin = MasculineArticle + Space + "raisin";
+    public const string Regle = FeminineArticle + Space + "règle";
     public const string Radis = MasculineArticle + Space + "radis";
     public const string Roumain = MasculineArticle + Space + "roumain";
     public const string Riz = MasculineArticle + Space + "riz";
