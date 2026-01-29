@@ -703,6 +703,10 @@ public class Constants
     #region "N" Nouns
     public const string Nature = FeminineArticle + Space + "nature";
     public const string Neige = FeminineArticle + Space + "neige";
+    public const string Nuitee = FeminineArticle + Space + "nuitée";
+    public const string Nomade = MasculineArticle + Space + "nomade";
+    public const string Navire = MasculineArticle + Space + "navire";
+    public const string Nouvelle = FeminineArticle + Space + "nouvelle";
     public const string Nez = MasculineArticle + Space + "nez";
     public const string Nom = MasculineArticle + Space + "nom";
     public const string Nuit = FeminineArticle + Space + "nuit";
@@ -915,6 +919,8 @@ public class Constants
     public const string Revolution = FeminineArticle + Space + "révolution";
     public const string Rigueur = FeminineArticle + Space + "rigueur";
     public const string Romance = FeminineArticle + Space + "romance";
+    public const string Rumeur = FeminineArticle + Space + "rumeur";
+    public const string Roman = MasculineArticle + Space + "roman";
     public const string Ronde = FeminineArticle + Space + "ronde";
     public const string Ruse = FeminineArticle + Space + "ruse";
     public const string Restauration = FeminineArticle + Space + "restauration";
