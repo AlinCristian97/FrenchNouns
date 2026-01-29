@@ -298,6 +298,7 @@ public class Constants
     public const string Chaise = FeminineArticle + Space + "chaise";
     public const string Caisse = FeminineArticle + Space + "caisse";
     public const string Cabane = FeminineArticle + Space + "cabane";
+    public const string Chaine = FeminineArticle + Space + "chaîne";
     public const string Cabaret = MasculineArticle + Space + "cabaret";
     public const string Cacao = MasculineArticle + Space + "cacao";
     public const string Calculatrice = FeminineArticle + Space + "calculatrice";
