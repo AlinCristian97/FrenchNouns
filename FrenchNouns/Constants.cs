@@ -188,6 +188,7 @@ public class Constants
 
     #region "C" Nouns
     public const string Carotte = FeminineArticle + Space + "carotte";
+    public const string Contraction = FeminineArticle + Space + "contraction";
     public const string Communication = FeminineArticle + Space + "communication";
     public const string Cerise = FeminineArticle + Space + "cerise";
     public const string Chou = MasculineArticle + Space + "chou";
