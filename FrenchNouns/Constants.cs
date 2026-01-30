@@ -188,6 +188,7 @@ public class Constants
 
     #region "C" Nouns
     public const string Carotte = FeminineArticle + Space + "carotte";
+    public const string Communication = FeminineArticle + Space + "communication";
     public const string Cerise = FeminineArticle + Space + "cerise";
     public const string Chou = MasculineArticle + Space + "chou";
     public const string Cafe = MasculineArticle + Space + "café";
@@ -669,6 +670,7 @@ public class Constants
 
     #region "L" Nouns
     public const string Lentille = FeminineArticle + Space + "lentille";
+    public const string Litterature = FeminineArticle + Space + "littérature";
     public const string Lampe = FeminineArticle + Space + "lampe";
     public const string Langue = FeminineArticle + Space + "langue";
     public const string Levre = FeminineArticle + Space + "lèvre";
