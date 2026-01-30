@@ -993,6 +993,7 @@ public class Constants
     #region "R" Nouns
     public const string Raisin = MasculineArticle + Space + "raisin";
     public const string Regle = FeminineArticle + Space + "règle";
+    public const string Reserve = FeminineArticle + Space + "réserve";
     public const string Radis = MasculineArticle + Space + "radis";
     public const string Roumain = MasculineArticle + Space + "roumain";
     public const string Riz = MasculineArticle + Space + "riz";
