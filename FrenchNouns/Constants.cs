@@ -188,6 +188,8 @@ public class Constants
 
     #region "C" Nouns
     public const string Carotte = FeminineArticle + Space + "carotte";
+    public const string Collegue = MasculineArticle + Space + "collègue";
+    public const string College = MasculineArticle + Space + "collège";
     public const string Contraction = FeminineArticle + Space + "contraction";
     public const string Communication = FeminineArticle + Space + "communication";
     public const string Cerise = FeminineArticle + Space + "cerise";
@@ -1045,7 +1047,8 @@ public class Constants
     public const string Record = MasculineArticle + Space + "record";
     public const string Releve = MasculineArticle + Space + "relevé";
     public const string Remboursement = MasculineArticle + Space + "remboursement";
-    public const string Rangée = FeminineArticle + Space + "rangée";
+    public const string Rangee = FeminineArticle + Space + "rangée";
+    public const string Rang = MasculineArticle + Space + "rang";
 
     #endregion
 
