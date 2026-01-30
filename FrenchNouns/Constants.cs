@@ -44,6 +44,7 @@ public class Constants
     public const string Anglais = MasculineArticle + Space + "anglais";
     public const string Amande = FeminineArticle + Space + "amande";
     public const string Ananas = MasculineArticle + Space + "ananas";
+    public const string Arc = MasculineArticle + Space + "arc";
     public const string Artichaut = MasculineArticle + Space + "artichaut";
     public const string Aide = FeminineArticle + Space + "aide";
     public const string Appel = MasculineArticle + Space + "appel";
