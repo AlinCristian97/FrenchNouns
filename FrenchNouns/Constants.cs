@@ -41,6 +41,7 @@ public class Constants
 
     #region "A" Nouns
     public const string Abricot = MasculineArticle + Space + "abricot";
+    public const string Abime = MasculineArticle + Space + "abîme";
     public const string Anglais = MasculineArticle + Space + "anglais";
     public const string Amande = FeminineArticle + Space + "amande";
     public const string Ananas = MasculineArticle + Space + "ananas";
@@ -133,7 +134,9 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Brebis = FeminineArticle + Space + "brebis";
     public const string Banane = FeminineArticle + Space + "banane";
+    public const string Boulet = MasculineArticle + Space + "boulet";
     public const string Balancoire = FeminineArticle + Space + "balançoire";
     public const string Banc = MasculineArticle + Space + "banc";
     public const string Bienvenue = FeminineArticle + Space + "bienvenue";
@@ -187,10 +190,14 @@ public class Constants
     public const string Bricolage = MasculineArticle + Space + "bricolage";
     public const string Budget = MasculineArticle + Space + "budget";
     public const string Bureaucratie = FeminineArticle + Space + "bureaucratie";
+    public const string Bougeoir = MasculineArticle + Space + "bougeoir";
+
     #endregion
 
     #region "C" Nouns
+    public const string Coup = MasculineArticle + Space + "coup";
     public const string Carotte = FeminineArticle + Space + "carotte";
+    public const string Complexe = MasculineArticle + Space + "complexe";
     public const string Casque = MasculineArticle + Space + "casque";
     public const string Ciment = MasculineArticle + Space + "ciment";
     public const string Capuche = FeminineArticle + Space + "capuche";
@@ -623,6 +630,7 @@ public class Constants
 
     #region "I" Nouns
     public const string Igname = FeminineArticle + Space + "igname";
+    public const string Interet = MasculineArticle + Space + "intérêt";
     public const string Interphone = MasculineArticle + Space + "interphone";
     public const string Immeuble = MasculineArticle + Space + "immeuble";
     public const string Idee = FeminineArticle + Space + "idée";
@@ -697,6 +705,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Laine = FeminineArticle + Space + "laine";
     public const string Lentille = FeminineArticle + Space + "lentille";
     public const string Lanterne = FeminineArticle + Space + "lanterne";
     public const string Litterature = FeminineArticle + Space + "littérature";
@@ -816,6 +825,7 @@ public class Constants
 
     #region "N" Nouns
     public const string Navet = MasculineArticle + Space + "navet";
+    public const string Narrateur = MasculineArticle + Space + "narrateur";
     public const string Noix = FeminineArticle + Space + "noix";
     public const string Nature = FeminineArticle + Space + "nature";
     public const string Nourriture = FeminineArticle + Space + "nourriture";
@@ -897,6 +907,7 @@ public class Constants
 
     #region "P" Nouns
     public const string Poivron = MasculineArticle + Space + "poivron";
+    public const string Placard = MasculineArticle + Space + "placard";
     public const string Prothese = FeminineArticle + Space + "prothèse";
     public const string Poubelle = FeminineArticle + Space + "poubelle";
     public const string Pipi = MasculineArticle + Space + "pipi";
@@ -1091,7 +1102,9 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Sabot = MasculineArticle + Space + "sabot";
     public const string Saumon = MasculineArticle + Space + "saumon";
+    public const string Seau = MasculineArticle + Space + "seau";
     public const string Serrure = FeminineArticle + Space + "serrure";
     public const string Spoiler = MasculineArticle + Space + "spoiler";
     public const string Sucre = MasculineArticle + Space + "sucre";
@@ -1180,6 +1193,7 @@ public class Constants
 
     #region "T" Nouns
     public const string Tomate = FeminineArticle + Space + "tomate";
+    public const string Toison = FeminineArticle + Space + "toison";
     public const string Toboggan = MasculineArticle + Space + "toboggan";
     public const string Trottoir = MasculineArticle + Space + "trottoir";
     public const string Thon = MasculineArticle + Space + "thon";
