@@ -1156,6 +1156,7 @@ public class Constants
     public const string SousTitre = MasculineArticle + Space + "sous-titre";
     public const string Salle = FeminineArticle + Space + "salle";
     public const string Sacrifice = MasculineArticle + Space + "sacrifice";
+    public const string Sauvegarde = FeminineArticle + Space + "sauvegarde";
     public const string Sourire = MasculineArticle + Space + "sourire";
     public const string Sein = MasculineArticle + Space + "sein";
     public const string Sceau = MasculineArticle + Space + "sceau";
