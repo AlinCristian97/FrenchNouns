@@ -41,6 +41,7 @@ public class Constants
 
     #region "A" Nouns
     public const string Alambic = MasculineArticle + Space + "alambic";
+    public const string Adolescent = MasculineArticle + Space + "adolescent";
     public const string Autochtone = MasculineArticle + Space + "autochtone";
     public const string Attaque = FeminineArticle + Space + "attaque";
     public const string Amateur = MasculineArticle + Space + "amateur";
@@ -202,6 +203,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Conquete = FeminineArticle + Space + "conquête";
+    public const string Cygne = MasculineArticle + Space + "cygne";
     public const string Couvercle = MasculineArticle + Space + "couvercle";
     public const string Concoction = FeminineArticle + Space + "concoction";
     public const string Crane = MasculineArticle + Space + "crâne";
@@ -429,6 +432,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Effet = MasculineArticle + Space + "effet";
+    public const string Espoir = MasculineArticle + Space + "espoir";
     public const string Endive = FeminineArticle + Space + "endive";
     public const string Epee = FeminineArticle + Space + "épée";
     public const string Endroit = MasculineArticle + Space + "endroit";
@@ -622,6 +626,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Habitude = FeminineArticle + Space + "habitude";
     public const string Herbe = FeminineArticle + Space + "herbe";
     public const string Heure = FeminineArticle + Space + "heure";
     public const string Hooligan = MasculineArticle + Space + "hooligan";
@@ -731,6 +736,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Laisse = FeminineArticle + Space + "laisse";
     public const string Labo = MasculineArticle + Space + "labo";
     public const string Laine = FeminineArticle + Space + "laine";
     public const string Lentille = FeminineArticle + Space + "lentille";
@@ -939,6 +945,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Port = MasculineArticle + Space + "port";
     public const string Pis = MasculineArticle + Space + "pis";
     public const string Porc = MasculineArticle + Space + "porc";
     public const string Parchemin = MasculineArticle + Space + "parchemin";
@@ -1145,7 +1152,9 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Serre = FeminineArticle + Space + "serre";
     public const string Soute = FeminineArticle + Space + "soute";
+    public const string Station = FeminineArticle + Space + "station";
     public const string Specialite = FeminineArticle + Space + "spécialité";
     public const string Sabot = MasculineArticle + Space + "sabot";
     public const string Saumon = MasculineArticle + Space + "saumon";
@@ -1238,6 +1247,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Trompe = FeminineArticle + Space + "trompe";
     public const string Tonneau = MasculineArticle + Space + "tonneau";
     public const string Tarte = FeminineArticle + Space + "tarte";
     public const string Tintement = MasculineArticle + Space + "tintement";
