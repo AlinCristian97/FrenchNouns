@@ -768,6 +768,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Magister = MasculineArticle + Space + "magister";
     public const string Marmite = FeminineArticle + Space + "marmite";
     public const string Miche = FeminineArticle + Space + "miche";
     public const string Marchandise = FeminineArticle + Space + "marchandise";
