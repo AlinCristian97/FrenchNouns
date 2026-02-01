@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Attaque = FeminineArticle + Space + "attaque";
     public const string Amateur = MasculineArticle + Space + "amateur";
     public const string Abricot = MasculineArticle + Space + "abricot";
     public const string Abime = MasculineArticle + Space + "abîme";
@@ -199,12 +200,14 @@ public class Constants
     public const string Cargaison = FeminineArticle + Space + "cargaison";
     public const string Cuistot = MasculineArticle + Space + "cuistot";
     public const string Chope = FeminineArticle + Space + "chope";
+    public const string Cible = FeminineArticle + Space + "cible";
     public const string Coup = MasculineArticle + Space + "coup";
     public const string Carotte = FeminineArticle + Space + "carotte";
     public const string Complexe = MasculineArticle + Space + "complexe";
     public const string Casque = MasculineArticle + Space + "casque";
     public const string Ciment = MasculineArticle + Space + "ciment";
     public const string Capuche = FeminineArticle + Space + "capuche";
+    public const string Colle = FeminineArticle + Space + "colle";
     public const string Cigarette = FeminineArticle + Space + "cigarette";
     public const string Collegue = MasculineArticle + Space + "collègue";
     public const string Clope = FeminineArticle + Space + "clope";
@@ -361,9 +364,11 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Degat = MasculineArticle + Space + "dégât";
     public const string Dague = FeminineArticle + Space + "dague";
     public const string Derniere = FeminineArticle + Space + "dernière";
     public const string Datte = FeminineArticle + Space + "datte";
+    public const string Durabilite = FeminineArticle + Space + "durabilité";
     public const string Derriere = MasculineArticle + Space + "derrière";
     public const string Defi = MasculineArticle + Space + "défi";
     public const string Deuxieme = MasculineArticle + Space + "deuxième";
