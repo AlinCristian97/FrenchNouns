@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Ablution = FeminineArticle + Space + "ablution";
     public const string Alambic = MasculineArticle + Space + "alambic";
     public const string Adolescent = MasculineArticle + Space + "adolescent";
     public const string Autochtone = MasculineArticle + Space + "autochtone";
@@ -141,6 +142,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bord = MasculineArticle + Space + "bord";
     public const string Bocal = MasculineArticle + Space + "bocal";
     public const string BricABrac = MasculineArticle + Space + "bric-à-brac";
     public const string Barre = FeminineArticle + Space + "barre";
@@ -878,6 +880,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Noble = MasculineArticle + Space + "noble";
     public const string Navet = MasculineArticle + Space + "navet";
     public const string Narrateur = MasculineArticle + Space + "narrateur";
     public const string Noix = FeminineArticle + Space + "noix";
@@ -965,6 +968,7 @@ public class Constants
 
     #region "P" Nouns
     public const string Profession = FeminineArticle + Space + "profession";
+    public const string Patience = FeminineArticle + Space + "patience";
     public const string Personnage = MasculineArticle + Space + "personnage";
     public const string Planete = FeminineArticle + Space + "planète";
     public const string Passager = MasculineArticle + Space + "passager";
@@ -1111,6 +1115,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Repos = MasculineArticle + Space + "repos";
     public const string Race = FeminineArticle + Space + "race";
     public const string Reste = MasculineArticle + Space + "reste";
     public const string Rose = FeminineArticle + Space + "rose";
@@ -1180,6 +1185,9 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Serviteur = MasculineArticle + Space + "serviteur";
+    public const string Slave = MasculineArticle + Space + "slave";
+    public const string Soldat = MasculineArticle + Space + "soldat";
     public const string Sexe = MasculineArticle + Space + "sexe";
     public const string Sanglier = MasculineArticle + Space + "sanglier";
     public const string Serpent = MasculineArticle + Space + "serpent";
