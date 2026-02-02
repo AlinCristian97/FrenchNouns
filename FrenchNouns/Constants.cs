@@ -142,6 +142,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bout = MasculineArticle + Space + "bout";
     public const string Bord = MasculineArticle + Space + "bord";
     public const string Bocal = MasculineArticle + Space + "bocal";
     public const string BricABrac = MasculineArticle + Space + "bric-à-brac";
@@ -207,6 +208,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Cap = MasculineArticle + Space + "cap";
+    public const string Crainte = FeminineArticle + Space + "crainte";
     public const string Course = FeminineArticle + Space + "course";
     public const string Charge = FeminineArticle + Space + "charge";
     public const string Corbeau = MasculineArticle + Space + "corbeau";
@@ -439,6 +442,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Esprit = MasculineArticle + Space + "esprit";
     public const string Elephant = MasculineArticle + Space + "éléphant";
     public const string Effet = MasculineArticle + Space + "effet";
     public const string Espoir = MasculineArticle + Space + "espoir";
@@ -537,6 +541,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fort = MasculineArticle + Space + "fort";
     public const string Fiole = FeminineArticle + Space + "fiole";
     public const string Fond = MasculineArticle + Space + "fond";
     public const string Fidele = MasculineArticle + Space + "fidèle";
@@ -671,6 +676,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Index = MasculineArticle + Space + "index";
     public const string Igname = FeminineArticle + Space + "igname";
     public const string Interet = MasculineArticle + Space + "intérêt";
     public const string Interphone = MasculineArticle + Space + "interphone";
@@ -789,6 +795,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Moindre = MasculineArticle + Space + "moindre";
     public const string Membre = MasculineArticle + Space + "membre";
     public const string Manifeste = MasculineArticle + Space + "manifeste";
     public const string Marguerite = FeminineArticle + Space + "marguerite";
@@ -930,6 +937,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Observateur = MasculineArticle + Space + "observateur";
     public const string Option = FeminineArticle + Space + "option";
     public const string Ours = MasculineArticle + Space + "ours";
     public const string Oeuf = MasculineArticle + Space + "oeuf";
@@ -967,6 +975,9 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pleonasme = MasculineArticle + Space + "pléonasme";
+    public const string Proie = FeminineArticle + Space + "proie";
+    public const string Pause = FeminineArticle + Space + "pause";
     public const string Profession = FeminineArticle + Space + "profession";
     public const string Patience = FeminineArticle + Space + "patience";
     public const string Personnage = MasculineArticle + Space + "personnage";
@@ -1115,6 +1126,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Redondance = FeminineArticle + Space + "redondance";
     public const string Repos = MasculineArticle + Space + "repos";
     public const string Race = FeminineArticle + Space + "race";
     public const string Reste = MasculineArticle + Space + "reste";
@@ -1185,6 +1197,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Sedatif = MasculineArticle + Space + "sédatif";
     public const string Serviteur = MasculineArticle + Space + "serviteur";
     public const string Slave = MasculineArticle + Space + "slave";
     public const string Soldat = MasculineArticle + Space + "soldat";
@@ -1286,6 +1299,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Temoin = MasculineArticle + Space + "témoin";
     public const string Tulipe = FeminineArticle + Space + "tulipe";
     public const string Tigre = MasculineArticle + Space + "tigre";
     public const string Trompe = FeminineArticle + Space + "trompe";
