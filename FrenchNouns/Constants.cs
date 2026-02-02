@@ -977,6 +977,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Piege = MasculineArticle + Space + "piège";
     public const string Propre = MasculineArticle + Space + "propre";
     public const string Pleonasme = MasculineArticle + Space + "pléonasme";
     public const string Proie = FeminineArticle + Space + "proie";
@@ -1130,6 +1131,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rien = MasculineArticle + Space + "rien";
     public const string Redondance = FeminineArticle + Space + "redondance";
     public const string Repos = MasculineArticle + Space + "repos";
     public const string Race = FeminineArticle + Space + "race";
