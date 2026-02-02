@@ -137,6 +137,7 @@ public class Constants
     public const string Aromate = MasculineArticle + Space + "aromate";
     public const string Articulation = FeminineArticle + Space + "articulation";
     public const string Aigle = MasculineArticle + Space + "aigle";
+    public const string Avatar = MasculineArticle + Space + "avatar";
     #endregion
 
     #region "B" Nouns
@@ -204,6 +205,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Course = FeminineArticle + Space + "course";
+    public const string Charge = FeminineArticle + Space + "charge";
     public const string Corbeau = MasculineArticle + Space + "corbeau";
     public const string Conquete = FeminineArticle + Space + "conquête";
     public const string Cygne = MasculineArticle + Space + "cygne";
@@ -585,6 +588,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Groupe = MasculineArticle + Space + "groupe";
     public const string Grenade = FeminineArticle + Space + "grenade";
     public const string Groseille = FeminineArticle + Space + "groseille";
     public const string Gland = MasculineArticle + Space + "gland";
@@ -783,6 +787,8 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Membre = MasculineArticle + Space + "membre";
+    public const string Manifeste = MasculineArticle + Space + "manifeste";
     public const string Marguerite = FeminineArticle + Space + "marguerite";
     public const string Magister = MasculineArticle + Space + "magister";
     public const string Marmite = FeminineArticle + Space + "marmite";
@@ -921,6 +927,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Option = FeminineArticle + Space + "option";
     public const string Ours = MasculineArticle + Space + "ours";
     public const string Oeuf = MasculineArticle + Space + "oeuf";
     public const string Orthographe = FeminineArticle + Space + "orthographe";
@@ -953,9 +960,14 @@ public class Constants
     public const string Octobre = MasculineArticle + Space + "octobre";
     public const string Olive = FeminineArticle + Space + "olive";
     public const string Oignon = MasculineArticle + Space + "oignon";
+    public const string Officier = MasculineArticle + Space + "officier";
     #endregion
 
     #region "P" Nouns
+    public const string Profession = FeminineArticle + Space + "profession";
+    public const string Personnage = MasculineArticle + Space + "personnage";
+    public const string Planete = FeminineArticle + Space + "planète";
+    public const string Passager = MasculineArticle + Space + "passager";
     public const string Pigeon = MasculineArticle + Space + "pigeon";
     public const string Port = MasculineArticle + Space + "port";
     public const string Pis = MasculineArticle + Space + "pis";
@@ -1099,6 +1111,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Race = FeminineArticle + Space + "race";
+    public const string Reste = MasculineArticle + Space + "reste";
     public const string Rose = FeminineArticle + Space + "rose";
     public const string Renard = MasculineArticle + Space + "renard";
     public const string Resultat = MasculineArticle + Space + "résultat";
@@ -1166,6 +1180,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Sexe = MasculineArticle + Space + "sexe";
     public const string Sanglier = MasculineArticle + Space + "sanglier";
     public const string Serpent = MasculineArticle + Space + "serpent";
     public const string Serre = FeminineArticle + Space + "serre";
