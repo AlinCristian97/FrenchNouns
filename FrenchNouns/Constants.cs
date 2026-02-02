@@ -893,6 +893,7 @@ public class Constants
     public const string Navet = MasculineArticle + Space + "navet";
     public const string Narrateur = MasculineArticle + Space + "narrateur";
     public const string Noix = FeminineArticle + Space + "noix";
+    public const string Necessaire = MasculineArticle + Space + "nécessaire";
     public const string Nature = FeminineArticle + Space + "nature";
     public const string Nourriture = FeminineArticle + Space + "nourriture";
     public const string Nombril = MasculineArticle + Space + "nombril";
@@ -1325,7 +1326,7 @@ public class Constants
     public const string Tibia = MasculineArticle + Space + "tibia";
     public const string Testicule = MasculineArticle + Space + "testicule";
     public const string Thorax = MasculineArticle + Space + "thorax";
-    public const string Tete = FeminineArticle + Space + "tete";
+    public const string Tete = FeminineArticle + Space + "tête";
     public const string Tort = MasculineArticle + Space + "tort";
     public const string Tortue = FeminineArticle + Space + "tortue";
     public const string Tableau = MasculineArticle + Space + "tableau";
