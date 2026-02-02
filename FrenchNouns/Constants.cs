@@ -208,6 +208,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Capture = FeminineArticle + Space + "capture";
     public const string Cap = MasculineArticle + Space + "cap";
     public const string Crainte = FeminineArticle + Space + "crainte";
     public const string Course = FeminineArticle + Space + "course";
@@ -386,6 +387,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Danger = MasculineArticle + Space + "danger";
     public const string Dauphin = MasculineArticle + Space + "dauphin";
     public const string Degat = MasculineArticle + Space + "dégât";
     public const string Dague = FeminineArticle + Space + "dague";
@@ -975,6 +977,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Propre = MasculineArticle + Space + "propre";
     public const string Pleonasme = MasculineArticle + Space + "pléonasme";
     public const string Proie = FeminineArticle + Space + "proie";
     public const string Pause = FeminineArticle + Space + "pause";
@@ -1002,6 +1005,7 @@ public class Constants
     public const string Programmation = FeminineArticle + Space + "programmation";
     public const string Penis = MasculineArticle + Space + "pénis";
     public const string Poignet = MasculineArticle + Space + "poignet";
+    public const string Pouvoir = MasculineArticle + Space + "pouvoir";
     public const string Porteur = MasculineArticle + Space + "porteur";
     public const string Peinture = FeminineArticle + Space + "peinture";
     public const string Plafond = MasculineArticle + Space + "plafond";
@@ -1299,6 +1303,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tranquillite = FeminineArticle + Space + "tranquillité";
     public const string Temoin = MasculineArticle + Space + "témoin";
     public const string Tulipe = FeminineArticle + Space + "tulipe";
     public const string Tigre = MasculineArticle + Space + "tigre";
