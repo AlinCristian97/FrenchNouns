@@ -657,6 +657,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Horaire = MasculineArticle + Space + "horaire";
     public const string Hippopotame = MasculineArticle + Space + "hippopotame";
     public const string Habitude = FeminineArticle + Space + "habitude";
     public const string Herbe = FeminineArticle + Space + "herbe";
