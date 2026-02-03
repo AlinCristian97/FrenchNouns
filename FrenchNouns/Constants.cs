@@ -802,6 +802,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Moyen = MasculineArticle + Space + "moyen";
     public const string Meurtre = MasculineArticle + Space + "meurtre";
     public const string Moindre = MasculineArticle + Space + "moindre";
     public const string Membre = MasculineArticle + Space + "membre";
@@ -984,6 +985,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Protection = FeminineArticle + Space + "protection";
     public const string Position = FeminineArticle + Space + "position";
     public const string Pale = FeminineArticle + Space + "pale";
     public const string Piege = MasculineArticle + Space + "piège";
@@ -1213,6 +1215,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Scene = FeminineArticle + Space + "scène";
     public const string Suspect = MasculineArticle + Space + "suspect";
     public const string Silencieux = MasculineArticle + Space + "silencieux";
     public const string Sedatif = MasculineArticle + Space + "sédatif";
@@ -1250,6 +1253,8 @@ public class Constants
     public const string Selection = FeminineArticle + Space + "sélection";
     public const string Somme = FeminineArticle + Space + "somme";
     public const string Stylet = MasculineArticle + Space + "stylet";
+    public const string Sorcier = MasculineArticle + Space + "sorcier";
+    public const string Sorciere = FeminineArticle + Space + "sorcière";
     public const string Succes = MasculineArticle + Space + "succès";
     public const string Semaine = FeminineArticle + Space + "semaine";
     public const string Skateboard = MasculineArticle + Space + "skateboard";
@@ -1381,6 +1386,7 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Vrai = MasculineArticle + Space + "vrai";
     public const string Victime = FeminineArticle + Space + "victime";
     public const string Violette = FeminineArticle + Space + "violette";
     public const string Verrouillage = MasculineArticle + Space + "verrouillage";
