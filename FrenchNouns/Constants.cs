@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Arme = FeminineArticle + Space + "arme";
     public const string Ablution = FeminineArticle + Space + "ablution";
     public const string Alambic = MasculineArticle + Space + "alambic";
     public const string Adolescent = MasculineArticle + Space + "adolescent";
@@ -208,6 +209,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Convulsion = FeminineArticle + Space + "convulsion";
     public const string Capture = FeminineArticle + Space + "capture";
     public const string Cap = MasculineArticle + Space + "cap";
     public const string Crainte = FeminineArticle + Space + "crainte";
@@ -978,6 +980,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Position = FeminineArticle + Space + "position";
+    public const string Pale = FeminineArticle + Space + "pale";
     public const string Piege = MasculineArticle + Space + "piège";
     public const string Propre = MasculineArticle + Space + "propre";
     public const string Pleonasme = MasculineArticle + Space + "pléonasme";
@@ -1204,6 +1208,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Silencieux = MasculineArticle + Space + "silencieux";
     public const string Sedatif = MasculineArticle + Space + "sédatif";
     public const string Serviteur = MasculineArticle + Space + "serviteur";
     public const string Slave = MasculineArticle + Space + "slave";
