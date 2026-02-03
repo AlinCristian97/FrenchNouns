@@ -1410,6 +1410,8 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Vieux = MasculineArticle + Space + "vieux";
+    public const string Vieille = FeminineArticle + Space + "vieille";
     public const string Vrai = MasculineArticle + Space + "vrai";
     public const string Victime = FeminineArticle + Space + "victime";
     public const string Violette = FeminineArticle + Space + "violette";
