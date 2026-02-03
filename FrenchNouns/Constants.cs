@@ -214,6 +214,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Corde = FeminineArticle + Space + "corde";
     public const string Contrat = MasculineArticle + Space + "contrat";
     public const string Cas = MasculineArticle + Space + "cas";
     public const string Crime = MasculineArticle + Space + "crime";
