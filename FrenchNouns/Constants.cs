@@ -40,6 +40,8 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Alliance = FeminineArticle + Space + "alliance";
+    public const string Accord = MasculineArticle + Space + "accord";
     public const string Assassin = MasculineArticle + Space + "assassin";
     public const string Autre = MasculineArticle + Space + "autre";
     public const string Arme = FeminineArticle + Space + "arme";
@@ -212,6 +214,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Contrat = MasculineArticle + Space + "contrat";
     public const string Cas = MasculineArticle + Space + "cas";
     public const string Crime = MasculineArticle + Space + "crime";
     public const string Coupable = MasculineArticle + Space + "coupable";
@@ -995,6 +998,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Poesie = FeminineArticle + Space + "poésie";
     public const string Pouce = MasculineArticle + Space + "pouce";
     public const string Poing = MasculineArticle + Space + "poing";
     public const string Protection = FeminineArticle + Space + "protection";
