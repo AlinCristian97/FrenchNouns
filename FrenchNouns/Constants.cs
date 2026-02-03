@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Assassin = MasculineArticle + Space + "assassin";
     public const string Autre = MasculineArticle + Space + "autre";
     public const string Arme = FeminineArticle + Space + "arme";
     public const string Ablution = FeminineArticle + Space + "ablution";
@@ -210,6 +211,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Cas = MasculineArticle + Space + "cas";
+    public const string Crime = MasculineArticle + Space + "crime";
     public const string Coupable = MasculineArticle + Space + "coupable";
     public const string Convulsion = FeminineArticle + Space + "convulsion";
     public const string Capture = FeminineArticle + Space + "capture";
@@ -391,6 +394,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Dortoir = MasculineArticle + Space + "dortoir";
     public const string Danger = MasculineArticle + Space + "danger";
     public const string Dauphin = MasculineArticle + Space + "dauphin";
     public const string Degat = MasculineArticle + Space + "dégât";
@@ -682,6 +686,8 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Innocence = FeminineArticle + Space + "innocence";
+    public const string Individu = MasculineArticle + Space + "individu";
     public const string Index = MasculineArticle + Space + "index";
     public const string Igname = FeminineArticle + Space + "igname";
     public const string Interet = MasculineArticle + Space + "intérêt";
@@ -802,6 +808,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Muet = MasculineArticle + Space + "muet";
     public const string Moyen = MasculineArticle + Space + "moyen";
     public const string Meurtre = MasculineArticle + Space + "meurtre";
     public const string Moindre = MasculineArticle + Space + "moindre";
@@ -947,6 +954,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Ode = FeminineArticle + Space + "ode";
     public const string Observateur = MasculineArticle + Space + "observateur";
     public const string Option = FeminineArticle + Space + "option";
     public const string Ours = MasculineArticle + Space + "ours";
@@ -985,6 +993,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pouce = MasculineArticle + Space + "pouce";
+    public const string Poing = MasculineArticle + Space + "poing";
     public const string Protection = FeminineArticle + Space + "protection";
     public const string Position = FeminineArticle + Space + "position";
     public const string Pale = FeminineArticle + Space + "pale";
@@ -1011,6 +1021,7 @@ public class Constants
     public const string Prothese = FeminineArticle + Space + "prothèse";
     public const string Poubelle = FeminineArticle + Space + "poubelle";
     public const string Pipi = MasculineArticle + Space + "pipi";
+    public const string Prisonnier = MasculineArticle + Space + "prisonnier";
     public const string Point = MasculineArticle + Space + "point";
     public const string Pain = MasculineArticle + Space + "pain";
     public const string Pierre = FeminineArticle + Space + "pierre";
@@ -1322,6 +1333,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tombe = FeminineArticle + Space + "tombe";
     public const string Tangage = MasculineArticle + Space + "tangage";
     public const string Tranquillite = FeminineArticle + Space + "tranquillité";
     public const string Temoin = MasculineArticle + Space + "témoin";
@@ -1375,6 +1387,7 @@ public class Constants
     #endregion
 
     #region "U" Nouns
+    public const string Uniforme = MasculineArticle + Space + "uniforme";
     public const string Univers = MasculineArticle + Space + "univers";
     public const string Universite = FeminineArticle + Space + "université";
     public const string Usage = MasculineArticle + Space + "usage";
