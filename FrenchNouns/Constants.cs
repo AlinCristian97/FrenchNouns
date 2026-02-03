@@ -154,6 +154,7 @@ public class Constants
     public const string Banane = FeminineArticle + Space + "banane";
     public const string Boulet = MasculineArticle + Space + "boulet";
     public const string Balancoire = FeminineArticle + Space + "balançoire";
+    public const string Balance = FeminineArticle + Space + "balance";
     public const string Banc = MasculineArticle + Space + "banc";
     public const string Bienvenue = FeminineArticle + Space + "bienvenue";
     public const string Biscuit = MasculineArticle + Space + "biscuit";
@@ -452,6 +453,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Ennemi = MasculineArticle + Space + "ennemi";
     public const string Esprit = MasculineArticle + Space + "esprit";
     public const string Elephant = MasculineArticle + Space + "éléphant";
     public const string Effet = MasculineArticle + Space + "effet";
