@@ -814,6 +814,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Metal = MasculineArticle + Space + "métal";
     public const string Muet = MasculineArticle + Space + "muet";
     public const string Moyen = MasculineArticle + Space + "moyen";
     public const string Meurtre = MasculineArticle + Space + "meurtre";
@@ -999,6 +1000,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Paillasse = FeminineArticle + Space + "paillasse";
     public const string Poesie = FeminineArticle + Space + "poésie";
     public const string Pouce = MasculineArticle + Space + "pouce";
     public const string Poing = MasculineArticle + Space + "poing";
@@ -1160,6 +1162,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Remede = MasculineArticle + Space + "remède";
     public const string Roulis = MasculineArticle + Space + "roulis";
     public const string Rien = MasculineArticle + Space + "rien";
     public const string Redondance = FeminineArticle + Space + "redondance";
