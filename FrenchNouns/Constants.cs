@@ -196,6 +196,7 @@ public class Constants
     public const string Boite = FeminineArticle + Space + "boîte";
     public const string Bouton = MasculineArticle + Space + "bouton";
     public const string Boulangerie = FeminineArticle + Space + "boulangerie";
+    public const string Barbe = FeminineArticle + Space + "barbe";
     public const string Boulot = MasculineArticle + Space + "boulot";
     public const string Branche = FeminineArticle + Space + "branche";
     public const string Brique = FeminineArticle + Space + "brique";
@@ -836,6 +837,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Medaillon = MasculineArticle + Space + "médaillon";
     public const string Molosse = MasculineArticle + Space + "molosse";
     public const string Match = MasculineArticle + Space + "match";
     public const string Maire = MasculineArticle + Space + "maire";
@@ -936,6 +938,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Nain = MasculineArticle + Space + "nain";
     public const string Noble = MasculineArticle + Space + "noble";
     public const string Navet = MasculineArticle + Space + "navet";
     public const string Narrateur = MasculineArticle + Space + "narrateur";
@@ -1027,7 +1030,9 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Poil = MasculineArticle + Space + "poil";
     public const string Presence = FeminineArticle + Space + "présence";
+    public const string Paume = FeminineArticle + Space + "paume";
     public const string Page = FeminineArticle + Space + "page";
     public const string Politique = FeminineArticle + Space + "politique";
     public const string Pelouse = FeminineArticle + Space + "pelouse";
@@ -1395,6 +1400,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tresse = FeminineArticle + Space + "tresse";
     public const string Tabouret = MasculineArticle + Space + "tabouret";
     public const string Technique = FeminineArticle + Space + "technique";
     public const string Territoire = MasculineArticle + Space + "territoire";
