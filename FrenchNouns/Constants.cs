@@ -468,6 +468,8 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Encyclopedie = FeminineArticle + Space + "encyclopédie";
+    public const string Elfe = MasculineArticle + Space + "elfe";
     public const string Espace = MasculineArticle + Space + "espace";
     public const string Ennemi = MasculineArticle + Space + "ennemi";
     public const string Esprit = MasculineArticle + Space + "esprit";
@@ -834,6 +836,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Molosse = MasculineArticle + Space + "molosse";
     public const string Match = MasculineArticle + Space + "match";
     public const string Maire = MasculineArticle + Space + "maire";
     public const string Municipe = MasculineArticle + Space + "municipe";
@@ -1024,6 +1027,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Presence = FeminineArticle + Space + "présence";
+    public const string Page = FeminineArticle + Space + "page";
     public const string Politique = FeminineArticle + Space + "politique";
     public const string Pelouse = FeminineArticle + Space + "pelouse";
     public const string Prehistoire = FeminineArticle + Space + "préhistoire";
@@ -1122,6 +1127,7 @@ public class Constants
     public const string Presse = FeminineArticle + Space + "presse";
     public const string Plante = FeminineArticle + Space + "plante";
     public const string Piece = FeminineArticle + Space + "pièce";
+    public const string Prince = MasculineArticle + Space + "prince";
     public const string Princesse = FeminineArticle + Space + "princesse";
     public const string Programme = MasculineArticle + Space + "programme";
     public const string Projet = MasculineArticle + Space + "projet";
@@ -1167,6 +1173,7 @@ public class Constants
     public const string Physique = FeminineArticle + Space + "physique";
     public const string Pianiste = MasculineArticle + Space + "pianiste";
     public const string Perception = FeminineArticle + Space + "perception";
+    public const string Panier = MasculineArticle + Space + "panier";
     public const string Performance = FeminineArticle + Space + "performance";
     public const string Poitrine = FeminineArticle + Space + "poitrine";
     public const string Politicien = MasculineArticle + Space + "politicien";
@@ -1195,6 +1202,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Regard = MasculineArticle + Space + "regard";
     public const string Recensement = MasculineArticle + Space + "recensement";
     public const string Representant = MasculineArticle + Space + "représentant";
     public const string Riverain = MasculineArticle + Space + "riverain";
@@ -1273,6 +1281,9 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Siege = MasculineArticle + Space + "siège";
+    public const string Sens = MasculineArticle + Space + "sens";
+    public const string Support = MasculineArticle + Space + "support";
     public const string Senior = MasculineArticle + Space + "senior";
     public const string Speculation = FeminineArticle + Space + "spéculation";
     public const string Site = MasculineArticle + Space + "site";
@@ -1384,6 +1395,8 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tabouret = MasculineArticle + Space + "tabouret";
+    public const string Technique = FeminineArticle + Space + "technique";
     public const string Territoire = MasculineArticle + Space + "territoire";
     public const string Tombe = FeminineArticle + Space + "tombe";
     public const string Tangage = MasculineArticle + Space + "tangage";
