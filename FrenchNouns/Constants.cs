@@ -243,6 +243,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Combattant = MasculineArticle + Space + "combattant";
     public const string Cone = MasculineArticle + Space + "cône";
     public const string Contraire = MasculineArticle + Space + "contraire";
     public const string Constitution = FeminineArticle + Space + "constitution";
