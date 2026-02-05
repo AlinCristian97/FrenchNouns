@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Abri = MasculineArticle + Space + "abri";
     public const string Amas = MasculineArticle + Space + "amas";
     public const string Apostrophe = FeminineArticle + Space + "apostrophe";
     public const string Avertissement = MasculineArticle + Space + "avertissement";
@@ -236,6 +237,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Cupidon = MasculineArticle + Space + "cupidon";
     public const string Commere = FeminineArticle + Space + "commère";
     public const string Carnet = MasculineArticle + Space + "carnet";
     public const string Crise = FeminineArticle + Space + "crise";
@@ -302,6 +304,7 @@ public class Constants
     public const string Ceremonie = FeminineArticle + Space + "cérémonie";
     public const string Champ = MasculineArticle + Space + "champ";
     public const string Chou = MasculineArticle + Space + "chou";
+    public const string Cerf = MasculineArticle + Space + "cerf";
     public const string Cafe = MasculineArticle + Space + "café";
     public const string Camp = MasculineArticle + Space + "camp";
     public const string Cuisse = FeminineArticle + Space + "cuisse";
@@ -511,6 +514,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Escarde = FeminineArticle + Space + "escarde";
     public const string Eveque = MasculineArticle + Space + "évêque";
     public const string Esclave = MasculineArticle + Space + "esclave";
     public const string Entretien = MasculineArticle + Space + "entretien";
@@ -623,6 +627,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fut = MasculineArticle + Space + "fut";
     public const string Fripouille = FeminineArticle + Space + "fripouille";
     public const string Festin = MasculineArticle + Space + "festin";
     public const string Facteur = MasculineArticle + Space + "facteur";
@@ -690,6 +695,9 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Gypse = MasculineArticle + Space + "gypse";
+    public const string Gosse = MasculineArticle + Space + "gosse";
+    public const string Gentilhomme = MasculineArticle + Space + "gentilhomme";
     public const string Gorge = FeminineArticle + Space + "gorge";
     public const string Glaire = FeminineArticle + Space + "glaire";
     public const string Gouvernail = MasculineArticle + Space + "gouvernail";
@@ -870,6 +878,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Lamentation = FeminineArticle + Space + "lamentation";
     public const string Larme = FeminineArticle + Space + "larme";
     public const string Logement = MasculineArticle + Space + "logement";
     public const string Lezard = MasculineArticle + Space + "lézard";
@@ -1123,6 +1132,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Prenom = MasculineArticle + Space + "prénom";
     public const string Pli = MasculineArticle + Space + "pli";
     public const string PasseTemps = MasculineArticle + Space + "passe-temps";
     public const string Preoccupation = FeminineArticle + Space + "préoccupation";
@@ -1403,6 +1413,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Surnom = MasculineArticle + Space + "surnom";
     public const string Subordonne = MasculineArticle + Space + "subordonné";
     public const string Solde_Feminine = FeminineArticle + Space + "solde";
     public const string Solde_Masculine = MasculineArticle + Space + "solde";
