@@ -150,6 +150,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bastion = MasculineArticle + Space + "bastion";
     public const string Breve = FeminineArticle + Space + "brève";
     public const string Bout = MasculineArticle + Space + "bout";
     public const string Bord = MasculineArticle + Space + "bord";
@@ -219,6 +220,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Complainte = FeminineArticle + Space + "complainte";
+    public const string Clapotement = MasculineArticle + Space + "clapotement";
     public const string Casting = MasculineArticle + Space + "casting";
     public const string Citoyen = MasculineArticle + Space + "citoyen";
     public const string Clos = MasculineArticle + Space + "clos";
@@ -469,6 +472,10 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Eclat = MasculineArticle + Space + "éclat";
+    public const string Ensemble = MasculineArticle + Space + "ensemble";
+    public const string Eclairage = MasculineArticle + Space + "éclairage";
+    public const string Entraineur = MasculineArticle + Space + "entraîneur";
     public const string Encyclopedie = FeminineArticle + Space + "encyclopédie";
     public const string Elfe = MasculineArticle + Space + "elfe";
     public const string Espace = MasculineArticle + Space + "espace";
@@ -568,10 +575,14 @@ public class Constants
     public const string Ete = MasculineArticle + Space + "été";
     public const string Equipement = MasculineArticle + Space + "équipement";
     public const string Exterieur = MasculineArticle + Space + "extérieur";
-
+    public const string Educateur = MasculineArticle + Space + "éducateur";
+    public const string Entrainement = MasculineArticle + Space + "entraînement";
     #endregion
 
     #region "F" Nouns
+    public const string Fracas = MasculineArticle + Space + "fracas";
+    public const string Football = MasculineArticle + Space + "football";
+    public const string Figure = FeminineArticle + Space + "figure";
     public const string Facette = FeminineArticle + Space + "facette";
     public const string Fort = MasculineArticle + Space + "fort";
     public const string Fiole = FeminineArticle + Space + "fiole";
@@ -627,6 +638,10 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Gouvernail = MasculineArticle + Space + "gouvernail";
+    public const string Gemissement = MasculineArticle + Space + "gémissement";
+    public const string Geste = MasculineArticle + Space + "geste";
+    public const string Generation = FeminineArticle + Space + "génération";
     public const string Groupe = MasculineArticle + Space + "groupe";
     public const string Grenade = FeminineArticle + Space + "grenade";
     public const string Groseille = FeminineArticle + Space + "groseille";
@@ -837,6 +852,11 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Marin = MasculineArticle + Space + "marin";
+    public const string Mile = MasculineArticle + Space + "mile";
+    public const string Mouette = FeminineArticle + Space + "mouette";
+    public const string Mourant = MasculineArticle + Space + "mourant";
+    public const string Mugissement = MasculineArticle + Space + "mugissement";
     public const string Medaillon = MasculineArticle + Space + "médaillon";
     public const string Molosse = MasculineArticle + Space + "molosse";
     public const string Match = MasculineArticle + Space + "match";
@@ -938,6 +958,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Nef = FeminineArticle + Space + "nef";
     public const string Nain = MasculineArticle + Space + "nain";
     public const string Noble = MasculineArticle + Space + "noble";
     public const string Navet = MasculineArticle + Space + "navet";
@@ -990,6 +1011,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Ocean = MasculineArticle + Space + "océan";
     public const string Obligation = FeminineArticle + Space + "obligation";
     public const string Ode = FeminineArticle + Space + "ode";
     public const string Observateur = MasculineArticle + Space + "observateur";
@@ -1030,6 +1052,10 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Paluche = FeminineArticle + Space + "paluche";
+    public const string Plancher = MasculineArticle + Space + "plancher";
+    public const string Poteau = MasculineArticle + Space + "poteau";
+    public const string Preuve = FeminineArticle + Space + "preuve";
     public const string Poil = MasculineArticle + Space + "poil";
     public const string Presence = FeminineArticle + Space + "présence";
     public const string Paume = FeminineArticle + Space + "paume";
@@ -1207,6 +1233,10 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rat = MasculineArticle + Space + "rat";
+    public const string Requete = FeminineArticle + Space + "requête";
+    public const string Renouveau = MasculineArticle + Space + "renouveau";
+    public const string Respect = MasculineArticle + Space + "respect";
     public const string Regard = MasculineArticle + Space + "regard";
     public const string Recensement = MasculineArticle + Space + "recensement";
     public const string Representant = MasculineArticle + Space + "représentant";
@@ -1286,6 +1316,10 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Sujet = MasculineArticle + Space + "sujet";
+    public const string Sbire = MasculineArticle + Space + "sbire";
+    public const string Scandale = MasculineArticle + Space + "scandale";
+    public const string Spectateur = MasculineArticle + Space + "spectateur";
     public const string Siege = MasculineArticle + Space + "siège";
     public const string Sens = MasculineArticle + Space + "sens";
     public const string Support = MasculineArticle + Space + "support";
@@ -1400,6 +1434,9 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Timonier = MasculineArticle + Space + "timonier";
+    public const string Tape = FeminineArticle + Space + "tape";
+    public const string Terrain = MasculineArticle + Space + "terrain";
     public const string Tresse = FeminineArticle + Space + "tresse";
     public const string Tabouret = MasculineArticle + Space + "tabouret";
     public const string Technique = FeminineArticle + Space + "technique";
@@ -1470,6 +1507,10 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Vol = MasculineArticle + Space + "vol";
+    public const string Vacarme = MasculineArticle + Space + "vacarme";
+    public const string Vague = FeminineArticle + Space + "vague";
+    public const string Visibilite = FeminineArticle + Space + "visibilité";
     public const string Valettois = MasculineArticle + Space + "valettois";
     public const string Voeu = MasculineArticle + Space + "voeu";
     public const string Voirie = FeminineArticle + Space + "voirie";
