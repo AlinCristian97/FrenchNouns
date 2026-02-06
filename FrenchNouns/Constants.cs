@@ -161,6 +161,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bandeau = MasculineArticle + Space + "bandeau";
     public const string Baton = MasculineArticle + Space + "bâton";
     public const string Bien = MasculineArticle + Space + "bien";
     public const string Brulure = FeminineArticle + Space + "brûlure";
@@ -243,6 +244,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Cour = FeminineArticle + Space + "cour";
     public const string Combattant = MasculineArticle + Space + "combattant";
     public const string Cone = MasculineArticle + Space + "cône";
     public const string Contraire = MasculineArticle + Space + "contraire";
@@ -463,6 +465,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Demonstration = FeminineArticle + Space + "démonstration";
     public const string Detonation = FeminineArticle + Space + "détonation";
     public const string Diable = MasculineArticle + Space + "diable";
     public const string Drame = MasculineArticle + Space + "drame";
@@ -528,6 +531,8 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Enceinte = FeminineArticle + Space + "enceinte";
+    public const string Epreuve = FeminineArticle + Space + "épreuve";
     public const string Electricite = FeminineArticle + Space + "électricité";
     public const string Embuscade = FeminineArticle + Space + "embuscade";
     public const string Escarde = FeminineArticle + Space + "escarde";
@@ -643,6 +648,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fronde = FeminineArticle + Space + "fronde";
     public const string Fortune = FeminineArticle + Space + "fortune";
     public const string Fer = MasculineArticle + Space + "fer";
     public const string Fut = MasculineArticle + Space + "fut";
@@ -768,6 +774,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Heritage = MasculineArticle + Space + "héritage";
     public const string Humiliation = FeminineArticle + Space + "humiliation";
     public const string Honneur = MasculineArticle + Space + "honneur";
     public const string Horaire = MasculineArticle + Space + "horaire";
@@ -1059,6 +1066,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Naissance = FeminineArticle + Space + "naissance";
     public const string Nef = FeminineArticle + Space + "nef";
     public const string Nain = MasculineArticle + Space + "nain";
     public const string Noble = MasculineArticle + Space + "noble";
@@ -1153,6 +1161,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pommier = MasculineArticle + Space + "pommier";
+    public const string Principal = MasculineArticle + Space + "principal";
     public const string Prenom = MasculineArticle + Space + "prénom";
     public const string Pli = MasculineArticle + Space + "pli";
     public const string PasseTemps = MasculineArticle + Space + "passe-temps";
