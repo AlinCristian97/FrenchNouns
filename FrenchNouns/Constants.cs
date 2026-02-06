@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Angle = MasculineArticle + Space + "angle";
     public const string Arbalete = FeminineArticle + Space + "arbalète";
     public const string Abri = MasculineArticle + Space + "abri";
     public const string Amas = MasculineArticle + Space + "amas";
@@ -244,6 +245,10 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Chasse = FeminineArticle + Space + "chasse";
+    public const string Chemisier = MasculineArticle + Space + "chemisier";
+    public const string Corrompu = MasculineArticle + Space + "corrompu";
+    public const string Chevalier = MasculineArticle + Space + "chevalier";
     public const string Cour = FeminineArticle + Space + "cour";
     public const string Combattant = MasculineArticle + Space + "combattant";
     public const string Cone = MasculineArticle + Space + "cône";
@@ -719,6 +724,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Gibier = MasculineArticle + Space + "gibier";
     public const string Gypse = MasculineArticle + Space + "gypse";
     public const string Gosse = MasculineArticle + Space + "gosse";
     public const string Gentilhomme = MasculineArticle + Space + "gentilhomme";
@@ -1066,6 +1072,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Nuage = MasculineArticle + Space + "nuage";
     public const string Naissance = FeminineArticle + Space + "naissance";
     public const string Nef = FeminineArticle + Space + "nef";
     public const string Nain = MasculineArticle + Space + "nain";
@@ -1120,6 +1127,8 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Obstacle = MasculineArticle + Space + "obstacle";
+    public const string Offerte = FeminineArticle + Space + "offerte";
     public const string Ocean = MasculineArticle + Space + "océan";
     public const string Obligation = FeminineArticle + Space + "obligation";
     public const string Ode = FeminineArticle + Space + "ode";
@@ -1161,6 +1170,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Promesse = FeminineArticle + Space + "promesse";
+    public const string Poursuite = FeminineArticle + Space + "poursuite";
     public const string Pommier = MasculineArticle + Space + "pommier";
     public const string Principal = MasculineArticle + Space + "principal";
     public const string Prenom = MasculineArticle + Space + "prénom";
@@ -1577,6 +1588,9 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tir = MasculineArticle + Space + "tir";
+    public const string Tronc = MasculineArticle + Space + "tronc";
+    public const string Terme = MasculineArticle + Space + "terme";
     public const string Traduction = FeminineArticle + Space + "traduction";
     public const string Tireur = MasculineArticle + Space + "tireur";
     public const string Toucher = MasculineArticle + Space + "toucher";
