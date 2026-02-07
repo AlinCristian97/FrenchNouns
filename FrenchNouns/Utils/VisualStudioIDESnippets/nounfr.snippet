@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>French Noun</Title>
+            <Shortcut>nounfr</Shortcut>
+            <Description>Snippet for French noun structure</Description>
+            <Author>Gemini</Author>
+            <SnippetTypes>
+                <SnippetType>Expansion</SnippetType>
+            </SnippetTypes>
+        </Header>
+        <Snippet>
+            <Declarations>
+                <Literal>
+                    <ID>Article</ID>
+                    <ToolTip>MasculineArticle or FeminineArticle</ToolTip>
+                    <Default>MasculineArticle</Default>
+                </Literal>
+                <Literal>
+                    <ID>PropName</ID>
+                    <ToolTip>The name of the property (PascalCase)</ToolTip>
+                    <Default>Word</Default>
+                </Literal>
+                <Literal>
+                    <ID>Noun</ID>
+                    <ToolTip>The French noun string</ToolTip>
+                    <Default>word</Default>
+                </Literal>
+            </Declarations>
+            <Code Language="csharp">
+                <![CDATA[public const string $PropName$ = $Article$ + Space + "$Noun$";$end$]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
