@@ -162,6 +162,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Batiment = MasculineArticle + Space + "bâtiment";
     public const string Bande = FeminineArticle + Space + "bande";
     public const string Betise = FeminineArticle + Space + "bêtise";
     public const string Bandeau = MasculineArticle + Space + "bandeau";
@@ -247,6 +248,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Construction = FeminineArticle + Space + "construction";
     public const string Creation = FeminineArticle + Space + "création";
     public const string Creature = FeminineArticle + Space + "créature";
     public const string Chasse = FeminineArticle + Space + "chasse";
@@ -845,6 +847,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Impermeabilisation = FeminineArticle + Space + "imperméabilisation";
     public const string Imprimante = FeminineArticle + Space + "imprimante";
     public const string Inconnu = MasculineArticle + Space + "inconnu";
     public const string Interrogatoire = MasculineArticle + Space + "interrogatoire";
@@ -937,6 +940,8 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Local = MasculineArticle + Space + "local";
+    public const string Lendemain = MasculineArticle + Space + "lendemain";
     public const string Lettrage = MasculineArticle + Space + "lettrage";
     public const string Lore = MasculineArticle + Space + "lore";
     public const string Liberte = FeminineArticle + Space + "liberté";
@@ -1203,7 +1208,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
-    public const string Prophetie = "prophétie";
+    public const string Prophetie = FeminineArticle + Space + "prophétie";
     public const string Paquet = MasculineArticle + Space + "paquet";
     public const string Peste = FeminineArticle + Space + "peste";
     public const string Promesse = FeminineArticle + Space + "promesse";
@@ -1403,6 +1408,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Ramassage = MasculineArticle + Space + "ramassage";
+    public const string Reservoir = MasculineArticle + Space + "réservoir";
     public const string Role = MasculineArticle + Space + "rôle";
     public const string Repetition = FeminineArticle + Space + "répétition";
     public const string Ranger = MasculineArticle + Space + "ranger";
@@ -1634,6 +1641,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Traffic = MasculineArticle + Space + "traffic";
     public const string Tenebre = FeminineArticle + Space + "ténèbre";
     public const string Tuteur = MasculineArticle + Space + "tuteur";
     public const string Troupe = FeminineArticle + Space + "troupe";
@@ -1723,6 +1731,8 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Voie = FeminineArticle + Space + "voie";
+    public const string Vehicule = MasculineArticle + Space + "véhicule";
     public const string Visee = FeminineArticle + Space + "visée";
     public const string VolteFace = FeminineArticle + Space + "volte-face";
     public const string Visiteur = MasculineArticle + Space + "visiteur";
