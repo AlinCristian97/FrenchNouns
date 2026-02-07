@@ -163,6 +163,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bande = FeminineArticle + Space + "bande";
     public const string Betise = FeminineArticle + Space + "bêtise";
     public const string Bandeau = MasculineArticle + Space + "bandeau";
     public const string Baton = MasculineArticle + Space + "bâton";
@@ -666,6 +667,8 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fantasme = MasculineArticle + Space + "fantasme";
+    public const string Fantasy = FeminineArticle + Space + "fantasy";
     public const string Ferraille = FeminineArticle + Space + "ferraille";
     public const string Foyer = MasculineArticle + Space + "foyer";
     public const string Fleau = MasculineArticle + Space + "fléau";
@@ -1151,6 +1154,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Oeuvre = FeminineArticle + Space + "oeuvre";
     public const string Obstacle = MasculineArticle + Space + "obstacle";
     public const string Offerte = FeminineArticle + Space + "offerte";
     public const string Ocean = MasculineArticle + Space + "océan";
@@ -1194,6 +1198,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Prophetie = "prophétie";
     public const string Paquet = MasculineArticle + Space + "paquet";
     public const string Peste = FeminineArticle + Space + "peste";
     public const string Promesse = FeminineArticle + Space + "promesse";
@@ -1393,6 +1398,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Role = MasculineArticle + Space + "rôle";
     public const string Repetition = FeminineArticle + Space + "répétition";
     public const string Ranger = MasculineArticle + Space + "ranger";
     public const string Ruine = FeminineArticle + Space + "ruine";
@@ -1489,6 +1495,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Scenariste = MasculineArticle + Space + "scénariste";
     public const string Secret = MasculineArticle + Space + "secret";
     public const string Surbrillance = FeminineArticle + Space + "surbrillance";
     public const string Surnom = MasculineArticle + Space + "surnom";
@@ -1617,6 +1624,7 @@ public class Constants
     public const string Sensation = FeminineArticle + Space + "sensation";
     public const string Septembre = MasculineArticle + Space + "septembre";
     public const string Suite = FeminineArticle + Space + "suite";
+    public const string Saga = FeminineArticle + Space + "saga";
     #endregion
 
     #region "T" Nouns
@@ -1636,6 +1644,7 @@ public class Constants
     public const string Toupet = MasculineArticle + Space + "toupet";
     public const string Timonier = MasculineArticle + Space + "timonier";
     public const string Tape = FeminineArticle + Space + "tape";
+    public const string Technologie = FeminineArticle + Space + "technologie";
     public const string Terrain = MasculineArticle + Space + "terrain";
     public const string Tresse = FeminineArticle + Space + "tresse";
     public const string Tabouret = MasculineArticle + Space + "tabouret";
