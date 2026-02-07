@@ -135,7 +135,6 @@ public class Constants
     public const string Audience = FeminineArticle + Space + "audience";
     public const string Autonomie = FeminineArticle + Space + "autonomie";
     public const string Aventure = FeminineArticle + Space + "aventure";
-    public const string Avocate = FeminineArticle + Space + "avocate";
     public const string Avocat = MasculineArticle + Space + "avocat";
     public const string Air = MasculineArticle + Space + "air";
     public const string Alcool = MasculineArticle + Space + "alcool";
@@ -248,6 +247,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Creation = FeminineArticle + Space + "création";
     public const string Creature = FeminineArticle + Space + "créature";
     public const string Chasse = FeminineArticle + Space + "chasse";
     public const string Chemisier = MasculineArticle + Space + "chemisier";
@@ -271,6 +271,7 @@ public class Constants
     public const string Celibataire = MasculineArticle + Space + "célibataire";
     public const string Cicatrice = FeminineArticle + Space + "cicatrice";
     public const string Couvert = MasculineArticle + Space + "couvert";
+    public const string Couverture = FeminineArticle + Space + "couverture";
     public const string Cimetiere = MasculineArticle + Space + "cimetière";
     public const string Chercheur = MasculineArticle + Space + "chercheur";
     public const string Consultation = FeminineArticle + Space + "consultation";
@@ -502,6 +503,7 @@ public class Constants
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dossier = MasculineArticle + Space + "dossier";
     public const string Dos = MasculineArticle + Space + "dos";
+    public const string Depot = MasculineArticle + Space + "dépôt";
     public const string Date = FeminineArticle + Space + "date";
     public const string Demande = FeminineArticle + Space + "demande";
     public const string Dent = FeminineArticle + Space + "dent";
@@ -843,6 +845,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Imprimante = FeminineArticle + Space + "imprimante";
     public const string Inconnu = MasculineArticle + Space + "inconnu";
     public const string Interrogatoire = MasculineArticle + Space + "interrogatoire";
     public const string Imitation = FeminineArticle + Space + "imitation";
@@ -934,6 +937,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Lettrage = MasculineArticle + Space + "lettrage";
     public const string Lore = MasculineArticle + Space + "lore";
     public const string Liberte = FeminineArticle + Space + "liberté";
     public const string Lamentation = FeminineArticle + Space + "lamentation";
@@ -976,6 +980,7 @@ public class Constants
     public const string Larcin = MasculineArticle + Space + "larcin";
     public const string Laverie = FeminineArticle + Space + "laverie";
     public const string Lecture = FeminineArticle + Space + "lecture";
+    public const string Relecture = FeminineArticle + Space + "relecture";
     public const string Legende = FeminineArticle + Space + "légende";
     public const string Limite = FeminineArticle + Space + "limite";
     public const string Logique = FeminineArticle + Space + "logique";
@@ -1495,6 +1500,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Scenario = MasculineArticle + Space + "scénario";
     public const string Scenariste = MasculineArticle + Space + "scénariste";
     public const string Secret = MasculineArticle + Space + "secret";
     public const string Surbrillance = FeminineArticle + Space + "surbrillance";
@@ -1812,6 +1818,7 @@ public class Constants
     #endregion
 
     #region "X" Nouns
+    public const string Xerox = FeminineArticle + Space + "xerox";
     public const string Xenon = MasculineArticle + Space + "xénon";
     public const string Xenophobie = FeminineArticle + Space + "xénophobie";
     public const string Xeres = MasculineArticle + Space + "xérès";
