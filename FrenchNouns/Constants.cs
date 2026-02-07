@@ -1618,6 +1618,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tenebre = FeminineArticle + Space + "ténèbre";
     public const string Tuteur = MasculineArticle + Space + "tuteur";
     public const string Troupe = FeminineArticle + Space + "troupe";
     public const string Tir = MasculineArticle + Space + "tir";
