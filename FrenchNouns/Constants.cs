@@ -247,6 +247,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Creature = FeminineArticle + Space + "créature";
     public const string Chasse = FeminineArticle + Space + "chasse";
     public const string Chemisier = MasculineArticle + Space + "chemisier";
     public const string Corrompu = MasculineArticle + Space + "corrompu";
@@ -540,6 +541,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Ecaille = FeminineArticle + Space + "écaille";
     public const string Engourdissement = MasculineArticle + Space + "engourdissement";
     public const string Etranger = MasculineArticle + Space + "étranger";
     public const string Epeiste = MasculineArticle + Space + "épéiste";
@@ -736,6 +738,8 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Gardien = MasculineArticle + Space + "gardien";
+    public const string Guilde = FeminineArticle + Space + "guilde";
     public const string Gant = MasculineArticle + Space + "gant";
     public const string Gibier = MasculineArticle + Space + "gibier";
     public const string Gypse = MasculineArticle + Space + "gypse";
@@ -834,6 +838,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Inconnu = MasculineArticle + Space + "inconnu";
     public const string Interrogatoire = MasculineArticle + Space + "interrogatoire";
     public const string Imitation = FeminineArticle + Space + "imitation";
     public const string Indignation = FeminineArticle + Space + "indignation";
@@ -924,6 +929,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Lore = MasculineArticle + Space + "lore";
     public const string Liberte = FeminineArticle + Space + "liberté";
     public const string Lamentation = FeminineArticle + Space + "lamentation";
     public const string Larme = FeminineArticle + Space + "larme";
@@ -1481,6 +1487,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Secret = MasculineArticle + Space + "secret";
     public const string Surbrillance = FeminineArticle + Space + "surbrillance";
     public const string Surnom = MasculineArticle + Space + "surnom";
     public const string Subordonne = MasculineArticle + Space + "subordonné";
@@ -1611,6 +1618,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tuteur = MasculineArticle + Space + "tuteur";
     public const string Troupe = FeminineArticle + Space + "troupe";
     public const string Tir = MasculineArticle + Space + "tir";
     public const string Tronc = MasculineArticle + Space + "tronc";
