@@ -684,6 +684,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fantome = MasculineArticle + Space + "fantôme";
     public const string Fantasme = MasculineArticle + Space + "fantasme";
     public const string Fantasy = FeminineArticle + Space + "fantasy";
     public const string Ferraille = FeminineArticle + Space + "ferraille";
@@ -1627,6 +1628,7 @@ public class Constants
     public const string Sort = MasculineArticle + Space + "sort";
     public const string Sante = FeminineArticle + Space + "santé";
     public const string Solidarite = FeminineArticle + Space + "solidarité";
+    public const string Statue = FeminineArticle + Space + "statue";
     public const string Spiritualite = FeminineArticle + Space + "spiritualité";
     public const string Stature = FeminineArticle + Space + "stature";
     public const string Source = FeminineArticle + Space + "source";
