@@ -508,6 +508,7 @@ public class Constants
     public const string Doigt = MasculineArticle + Space + "doigt";
     public const string Diner = MasculineArticle + Space + "dîner";
     public const string Destination = FeminineArticle + Space + "destination";
+    public const string Destin = MasculineArticle + Space + "destin";
     public const string Devoir = MasculineArticle + Space + "devoir";
     public const string Dimanche = MasculineArticle + Space + "dimanche";
     public const string Docteur = MasculineArticle + Space + "docteur";
@@ -541,6 +542,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Edition = FeminineArticle + Space + "édition";
     public const string Ecaille = FeminineArticle + Space + "écaille";
     public const string Engourdissement = MasculineArticle + Space + "engourdissement";
     public const string Etranger = MasculineArticle + Space + "étranger";
