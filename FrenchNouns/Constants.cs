@@ -252,6 +252,7 @@ public class Constants
     public const string Corrompu = MasculineArticle + Space + "corrompu";
     public const string Chevalier = MasculineArticle + Space + "chevalier";
     public const string Cour = FeminineArticle + Space + "cour";
+    public const string Cendre = FeminineArticle + Space + "cendre";
     public const string Combattant = MasculineArticle + Space + "combattant";
     public const string Cone = MasculineArticle + Space + "cône";
     public const string Contraire = MasculineArticle + Space + "contraire";
@@ -973,6 +974,7 @@ public class Constants
 
     #region "M" Nouns
     public const string Mitain = MasculineArticle + Space + "mitain";
+    public const string Malediction = FeminineArticle + Space + "malédiction";
     public const string Mutinerie = FeminineArticle + Space + "mutinerie";
     public const string Manitou = MasculineArticle + Space + "manitou";
     public const string Merci_Masculine = MasculineArticle + Space + "merci";
