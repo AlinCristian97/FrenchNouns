@@ -40,6 +40,9 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Archer = MasculineArticle + Space + "archer";
+    public const string Archere = FeminineArticle + Space + "archère";
+    public const string Art = MasculineArticle + Space + "art";
     public const string Abord = MasculineArticle + Space + "abord";
     public const string Ascenseur = MasculineArticle + Space + "ascenseur";
     public const string Accusation = FeminineArticle + Space + "accusation";
@@ -252,6 +255,9 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Caserne = FeminineArticle + Space + "caserne";
+    public const string Compassion = FeminineArticle + Space + "compassion";
+    public const string Concept = MasculineArticle + Space + "concept";
     public const string Cooperation = FeminineArticle + Space + "coopération";
     public const string Couloir = MasculineArticle + Space + "couloir";
     public const string Construction = FeminineArticle + Space + "construction";
@@ -509,6 +515,7 @@ public class Constants
     public const string Defi = MasculineArticle + Space + "défi";
     public const string Deuxieme = MasculineArticle + Space + "deuxième";
     public const string Droite = FeminineArticle + Space + "droite";
+    public const string Droit = MasculineArticle + Space + "droit";
     public const string Difficulte = FeminineArticle + Space + "difficulté";
     public const string Dinde = FeminineArticle + Space + "dinde";
     public const string Décoration = FeminineArticle + Space + "décoration";
@@ -684,6 +691,8 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fantome = MasculineArticle + Space + "fantôme";
+    public const string Forme = FeminineArticle + Space + "forme";
     public const string Fantasme = MasculineArticle + Space + "fantasme";
     public const string Fantasy = FeminineArticle + Space + "fantasy";
     public const string Ferraille = FeminineArticle + Space + "ferraille";
@@ -820,6 +829,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Humain = MasculineArticle + Space + "humain";
     public const string Hygiene = FeminineArticle + Space + "hygiène";
     public const string Heritage = MasculineArticle + Space + "héritage";
     public const string Humiliation = FeminineArticle + Space + "humiliation";
@@ -1181,6 +1191,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Orc = MasculineArticle + Space + "orc";
     public const string Oeuvre = FeminineArticle + Space + "oeuvre";
     public const string Obstacle = MasculineArticle + Space + "obstacle";
     public const string Offerte = FeminineArticle + Space + "offerte";
@@ -1225,6 +1236,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pitie = FeminineArticle + Space + "pitié";
     public const string Proprete = FeminineArticle + Space + "propreté";
     public const string Palier = MasculineArticle + Space + "palier";
     public const string Prophetie = FeminineArticle + Space + "prophétie";
@@ -1753,6 +1765,8 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Ver = MasculineArticle + Space + "ver";
+    public const string Vers = MasculineArticle + Space + "vers";
     public const string Voie = FeminineArticle + Space + "voie";
     public const string Vehicule = MasculineArticle + Space + "véhicule";
     public const string Visee = FeminineArticle + Space + "visée";
