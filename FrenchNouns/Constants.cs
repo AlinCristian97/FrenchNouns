@@ -570,6 +570,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Emballages = MasculineArticle + Space + "emballages";
     public const string Eveil = MasculineArticle + Space + "éveil";
     public const string Expediteur = MasculineArticle + Space + "expéditeur";
     public const string Escalier = MasculineArticle + Space + "escalier";
@@ -1560,6 +1561,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Serviette = FeminineArticle + Space + "serviette";
     public const string Sanctuaire = MasculineArticle + Space + "sanctuaire";
     public const string Serment = MasculineArticle + Space + "serment";
     public const string Stress = MasculineArticle + Space + "stress";
@@ -1788,6 +1790,7 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Vaisselle = FeminineArticle + Space + "vaisselle";
     public const string Ver = MasculineArticle + Space + "ver";
     public const string Vers = MasculineArticle + Space + "vers";
     public const string Voie = FeminineArticle + Space + "voie";
