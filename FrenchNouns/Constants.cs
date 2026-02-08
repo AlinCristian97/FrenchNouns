@@ -222,7 +222,7 @@ public class Constants
     public const string Bruit = MasculineArticle + Space + "bruit";
     public const string Bureau = MasculineArticle + Space + "bureau";
     public const string Bonheur = MasculineArticle + Space + "bonheur";
-    public const string Bouteille = FeminineArticle+ Space + "bouteille";
+    public const string Bouteille = FeminineArticle + Space + "bouteille";
     public const string Bijou = MasculineArticle + Space + "bijou";
     public const string Blouse = FeminineArticle + Space + "blouse";
     public const string Bougie = FeminineArticle + Space + "bougie";
@@ -386,7 +386,7 @@ public class Constants
     public const string Cheval = MasculineArticle + Space + "cheval";
     public const string Chocolat = MasculineArticle + Space + "chocolat";
     public const string Chose = FeminineArticle + Space + "chose";
-    public const string Cinema = MasculineArticle + Space + "cinéma"; 
+    public const string Cinema = MasculineArticle + Space + "cinéma";
     public const string Confiture = FeminineArticle + Space + "confiture";
     public const string Consonne = FeminineArticle + Space + "consonne";
     public const string Cle = FeminineArticle + Space + "clé";
@@ -1639,6 +1639,7 @@ public class Constants
     public const string Sort = MasculineArticle + Space + "sort";
     public const string Sante = FeminineArticle + Space + "santé";
     public const string Solidarite = FeminineArticle + Space + "solidarité";
+    public const string Statue = FeminineArticle + Space + "statue";
     public const string Spiritualite = FeminineArticle + Space + "spiritualité";
     public const string Stature = FeminineArticle + Space + "stature";
     public const string Source = FeminineArticle + Space + "source";
