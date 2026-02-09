@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Abat = MasculineArticle + Space + "abat";
     public const string Autodestruction = FeminineArticle + Space + "autodestruction";
     public const string Affection = FeminineArticle + Space + "affection";
     public const string Alerte = FeminineArticle + Space + "alerte";
@@ -259,6 +260,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Compensation = FeminineArticle + Space + "compensation";
     public const string Culpabilite = FeminineArticle + Space + "culpabilité";
     public const string Congelateur = MasculineArticle + Space + "congélateur";
     public const string Cuisinier = MasculineArticle + Space + "cuisinier";
@@ -503,6 +505,8 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Detail = MasculineArticle + Space + "détail";
+    public const string Delai = MasculineArticle + Space + "délai";
     public const string Destruction = FeminineArticle + Space + "destruction";
     public const string Design = MasculineArticle + Space + "design";
     public const string Designer = MasculineArticle + Space + "designer";
@@ -579,6 +583,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Epine = FeminineArticle + Space + "épine";
     public const string Effondrement = MasculineArticle + Space + "effondrement";
     public const string Echo = MasculineArticle + Space + "écho";
     public const string Echec = MasculineArticle + Space + "échec";
@@ -895,6 +900,9 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Incantation = FeminineArticle + Space + "incantation";
+    public const string Inflammation = FeminineArticle + Space + "inflammation";
+    public const string Intelligence = FeminineArticle + Space + "intelligence";
     public const string Injure = FeminineArticle + Space + "injure";
     public const string Insulte = MasculineArticle + Space + "insulte";
     public const string Invasion = FeminineArticle + Space + "invasion";
@@ -1164,6 +1172,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Neant = MasculineArticle + Space + "néant";
     public const string Nuage = MasculineArticle + Space + "nuage";
     public const string Naissance = FeminineArticle + Space + "naissance";
     public const string Nef = FeminineArticle + Space + "nef";
@@ -1265,6 +1274,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Petrole = MasculineArticle + Space + "pétrole";
     public const string Phenomene = MasculineArticle + Space + "phénomène";
     public const string Poste = MasculineArticle + Space + "poste";
     public const string Pic = MasculineArticle + Space + "pic";
@@ -1457,6 +1467,7 @@ public class Constants
     public const string Prevalence = FeminineArticle + Space + "prévalence";
     public const string Propriete = FeminineArticle + Space + "propriété";
     public const string Pantalon = MasculineArticle + Space + "pantalon";
+    public const string Paroxysme = MasculineArticle + Space + "paroxysme";
     #endregion
 
     #region "Q" Nouns
@@ -1472,6 +1483,9 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rejeton = MasculineArticle + Space + "rejeton";
+    public const string Recompense = FeminineArticle + Space + "récompense";
+    public const string Resolution = FeminineArticle + Space + "résolution";
     public const string Reconnaissance = FeminineArticle + Space + "reconnaissance";
     public const string Responsabilite = FeminineArticle + Space + "responsabilité";
     public const string Repere = MasculineArticle + Space + "repère";
@@ -1582,6 +1596,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Score = MasculineArticle + Space + "score";
     public const string Souffrance = FeminineArticle + Space + "souffrance";
     public const string Secours = MasculineArticle + Space + "secours";
     public const string Sommet = MasculineArticle + Space + "sommet";
