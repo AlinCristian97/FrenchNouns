@@ -172,6 +172,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Braise = FeminineArticle + Space + "braise";
     public const string Boulette = FeminineArticle + Space + "boulette";
     public const string Bombe = FeminineArticle + Space + "bombe";
     public const string Batiment = MasculineArticle + Space + "bâtiment";
@@ -583,6 +584,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Etincelle = FeminineArticle + Space + "étincelle";
     public const string Epine = FeminineArticle + Space + "épine";
     public const string Effondrement = MasculineArticle + Space + "effondrement";
     public const string Echo = MasculineArticle + Space + "écho";
@@ -1279,6 +1281,7 @@ public class Constants
     public const string Poste = MasculineArticle + Space + "poste";
     public const string Pic = MasculineArticle + Space + "pic";
     public const string Pitie = FeminineArticle + Space + "pitié";
+    public const string Prologue = MasculineArticle + Space + "prologue";
     public const string Proprete = FeminineArticle + Space + "propreté";
     public const string Palier = MasculineArticle + Space + "palier";
     public const string Prophetie = FeminineArticle + Space + "prophétie";
