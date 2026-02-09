@@ -40,6 +40,8 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Autodestruction = FeminineArticle + Space + "autodestruction";
+    public const string Affection = FeminineArticle + Space + "affection";
     public const string Alerte = FeminineArticle + Space + "alerte";
     public const string Archer = MasculineArticle + Space + "archer";
     public const string Archere = FeminineArticle + Space + "archère";
@@ -257,6 +259,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Culpabilite = FeminineArticle + Space + "culpabilité";
+    public const string Congelateur = MasculineArticle + Space + "congélateur";
     public const string Cuisinier = MasculineArticle + Space + "cuisinier";
     public const string Chef = MasculineArticle + Space + "chef";
     public const string Guidage = MasculineArticle + Space + "guidage";
@@ -499,6 +503,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Destruction = FeminineArticle + Space + "destruction";
     public const string Design = MasculineArticle + Space + "design";
     public const string Designer = MasculineArticle + Space + "designer";
     public const string Diplome = MasculineArticle + Space + "diplôme";
@@ -574,6 +579,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Effondrement = MasculineArticle + Space + "effondrement";
     public const string Echo = MasculineArticle + Space + "écho";
     public const string Echec = MasculineArticle + Space + "échec";
     public const string Emballage = MasculineArticle + Space + "emballage";
@@ -1259,6 +1265,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Phenomene = MasculineArticle + Space + "phénomène";
+    public const string Poste = MasculineArticle + Space + "poste";
     public const string Pic = MasculineArticle + Space + "pic";
     public const string Pitie = FeminineArticle + Space + "pitié";
     public const string Proprete = FeminineArticle + Space + "propreté";
@@ -1464,6 +1472,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Reconnaissance = FeminineArticle + Space + "reconnaissance";
+    public const string Responsabilite = FeminineArticle + Space + "responsabilité";
     public const string Repere = MasculineArticle + Space + "repère";
     public const string Reveil = MasculineArticle + Space + "réveil";
     public const string Refus = MasculineArticle + Space + "refus";
@@ -1572,6 +1582,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Souffrance = FeminineArticle + Space + "souffrance";
     public const string Secours = MasculineArticle + Space + "secours";
     public const string Sommet = MasculineArticle + Space + "sommet";
     public const string Serviette = FeminineArticle + Space + "serviette";
@@ -1620,6 +1631,7 @@ public class Constants
     public const string Sabot = MasculineArticle + Space + "sabot";
     public const string Saumon = MasculineArticle + Space + "saumon";
     public const string Seau = MasculineArticle + Space + "seau";
+    public const string Sabotage = MasculineArticle + Space + "sabotage";
     public const string Serrure = FeminineArticle + Space + "serrure";
     public const string Spoiler = MasculineArticle + Space + "spoiler";
     public const string Sucre = MasculineArticle + Space + "sucre";
