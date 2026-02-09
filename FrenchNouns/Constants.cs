@@ -751,6 +751,7 @@ public class Constants
     public const string Figues = FeminineArticle + Space + "figues";
     public const string Francais = MasculineArticle + Space + "français";
     public const string Feu = MasculineArticle + Space + "feu";
+    public const string Foule = FeminineArticle + Space + "foule";
     public const string Fourneau = MasculineArticle + Space + "fourneau";
     public const string Foie = MasculineArticle + Space + "foie";
     public const string Feuille = FeminineArticle + Space + "feuille";
@@ -1002,6 +1003,8 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Lien = MasculineArticle + Space + "lien";
+    public const string Limbe = MasculineArticle + Space + "limbe";
     public const string Local = MasculineArticle + Space + "local";
     public const string Lendemain = MasculineArticle + Space + "lendemain";
     public const string Lettrage = MasculineArticle + Space + "lettrage";
@@ -1278,6 +1281,7 @@ public class Constants
     #region "P" Nouns
     public const string Petrole = MasculineArticle + Space + "pétrole";
     public const string Phenomene = MasculineArticle + Space + "phénomène";
+    public const string Probabilite = FeminineArticle + Space + "probabilité";
     public const string Poste = MasculineArticle + Space + "poste";
     public const string Pic = MasculineArticle + Space + "pic";
     public const string Pitie = FeminineArticle + Space + "pitié";
@@ -1599,6 +1603,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Seigneur = MasculineArticle + Space + "seigneur";
     public const string Score = MasculineArticle + Space + "score";
     public const string Souffrance = FeminineArticle + Space + "souffrance";
     public const string Secours = MasculineArticle + Space + "secours";
