@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Antan = MasculineArticle + Space + "antan";
     public const string Abat = MasculineArticle + Space + "abat";
     public const string Autodestruction = FeminineArticle + Space + "autodestruction";
     public const string Affection = FeminineArticle + Space + "affection";
@@ -261,6 +262,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Chaloupe = FeminineArticle + Space + "chaloupe";
     public const string Compensation = FeminineArticle + Space + "compensation";
     public const string Culpabilite = FeminineArticle + Space + "culpabilité";
     public const string Congelateur = MasculineArticle + Space + "congélateur";
@@ -585,6 +587,7 @@ public class Constants
 
     #region "E" Nouns
     public const string Etincelle = FeminineArticle + Space + "étincelle";
+    public const string Evocation = FeminineArticle + Space + "évocation";
     public const string Epine = FeminineArticle + Space + "épine";
     public const string Effondrement = MasculineArticle + Space + "effondrement";
     public const string Echo = MasculineArticle + Space + "écho";
@@ -1490,6 +1493,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rafiot = MasculineArticle + Space + "rafiot";
     public const string Rejeton = MasculineArticle + Space + "rejeton";
     public const string Recompense = FeminineArticle + Space + "récompense";
     public const string Resolution = FeminineArticle + Space + "résolution";
@@ -1604,6 +1608,7 @@ public class Constants
 
     #region "S" Nouns
     public const string Seigneur = MasculineArticle + Space + "seigneur";
+    public const string Salopette = FeminineArticle + Space + "salopette";
     public const string Score = MasculineArticle + Space + "score";
     public const string Souffrance = FeminineArticle + Space + "souffrance";
     public const string Secours = MasculineArticle + Space + "secours";
