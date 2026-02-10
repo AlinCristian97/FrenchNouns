@@ -587,6 +587,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Egalite = FeminineArticle + Space + "égalité";
     public const string Etincelle = FeminineArticle + Space + "étincelle";
     public const string Evocation = FeminineArticle + Space + "évocation";
     public const string Epine = FeminineArticle + Space + "épine";
@@ -1008,6 +1009,7 @@ public class Constants
     #endregion
 
     #region "L" Nouns
+    public const string Lateral = MasculineArticle + Space + "latéral";
     public const string Lien = MasculineArticle + Space + "lien";
     public const string Limbe = MasculineArticle + Space + "limbe";
     public const string Local = MasculineArticle + Space + "local";
@@ -1971,6 +1973,9 @@ public class Constants
     #endregion
 
     #region Plural-only Nouns
+
+    // A
+    public const string Plural_Alentours = "alentours";
 
     // G
     public const string Plural_Gens = "gens";
