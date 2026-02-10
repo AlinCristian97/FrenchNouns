@@ -173,6 +173,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bonus = MasculineArticle + Space + "bonus";
     public const string Braise = FeminineArticle + Space + "braise";
     public const string Boulette = FeminineArticle + Space + "boulette";
     public const string Bombe = FeminineArticle + Space + "bombe";
@@ -966,6 +967,7 @@ public class Constants
     #endregion
 
     #region "J" Nouns
+    public const string Joueur = MasculineArticle + Space + "joueur";
     public const string Junior = MasculineArticle + Space + "junior";
     public const string Jonquille = FeminineArticle + Space + "jonquille";
     public const string Jambe = FeminineArticle + Space + "jambe";
