@@ -282,6 +282,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Convocation = FeminineArticle + Space + "convocation";
     public const string Charnier = MasculineArticle + Space + "charnier";
     public const string Copain = MasculineArticle + Space + "copain";
     public const string Cauchemar = MasculineArticle + Space + "cauchemar";
@@ -627,6 +628,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Effigie = FeminineArticle + Space + "effigie";
     public const string Envahisseur = MasculineArticle + Space + "envahisseur";
     public const string Enterrement = MasculineArticle + Space + "enterrement";
     public const string Eternite = FeminineArticle + Space + "éternité";
