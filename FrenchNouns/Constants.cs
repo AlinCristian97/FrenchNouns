@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Apparition = FeminineArticle + Space + "apparition";
     public const string Anneau = MasculineArticle + Space + "anneau";
     public const string Amulette = FeminineArticle + Space + "amulette";
     public const string Action = FeminineArticle + Space + "action";
@@ -177,6 +178,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Blessure = FeminineArticle + Space + "blessure";
     public const string Breche = FeminineArticle + Space + "brèche";
     public const string Boussole = FeminineArticle + Space + "boussole";
     public const string Bonus = MasculineArticle + Space + "bonus";
@@ -1320,7 +1322,9 @@ public class Constants
     #endregion
 
     #region "P" Nouns
-    public const string Penetration = "pénétration";
+    public const string Proximite = FeminineArticle + Space + "proximité";
+    public const string Province = FeminineArticle + Space + "province";
+    public const string Pénétration = FeminineArticle + Space + "pénétration";
     public const string Puissance = FeminineArticle + Space + "puissance";
     public const string Petrole = MasculineArticle + Space + "pétrole";
     public const string Phenomene = MasculineArticle + Space + "phénomène";
@@ -1551,6 +1555,7 @@ public class Constants
     public const string Reunion = FeminineArticle + Space + "réunion";
     public const string Reussite = FeminineArticle + Space + "réussite";
     public const string Resident = MasculineArticle + Space + "résident";
+    public const string Residence = FeminineArticle + Space + "résidence";
     public const string Ramassage = MasculineArticle + Space + "ramassage";
     public const string Reservoir = MasculineArticle + Space + "réservoir";
     public const string Role = MasculineArticle + Space + "rôle";
@@ -1799,6 +1804,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tireuse = FeminineArticle + Space + "tireuse";
     public const string Type = MasculineArticle + Space + "type";
     public const string Traffic = MasculineArticle + Space + "traffic";
     public const string Tenebre = FeminineArticle + Space + "ténèbre";
