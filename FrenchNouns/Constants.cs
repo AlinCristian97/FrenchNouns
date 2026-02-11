@@ -282,6 +282,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Charnier = MasculineArticle + Space + "charnier";
     public const string Copain = MasculineArticle + Space + "copain";
     public const string Cauchemar = MasculineArticle + Space + "cauchemar";
     public const string Condamnation = FeminineArticle + Space + "condamnation";
@@ -625,6 +626,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Enterrement = MasculineArticle + Space + "enterrement";
     public const string Eternite = FeminineArticle + Space + "éternité";
     public const string Endurance = FeminineArticle + Space + "endurance";
     public const string Ecumeur = MasculineArticle + Space + "écumeur";
@@ -853,6 +855,9 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Golem = MasculineArticle + Space + "golem";
+    public const string Geant = MasculineArticle + Space + "géant";
+    public const string Gravure = FeminineArticle + Space + "gravure";
     public const string Givre = MasculineArticle + Space + "givre";
     public const string Gong = MasculineArticle + Space + "gong";
     public const string Genie = MasculineArticle + Space + "génie";
@@ -916,6 +921,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Horreur = FeminineArticle + Space + "horreur";
     public const string Humanite = FeminineArticle + Space + "humanité";
     public const string Humain = MasculineArticle + Space + "humain";
     public const string Hygiene = FeminineArticle + Space + "hygiène";
@@ -1306,6 +1312,8 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Ossement = MasculineArticle + Space + "ossement";
+    public const string Oubli = MasculineArticle + Space + "oubli";
     public const string Opportuniste = MasculineArticle + Space + "opportuniste";
     public const string Opportunite = FeminineArticle + Space + "opportunité";
     public const string Orc = MasculineArticle + Space + "orc";
@@ -1353,6 +1361,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Perte = FeminineArticle + Space + "perte";
     public const string Police = FeminineArticle + Space + "police";
     public const string Profiteur = MasculineArticle + Space + "profiteur";
     public const string Phoque = MasculineArticle + Space + "phoque";
@@ -1383,6 +1392,7 @@ public class Constants
     public const string Pression = FeminineArticle + Space + "pression";
     public const string Pointe = FeminineArticle + Space + "pointe";
     public const string Pigne = FeminineArticle + Space + "pigne";
+    public const string Part = FeminineArticle + Space + "part";
     public const string Particularite = FeminineArticle + Space + "particularité";
     public const string Peine = FeminineArticle + Space + "peine";
     public const string Pasteur = MasculineArticle + Space + "pasteur";
@@ -1572,6 +1582,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Recit = MasculineArticle + Space + "récit";
     public const string Ricanement = MasculineArticle + Space + "ricanement";
     public const string Relecture = FeminineArticle + Space + "relecture";
     public const string Rune = FeminineArticle + Space + "rune";
@@ -1691,6 +1702,11 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Seisme = MasculineArticle + Space + "séisme";
+    public const string Squelette = MasculineArticle + Space + "squelette";
+    public const string Sol = MasculineArticle + Space + "sol";
+    public const string Sortie = FeminineArticle + Space + "sortie";
+    public const string Souffle = MasculineArticle + Space + "souffle";
     public const string Sirop = MasculineArticle + Space + "sirop";
     public const string Spectre = MasculineArticle + Space + "spectre";
     public const string Statistique = FeminineArticle + Space + "statistique";
@@ -1841,6 +1857,10 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Titan = MasculineArticle + Space + "titan";
+    public const string Terre = FeminineArticle + Space + "terre";
+    public const string Tombeau = MasculineArticle + Space + "tombeau";
+    public const string Torche = FeminineArticle + Space + "torche";
     public const string Traitre = MasculineArticle + Space + "traître";
     public const string Tireuse = FeminineArticle + Space + "tireuse";
     public const string Type = MasculineArticle + Space + "type";
@@ -1922,6 +1942,7 @@ public class Constants
     #endregion
 
     #region "U" Nouns
+    public const string Urne = FeminineArticle + Space + "urne";
     public const string Uniforme = MasculineArticle + Space + "uniforme";
     public const string Univers = MasculineArticle + Space + "univers";
     public const string Universite = FeminineArticle + Space + "université";
