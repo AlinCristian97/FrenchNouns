@@ -744,6 +744,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fusillade = FeminineArticle + Space + "fusillade";
     public const string Flâneur = MasculineArticle + Space + "flâneur";
     public const string Faille = FeminineArticle + Space + "faille";
     public const string Forteresse = FeminineArticle + Space + "forteresse";
@@ -1032,12 +1033,14 @@ public class Constants
     public const string Kiwi = MasculineArticle + Space + "kiwi";
     public const string Kangourou = MasculineArticle + Space + "kangourou";
     public const string Kayak = MasculineArticle + Space + "kayak";
+    public const string Kilomètre = MasculineArticle + Space + "kilomètre";
     public const string Kilo = MasculineArticle + Space + "kilo";
     public const string Kit = MasculineArticle + Space + "kit";
     public const string Kiosque = MasculineArticle + Space + "kiosque";
     #endregion
 
     #region "L" Nouns
+    public const string Localité = FeminineArticle + Space + "localité";
     public const string Lateral = MasculineArticle + Space + "latéral";
     public const string Lien = MasculineArticle + Space + "lien";
     public const string Limbe = MasculineArticle + Space + "limbe";
