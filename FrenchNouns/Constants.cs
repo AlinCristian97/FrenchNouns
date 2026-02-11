@@ -40,6 +40,10 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Anneau = MasculineArticle + Space + "anneau";
+    public const string Amulette = FeminineArticle + Space + "amulette";
+    public const string Action = FeminineArticle + Space + "action";
+    public const string Archive = FeminineArticle + Space + "archive";
     public const string Antan = MasculineArticle + Space + "antan";
     public const string Abat = MasculineArticle + Space + "abat";
     public const string Autodestruction = FeminineArticle + Space + "autodestruction";
@@ -173,6 +177,8 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Breche = FeminineArticle + Space + "brèche";
+    public const string Boussole = FeminineArticle + Space + "boussole";
     public const string Bonus = MasculineArticle + Space + "bonus";
     public const string Braise = FeminineArticle + Space + "braise";
     public const string Boulette = FeminineArticle + Space + "boulette";
@@ -263,6 +269,16 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Coiffe = FeminineArticle + Space + "coiffe";
+    public const string Ceinture = FeminineArticle + Space + "ceinture";
+    public const string Corps = MasculineArticle + Space + "corps";
+    public const string Cri = MasculineArticle + Space + "cri";
+    public const string Chaos = MasculineArticle + Space + "chaos";
+    public const string Collection = FeminineArticle + Space + "collection";
+    public const string Createur = MasculineArticle + Space + "créateur";
+    public const string Constante = FeminineArticle + Space + "constante";
+    public const string Codex = MasculineArticle + Space + "codex";
+    public const string Courroux = MasculineArticle + Space + "courroux";
     public const string Chaloupe = FeminineArticle + Space + "chaloupe";
     public const string Compensation = FeminineArticle + Space + "compensation";
     public const string Culpabilite = FeminineArticle + Space + "culpabilité";
@@ -329,6 +345,7 @@ public class Constants
     public const string Convulsion = FeminineArticle + Space + "convulsion";
     public const string Capture = FeminineArticle + Space + "capture";
     public const string Cap = MasculineArticle + Space + "cap";
+    public const string Capacite = FeminineArticle + Space + "capacité";
     public const string Crainte = FeminineArticle + Space + "crainte";
     public const string Course = FeminineArticle + Space + "course";
     public const string Charge = FeminineArticle + Space + "charge";
@@ -509,6 +526,9 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Defense = FeminineArticle + Space + "défense";
+    public const string Demon = MasculineArticle + Space + "démon";
+    public const string Dorsale = FeminineArticle + Space + "dorsale";
     public const string Detail = MasculineArticle + Space + "détail";
     public const string Delai = MasculineArticle + Space + "délai";
     public const string Destruction = FeminineArticle + Space + "destruction";
@@ -587,6 +607,8 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Endurance = FeminineArticle + Space + "endurance";
+    public const string Ecumeur = MasculineArticle + Space + "écumeur";
     public const string Egalite = FeminineArticle + Space + "égalité";
     public const string Etincelle = FeminineArticle + Space + "étincelle";
     public const string Evocation = FeminineArticle + Space + "évocation";
@@ -722,6 +744,8 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Flâneur = MasculineArticle + Space + "flâneur";
+    public const string Faille = FeminineArticle + Space + "faille";
     public const string Forteresse = FeminineArticle + Space + "forteresse";
     public const string Forgeron = MasculineArticle + Space + "forgeron";
     public const string Fantome = MasculineArticle + Space + "fantôme";
@@ -753,6 +777,7 @@ public class Constants
     public const string Fraise = FeminineArticle + Space + "fraise";
     public const string Farce = FeminineArticle + Space + "farce";
     public const string Fourrure = FeminineArticle + Space + "fourrure";
+    public const string Fouille = FeminineArticle + Space + "fouille";
     public const string Figues = FeminineArticle + Space + "figues";
     public const string Francais = MasculineArticle + Space + "français";
     public const string Feu = MasculineArticle + Space + "feu";
@@ -803,6 +828,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Givre = MasculineArticle + Space + "givre";
     public const string Gong = MasculineArticle + Space + "gong";
     public const string Genie = MasculineArticle + Space + "génie";
     public const string Gardien = MasculineArticle + Space + "gardien";
@@ -846,6 +872,7 @@ public class Constants
     public const string Grille = FeminineArticle + Space + "grille";
     public const string Grotte = FeminineArticle + Space + "grotte";
     public const string Guerre = FeminineArticle + Space + "guerre";
+    public const string Guerrier = MasculineArticle + Space + "guerrier";
     public const string Guide = MasculineArticle + Space + "guide";
     public const string Gadget = MasculineArticle + Space + "gadget";
     public const string Galaxie = FeminineArticle + Space + "galaxie";
@@ -908,6 +935,8 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Intermediaire = MasculineArticle + Space + "intermédiaire";
+    public const string Inquisition = FeminineArticle + Space + "inquisition";
     public const string Incantation = FeminineArticle + Space + "incantation";
     public const string Inflammation = FeminineArticle + Space + "inflammation";
     public const string Intelligence = FeminineArticle + Space + "intelligence";
@@ -1057,7 +1086,6 @@ public class Constants
     public const string Larcin = MasculineArticle + Space + "larcin";
     public const string Laverie = FeminineArticle + Space + "laverie";
     public const string Lecture = FeminineArticle + Space + "lecture";
-    public const string Relecture = FeminineArticle + Space + "relecture";
     public const string Legende = FeminineArticle + Space + "légende";
     public const string Limite = FeminineArticle + Space + "limite";
     public const string Logique = FeminineArticle + Space + "logique";
@@ -1066,6 +1094,9 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Mana = MasculineArticle + Space + "mana";
+    public const string Manteau = MasculineArticle + Space + "manteau";
+    public const string Mercenaire = MasculineArticle + Space + "mercenaire";
     public const string Mortel = MasculineArticle + Space + "mortel";
     public const string Mensonge = MasculineArticle + Space + "mensonge";
     public const string Mitain = MasculineArticle + Space + "mitain";
@@ -1286,6 +1317,8 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Penetration = "pénétration";
+    public const string Puissance = FeminineArticle + Space + "puissance";
     public const string Petrole = MasculineArticle + Space + "pétrole";
     public const string Phenomene = MasculineArticle + Space + "phénomène";
     public const string Probabilite = FeminineArticle + Space + "probabilité";
@@ -1485,6 +1518,7 @@ public class Constants
     #endregion
 
     #region "Q" Nouns
+    public const string Quete = FeminineArticle + Space + "quête";
     public const string Qualite = FeminineArticle + Space + "qualité";
     public const string Quinoa = MasculineArticle + Space + "quinoa";
     public const string Quartier = MasculineArticle + Space + "quartier";
@@ -1497,6 +1531,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Relecture = FeminineArticle + Space + "relecture";
+    public const string Rune = FeminineArticle + Space + "rune";
     public const string Rafiot = MasculineArticle + Space + "rafiot";
     public const string Rejeton = MasculineArticle + Space + "rejeton";
     public const string Recompense = FeminineArticle + Space + "récompense";
@@ -1579,6 +1615,7 @@ public class Constants
     public const string Rature = FeminineArticle + Space + "rature";
     public const string Raisonnement = MasculineArticle + Space + "raisonnement";
     public const string Reduction = FeminineArticle + Space + "réduction";
+    public const string Recharge = FeminineArticle + Space + "recharge";
     public const string Rythme = MasculineArticle + Space + "rythme";
     public const string Rappel = MasculineArticle + Space + "rappel";
     public const string Recherche = FeminineArticle + Space + "recherche";
@@ -1611,6 +1648,8 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Spectre = MasculineArticle + Space + "spectre";
+    public const string Statistique = FeminineArticle + Space + "statistique";
     public const string Seigneur = MasculineArticle + Space + "seigneur";
     public const string Salopette = FeminineArticle + Space + "salopette";
     public const string Score = MasculineArticle + Space + "score";
@@ -1757,6 +1796,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Type = MasculineArticle + Space + "type";
     public const string Traffic = MasculineArticle + Space + "traffic";
     public const string Tenebre = FeminineArticle + Space + "ténèbre";
     public const string Tuteur = MasculineArticle + Space + "tuteur";
@@ -1847,6 +1887,7 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Volonte = FeminineArticle + Space + "volonté";
     public const string Vaisselle = FeminineArticle + Space + "vaisselle";
     public const string Ver = MasculineArticle + Space + "ver";
     public const string Vers = MasculineArticle + Space + "vers";
