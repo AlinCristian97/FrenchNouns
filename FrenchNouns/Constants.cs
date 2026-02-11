@@ -544,6 +544,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Dressage = MasculineArticle + Space + "dressage";
     public const string Defense = FeminineArticle + Space + "défense";
     public const string Demon = MasculineArticle + Space + "démon";
     public const string Dorsale = FeminineArticle + Space + "dorsale";
@@ -626,6 +627,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Envahisseur = MasculineArticle + Space + "envahisseur";
     public const string Enterrement = MasculineArticle + Space + "enterrement";
     public const string Eternite = FeminineArticle + Space + "éternité";
     public const string Endurance = FeminineArticle + Space + "endurance";
@@ -765,6 +767,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fuite = FeminineArticle + Space + "fuite";
     public const string Fugitif = MasculineArticle + Space + "fugitif";
     public const string Fureur = FeminineArticle + Space + "fureur";
     public const string Frequence = FeminineArticle + Space + "fréquence";
@@ -855,6 +858,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Gouffre = MasculineArticle + Space + "gouffre";
     public const string Golem = MasculineArticle + Space + "golem";
     public const string Geant = MasculineArticle + Space + "géant";
     public const string Gravure = FeminineArticle + Space + "gravure";
@@ -966,6 +970,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Insistance = FeminineArticle + Space + "insistance";
     public const string Imbecile = MasculineArticle + Space + "imbécile";
     public const string Implication = FeminineArticle + Space + "implication";
     public const string Intermediaire = MasculineArticle + Space + "intermédiaire";
@@ -1361,6 +1366,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Precipice = MasculineArticle + Space + "précipice";
     public const string Perte = FeminineArticle + Space + "perte";
     public const string Police = FeminineArticle + Space + "police";
     public const string Profiteur = MasculineArticle + Space + "profiteur";
@@ -1666,6 +1672,7 @@ public class Constants
     public const string Riviere = FeminineArticle + Space + "rivière";
     public const string Reseau = MasculineArticle + Space + "réseau";
     public const string Randonnee = FeminineArticle + Space + "randonnée";
+    public const string Randonneur = MasculineArticle + Space + "randonneur";
     public const string Rature = FeminineArticle + Space + "rature";
     public const string Raisonnement = MasculineArticle + Space + "raisonnement";
     public const string Reduction = FeminineArticle + Space + "réduction";
