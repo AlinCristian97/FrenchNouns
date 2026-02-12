@@ -186,6 +186,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bribe = FeminineArticle + Space + "bribe";
     public const string Bain = MasculineArticle + Space + "bain";
     public const string Bar = MasculineArticle + Space + "bar";
     public const string Barbare = MasculineArticle + Space + "barbare";
@@ -283,6 +284,9 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Convenance = FeminineArticle + Space + "convenance";
+    public const string Compagnon = MasculineArticle + Space + "compagnon";
+    public const string Carcasse = FeminineArticle + Space + "carcasse";
     public const string Chasseur = MasculineArticle + Space + "chasseur";
     public const string Convocation = FeminineArticle + Space + "convocation";
     public const string Charnier = MasculineArticle + Space + "charnier";
@@ -473,6 +477,7 @@ public class Constants
     public const string Colis = MasculineArticle + Space + "colis";
     public const string Comedie = FeminineArticle + Space + "comédie";
     public const string Compte = MasculineArticle + Space + "compte";
+    public const string CreveCoeur = MasculineArticle + Space + "crève-cœur";
     public const string Courrier = MasculineArticle + Space + "courrier";
     public const string Cuisine = FeminineArticle + Space + "cuisine";
     public const string Couture = FeminineArticle + Space + "couture";
@@ -1141,6 +1146,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Menestrel = MasculineArticle + Space + "ménestrel";
     public const string Marais = MasculineArticle + Space + "marais";
     public const string Milice = FeminineArticle + Space + "milice";
     public const string Milicier = MasculineArticle + Space + "milicier";
@@ -1875,6 +1881,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tromperie = FeminineArticle + Space + "tromperie";
     public const string Titan = MasculineArticle + Space + "titan";
     public const string Terre = FeminineArticle + Space + "terre";
     public const string Tombeau = MasculineArticle + Space + "tombeau";
@@ -2083,7 +2090,7 @@ public class Constants
     public const string Xylem = MasculineArticle + Space + "xylème";
     public const string Xylophone = MasculineArticle + Space + "xylophone";
     #endregion
-
+        
     #region "Y" Nouns
     public const string Yak = MasculineArticle + Space + "yak";
     public const string Yaourt = MasculineArticle + Space + "yaourt";
@@ -2105,6 +2112,9 @@ public class Constants
 
     // A
     public const string Plural_Alentours = "alentours";
+
+    // C
+    public const string Plural_Condoleances = "condoléances";
 
     // G
     public const string Plural_Gens = "gens";
