@@ -40,6 +40,7 @@ public class Constants
     public const string FeminineArticle = "une";
 
     #region "A" Nouns
+    public const string Assaut = MasculineArticle + Space + "assaut";
     public const string Anniversaire = MasculineArticle + Space + "anniversaire";
     public const string Aviseur = MasculineArticle + Space + "aviseur";
     public const string Avis = MasculineArticle + Space + "avis";
@@ -282,6 +283,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Chasseur = MasculineArticle + Space + "chasseur";
     public const string Convocation = FeminineArticle + Space + "convocation";
     public const string Charnier = MasculineArticle + Space + "charnier";
     public const string Copain = MasculineArticle + Space + "copain";
@@ -860,6 +862,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Griffe = FeminineArticle + Space + "griffe";
     public const string Gouffre = MasculineArticle + Space + "gouffre";
     public const string Golem = MasculineArticle + Space + "golem";
     public const string Geant = MasculineArticle + Space + "géant";
@@ -927,6 +930,8 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Hurlement = MasculineArticle + Space + "hurlement";
+    public const string Horde = FeminineArticle + Space + "horde";
     public const string Horreur = FeminineArticle + Space + "horreur";
     public const string Humanite = FeminineArticle + Space + "humanité";
     public const string Humain = MasculineArticle + Space + "humain";
@@ -1136,6 +1141,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Marais = MasculineArticle + Space + "marais";
     public const string Milice = FeminineArticle + Space + "milice";
     public const string Milicier = MasculineArticle + Space + "milicier";
     public const string Mana = MasculineArticle + Space + "mana";
@@ -1319,6 +1325,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Opus = MasculineArticle + Space + "opus";
     public const string Ossement = MasculineArticle + Space + "ossement";
     public const string Oubli = MasculineArticle + Space + "oubli";
     public const string Opportuniste = MasculineArticle + Space + "opportuniste";
@@ -1590,6 +1597,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Revelation = FeminineArticle + Space + "révélation";
+    public const string Redemption = FeminineArticle + Space + "rédemption";
     public const string Recit = MasculineArticle + Space + "récit";
     public const string Ricanement = MasculineArticle + Space + "ricanement";
     public const string Relecture = FeminineArticle + Space + "relecture";
