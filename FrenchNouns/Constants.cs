@@ -284,6 +284,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Connaissance = FeminineArticle + Space + "connaissance";
     public const string Convenance = FeminineArticle + Space + "convenance";
     public const string Compagnon = MasculineArticle + Space + "compagnon";
     public const string Carcasse = FeminineArticle + Space + "carcasse";
@@ -635,6 +636,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Epitre = FeminineArticle + Space + "épître";
     public const string Effigie = FeminineArticle + Space + "effigie";
     public const string Envahisseur = MasculineArticle + Space + "envahisseur";
     public const string Enterrement = MasculineArticle + Space + "enterrement";
@@ -776,6 +778,8 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fragment = MasculineArticle + Space + "fragment";
+    public const string Fumeur = MasculineArticle + Space + "fumeur";
     public const string Faisceau = MasculineArticle + Space + "faisceau";
     public const string Fuite = FeminineArticle + Space + "fuite";
     public const string Fugitif = MasculineArticle + Space + "fugitif";
@@ -936,6 +940,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Heaume = MasculineArticle + Space + "heaume";
     public const string Hurlement = MasculineArticle + Space + "hurlement";
     public const string Horde = FeminineArticle + Space + "horde";
     public const string Horreur = FeminineArticle + Space + "horreur";
@@ -983,6 +988,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Identite = FeminineArticle + Space + "identité";
     public const string Insistance = FeminineArticle + Space + "insistance";
     public const string Imbecile = MasculineArticle + Space + "imbécile";
     public const string Implication = FeminineArticle + Space + "implication";
@@ -1382,6 +1388,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Phare = MasculineArticle + Space + "phare";
     public const string Precipice = MasculineArticle + Space + "précipice";
     public const string Perte = FeminineArticle + Space + "perte";
     public const string Police = FeminineArticle + Space + "police";
@@ -1443,7 +1450,6 @@ public class Constants
     public const string Position = FeminineArticle + Space + "position";
     public const string Pale = FeminineArticle + Space + "pale";
     public const string Piege = MasculineArticle + Space + "piège";
-    public const string Propre = MasculineArticle + Space + "propre";
     public const string Pleonasme = MasculineArticle + Space + "pléonasme";
     public const string Proie = FeminineArticle + Space + "proie";
     public const string Pause = FeminineArticle + Space + "pause";
@@ -1604,6 +1610,8 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rituel = MasculineArticle + Space + "rituel";
+    public const string Regne = MasculineArticle + Space + "règne";
     public const string Revelation = FeminineArticle + Space + "révélation";
     public const string Redemption = FeminineArticle + Space + "rédemption";
     public const string Recit = MasculineArticle + Space + "récit";
@@ -1882,6 +1890,8 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Tentation = FeminineArticle + Space + "tentation";
+    public const string Tabagisme = MasculineArticle + Space + "tabagisme";
     public const string Taille = FeminineArticle + Space + "taille";
     public const string Tromperie = FeminineArticle + Space + "tromperie";
     public const string Titan = MasculineArticle + Space + "titan";
