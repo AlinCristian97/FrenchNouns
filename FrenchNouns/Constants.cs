@@ -284,6 +284,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Certitude = FeminineArticle + Space + "certitude";
     public const string Connaissance = FeminineArticle + Space + "connaissance";
     public const string Convenance = FeminineArticle + Space + "convenance";
     public const string Compagnon = MasculineArticle + Space + "compagnon";
@@ -940,6 +941,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Haine = FeminineArticle + Space + "haine";
     public const string Heaume = MasculineArticle + Space + "heaume";
     public const string Hurlement = MasculineArticle + Space + "hurlement";
     public const string Horde = FeminineArticle + Space + "horde";
@@ -988,6 +990,7 @@ public class Constants
     #endregion
 
     #region "I" Nouns
+    public const string Indifference = FeminineArticle + Space + "indifférence";
     public const string Identite = FeminineArticle + Space + "identité";
     public const string Insistance = FeminineArticle + Space + "insistance";
     public const string Imbecile = MasculineArticle + Space + "imbécile";
@@ -1610,6 +1613,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Ridicule = MasculineArticle + Space + "ridicule";
     public const string Rituel = MasculineArticle + Space + "rituel";
     public const string Regne = MasculineArticle + Space + "règne";
     public const string Revelation = FeminineArticle + Space + "révélation";
@@ -1890,6 +1894,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Total = MasculineArticle + Space + "total";
     public const string Tentation = FeminineArticle + Space + "tentation";
     public const string Tabagisme = MasculineArticle + Space + "tabagisme";
     public const string Taille = FeminineArticle + Space + "taille";
