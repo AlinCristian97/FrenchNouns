@@ -776,6 +776,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Faisceau = MasculineArticle + Space + "faisceau";
     public const string Fuite = FeminineArticle + Space + "fuite";
     public const string Fugitif = MasculineArticle + Space + "fugitif";
     public const string Fureur = FeminineArticle + Space + "fureur";
@@ -1881,6 +1882,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Taille = FeminineArticle + Space + "taille";
     public const string Tromperie = FeminineArticle + Space + "tromperie";
     public const string Titan = MasculineArticle + Space + "titan";
     public const string Terre = FeminineArticle + Space + "terre";
