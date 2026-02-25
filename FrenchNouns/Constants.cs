@@ -638,6 +638,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Epidemie = FeminineArticle + Space + "épidémie";
     public const string Epitre = FeminineArticle + Space + "épître";
     public const string Effigie = FeminineArticle + Space + "effigie";
     public const string Envahisseur = MasculineArticle + Space + "envahisseur";
@@ -874,6 +875,7 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Garnison = FeminineArticle + Space + "garnison"; 
     public const string Griffe = FeminineArticle + Space + "griffe";
     public const string Gouffre = MasculineArticle + Space + "gouffre";
     public const string Golem = MasculineArticle + Space + "golem";
@@ -1058,6 +1060,7 @@ public class Constants
     #endregion
 
     #region "J" Nouns
+    public const string Jalousie = FeminineArticle + Space + "jalousie";
     public const string Joueur = MasculineArticle + Space + "joueur";
     public const string Junior = MasculineArticle + Space + "junior";
     public const string Jonquille = FeminineArticle + Space + "jonquille";
@@ -1392,6 +1395,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Parasite = MasculineArticle + Space + "parasite";
     public const string Phare = MasculineArticle + Space + "phare";
     public const string Precipice = MasculineArticle + Space + "précipice";
     public const string Perte = FeminineArticle + Space + "perte";
@@ -1614,6 +1618,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Renforcement = MasculineArticle + Space + "renforcement";
     public const string Ridicule = MasculineArticle + Space + "ridicule";
     public const string Rituel = MasculineArticle + Space + "rituel";
     public const string Regne = MasculineArticle + Space + "règne";
@@ -1988,6 +1993,7 @@ public class Constants
     #endregion
 
     #region "U" Nouns
+    public const string Unite = FeminineArticle + Space + "unité";
     public const string Urne = FeminineArticle + Space + "urne";
     public const string Uniforme = MasculineArticle + Space + "uniforme";
     public const string Univers = MasculineArticle + Space + "univers";
