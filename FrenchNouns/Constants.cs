@@ -1740,6 +1740,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Sagesse = FeminineArticle + Space + "sagesse";
     public const string Seisme = MasculineArticle + Space + "séisme";
     public const string Squelette = MasculineArticle + Space + "squelette";
     public const string Sol = MasculineArticle + Space + "sol";
