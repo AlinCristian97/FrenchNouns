@@ -1896,6 +1896,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns   
+    public const string Tenue = FeminineArticle + Space + "tenue";
     public const string Terreur = FeminineArticle + Space + "terreur";
     public const string Total = MasculineArticle + Space + "total";
     public const string Tentation = FeminineArticle + Space + "tentation";
