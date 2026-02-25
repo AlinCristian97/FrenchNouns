@@ -422,6 +422,7 @@ public class Constants
     public const string Coffre = MasculineArticle + Space + "coffre";
     public const string Cou = MasculineArticle + Space + "cou";
     public const string Centre = MasculineArticle + Space + "centre";
+    public const string Cage = FeminineArticle + Space + "cage";
     public const string Clavier = MasculineArticle + Space + "clavier";
     public const string Client = MasculineArticle + Space + "client";
     public const string Commande = FeminineArticle + Space + "commande";
@@ -1893,7 +1894,8 @@ public class Constants
     public const string Saga = FeminineArticle + Space + "saga";
     #endregion
 
-    #region "T" Nouns
+    #region "T" Nouns   
+    public const string Terreur = FeminineArticle + Space + "terreur";
     public const string Total = MasculineArticle + Space + "total";
     public const string Tentation = FeminineArticle + Space + "tentation";
     public const string Tabagisme = MasculineArticle + Space + "tabagisme";
