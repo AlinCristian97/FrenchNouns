@@ -284,6 +284,8 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Gamin = MasculineArticle + Space + "gamin";
+    public const string Culot = MasculineArticle + Space + "culot";
     public const string Certitude = FeminineArticle + Space + "certitude";
     public const string Connaissance = FeminineArticle + Space + "connaissance";
     public const string Convenance = FeminineArticle + Space + "convenance";
