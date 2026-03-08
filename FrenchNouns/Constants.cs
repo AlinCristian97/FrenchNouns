@@ -318,7 +318,6 @@ public class Constants
     public const string Courbe = FeminineArticle + Space + "courbe";
     public const string Continent = MasculineArticle + Space + "continent";
     public const string Charbon = MasculineArticle + Space + "charbon";
-    public const string Gamin = MasculineArticle + Space + "gamin";
     public const string Culot = MasculineArticle + Space + "culot";
     public const string Certitude = FeminineArticle + Space + "certitude";
     public const string Connaissance = FeminineArticle + Space + "connaissance";
@@ -347,7 +346,6 @@ public class Constants
     public const string Congelateur = MasculineArticle + Space + "congélateur";
     public const string Cuisinier = MasculineArticle + Space + "cuisinier";
     public const string Chef = MasculineArticle + Space + "chef";
-    public const string Guidage = MasculineArticle + Space + "guidage";
     public const string Conseil = MasculineArticle + Space + "conseil";
     public const string Chapitre = MasculineArticle + Space + "chapitre";
     public const string Crypte = FeminineArticle + Space + "crypte";
@@ -963,6 +961,8 @@ public class Constants
     #endregion
 
     #region "G" Nouns
+    public const string Guidage = MasculineArticle + Space + "guidage";
+    public const string Gamin = MasculineArticle + Space + "gamin";
     public const string Grandeur = FeminineArticle + Space + "grandeur";
     public const string Gratitude = FeminineArticle + Space + "gratitude";
     public const string Grace = FeminineArticle + Space + "grâce";
