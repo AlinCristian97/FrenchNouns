@@ -2203,6 +2203,7 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Veuf = MasculineArticle + Space + "veuf";
     public const string Voile = MasculineArticle + Space + "voile";
     public const string Virus = MasculineArticle + Space + "virus";
     public const string Vallee = FeminineArticle + Space + "vallée";
