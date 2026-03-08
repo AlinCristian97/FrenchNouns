@@ -1291,6 +1291,7 @@ public class Constants
     #endregion
 
     #region "N" Nouns
+    public const string Naufrage = MasculineArticle + Space + "naufrage";
     public const string Neant = MasculineArticle + Space + "néant";
     public const string Nuage = MasculineArticle + Space + "nuage";
     public const string Naissance = FeminineArticle + Space + "naissance";
@@ -1397,6 +1398,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Profondeur = FeminineArticle + Space + "profondeur";
     public const string Parasite = MasculineArticle + Space + "parasite";
     public const string Phare = MasculineArticle + Space + "phare";
     public const string Precipice = MasculineArticle + Space + "précipice";
@@ -1903,6 +1905,8 @@ public class Constants
     #endregion
 
     #region "T" Nouns   
+    public const string Tentacule = FeminineArticle + Space + "tentacule";
+    public const string Tapis = MasculineArticle + Space + "tapis";
     public const string Tenue = FeminineArticle + Space + "tenue";
     public const string Terreur = FeminineArticle + Space + "terreur";
     public const string Total = MasculineArticle + Space + "total";
