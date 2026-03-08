@@ -285,6 +285,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Crue = FeminineArticle + Space + "crue";
     public const string Coquillage = MasculineArticle + Space + "coquillage";
     public const string Courbe = FeminineArticle + Space + "courbe";
     public const string Continent = MasculineArticle + Space + "continent";
@@ -562,7 +563,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
-
+    public const string Duche = MasculineArticle + Space + "duché";
     public const string Detresse = FeminineArticle + Space + "détresse";
     public const string Duelist = MasculineArticle + Space + "duelliste";
     public const string Dressage = MasculineArticle + Space + "dressage";
@@ -1147,7 +1148,6 @@ public class Constants
     public const string Laie = FeminineArticle + Space + "laie";
     public const string Loup = MasculineArticle + Space + "loup";
     public const string Laisse = FeminineArticle + Space + "laisse";
-    public const string Labo = MasculineArticle + Space + "labo";
     public const string Laine = FeminineArticle + Space + "laine";
     public const string Lentille = FeminineArticle + Space + "lentille";
     public const string Lanterne = FeminineArticle + Space + "lanterne";
@@ -1172,6 +1172,7 @@ public class Constants
     public const string Lait = MasculineArticle + Space + "lait";
     public const string Lieu = MasculineArticle + Space + "lieu";
     public const string Loi = FeminineArticle + Space + "loi";
+    public const string Labo = MasculineArticle + Space + "labo";
     public const string Laboratoire = MasculineArticle + Space + "laboratoire";
     public const string Langage = MasculineArticle + Space + "langage";
     public const string Larcin = MasculineArticle + Space + "larcin";
@@ -1572,6 +1573,7 @@ public class Constants
     public const string Princesse = FeminineArticle + Space + "princesse";
     public const string Programme = MasculineArticle + Space + "programme";
     public const string Projet = MasculineArticle + Space + "projet";
+    public const string Projectile = MasculineArticle + Space + "projectile";
     public const string Publicite = FeminineArticle + Space + "publicité";
     public const string Pyramide = FeminineArticle + Space + "pyramide";
     public const string Plume = FeminineArticle + Space + "plume";
