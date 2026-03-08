@@ -1495,7 +1495,6 @@ public class Constants
     public const string Nuque = FeminineArticle + Space + "nuque";
     public const string Noisette = FeminineArticle + Space + "noisette";
     public const string Noisetier = MasculineArticle + Space + "noisetier";
-    public const string Nappe_Souterraine = FeminineArticle + Space + "nappe";
     public const string Neveu = MasculineArticle + Space + "neveu";
     public const string Niece = FeminineArticle + Space + "nièce";
     public const string Nid = MasculineArticle + Space + "nid";
