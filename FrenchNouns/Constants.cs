@@ -1310,6 +1310,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Marque = FeminineArticle + Space + "marque";
     public const string Menestrel = MasculineArticle + Space + "ménestrel";
     public const string Marais = MasculineArticle + Space + "marais";
     public const string Milice = FeminineArticle + Space + "milice";
@@ -1898,7 +1899,6 @@ public class Constants
     public const string Region = FeminineArticle + Space + "région";
     public const string Relation = FeminineArticle + Space + "relation";
     public const string Religion = FeminineArticle + Space + "religion";
-    public const string Marque = FeminineArticle + Space + "marque";
     public const string Remarque = FeminineArticle + Space + "remarque";
     public const string Rencontre = FeminineArticle + Space + "rencontre";
     public const string Reponse = FeminineArticle + Space + "réponse";
