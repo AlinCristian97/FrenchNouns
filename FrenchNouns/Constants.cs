@@ -2255,7 +2255,6 @@ public class Constants
     public const string Voyelle = FeminineArticle + Space + "voyelle";
     public const string Viande = FeminineArticle + Space + "viande";
     public const string Voisin = MasculineArticle + Space + "voisin";
-    public const string Valee = FeminineArticle + Space + "vallée";
     public const string Vachette = FeminineArticle + Space + "vachette";
     public const string Vainqueur = MasculineArticle + Space + "vainqueur";
     public const string Vainqueuse = FeminineArticle + Space + "vainqueuse";
