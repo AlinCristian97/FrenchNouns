@@ -101,7 +101,7 @@ public class Constants
     public const string Appel = MasculineArticle + Space + "appel";
     public const string Accessoire = MasculineArticle + Space + "accessoire";
     public const string Addition = FeminineArticle + Space + "addition";
-    public const string Amitié = FeminineArticle + Space + "amitié";
+    public const string Amitie = FeminineArticle + Space + "amitié";
     public const string Avance = FeminineArticle + Space + "avance";
     public const string Aeroport = MasculineArticle + Space + "aéroport";
     public const string Aeration = FeminineArticle + Space + "aération";
@@ -125,7 +125,7 @@ public class Constants
     public const string Ange = MasculineArticle + Space + "ange";
     public const string Automne = MasculineArticle + Space + "automne";
     public const string Avril = MasculineArticle + Space + "avril";
-    public const string Août = MasculineArticle + Space + "août";
+    public const string Aout = MasculineArticle + Space + "août";
     public const string Amie = FeminineArticle + Space + "amie";
     public const string Appartement = MasculineArticle + Space + "appartement";
     public const string Arbre = MasculineArticle + Space + "arbre";
@@ -642,7 +642,7 @@ public class Constants
     public const string Droit = MasculineArticle + Space + "droit";
     public const string Difficulte = FeminineArticle + Space + "difficulté";
     public const string Dinde = FeminineArticle + Space + "dinde";
-    public const string Décoration = FeminineArticle + Space + "décoration";
+    public const string Decoration = FeminineArticle + Space + "décoration";
     public const string Dentiste = MasculineArticle + Space + "dentiste";
     public const string Departement = MasculineArticle + Space + "département";
     public const string Dossier = MasculineArticle + Space + "dossier";
@@ -866,7 +866,7 @@ public class Constants
     public const string Figurine = FeminineArticle + Space + "figurine";
     public const string Face = FeminineArticle + Space + "face";
     public const string Fusillade = FeminineArticle + Space + "fusillade";
-    public const string Flâneur = MasculineArticle + Space + "flâneur";
+    public const string Flaneur = MasculineArticle + Space + "flâneur";
     public const string Faille = FeminineArticle + Space + "faille";
     public const string Forteresse = FeminineArticle + Space + "forteresse";
     public const string Forgeron = MasculineArticle + Space + "forgeron";
@@ -954,7 +954,7 @@ public class Constants
     public const string Fourmi = FeminineArticle + Space + "fourmi";
     public const string Fusee = FeminineArticle + Space + "fusée";
     public const string Farine = FeminineArticle + Space + "farine";
-    public const string Fossé = MasculineArticle + Space + "fossé";
+    public const string Fosse = MasculineArticle + Space + "fossé";
     public const string Fichet = MasculineArticle + Space + "fichet";
     public const string Falaise = FeminineArticle + Space + "falaise";
     public const string Foulard = MasculineArticle + Space + "foulard";
@@ -1037,7 +1037,7 @@ public class Constants
     public const string Gout = MasculineArticle + Space + "goût";
     public const string Grenier = MasculineArticle + Space + "grenier";
     public const string Goutte = FeminineArticle + Space + "goutte";
-    public const string Gaieté = FeminineArticle + Space + "gaieté";
+    public const string Gaiete = FeminineArticle + Space + "gaieté";
     public const string Guirlande = FeminineArticle + Space + "guirlande";
     public const string Gouttiere = FeminineArticle + Space + "gouttière";
     public const string Galet = MasculineArticle + Space + "galet";
@@ -1233,7 +1233,7 @@ public class Constants
     public const string Kiwi = MasculineArticle + Space + "kiwi";
     public const string Kangourou = MasculineArticle + Space + "kangourou";
     public const string Kayak = MasculineArticle + Space + "kayak";
-    public const string Kilomètre = MasculineArticle + Space + "kilomètre";
+    public const string Kilometre = MasculineArticle + Space + "kilomètre";
     public const string Kilo = MasculineArticle + Space + "kilo";
     public const string Kit = MasculineArticle + Space + "kit";
     public const string Kiosque = MasculineArticle + Space + "kiosque";
@@ -1245,7 +1245,7 @@ public class Constants
 
     #region "L" Nouns
     public const string Loisir = MasculineArticle + Space + "loisir";
-    public const string Localité = FeminineArticle + Space + "localité";
+    public const string Localite = FeminineArticle + Space + "localité";
     public const string Lateral = MasculineArticle + Space + "latéral";
     public const string Lien = MasculineArticle + Space + "lien";
     public const string Limbe = MasculineArticle + Space + "limbe";
@@ -1576,7 +1576,7 @@ public class Constants
     public const string Phoque = MasculineArticle + Space + "phoque";
     public const string Proximite = FeminineArticle + Space + "proximité";
     public const string Province = FeminineArticle + Space + "province";
-    public const string Pénétration = FeminineArticle + Space + "pénétration";
+    public const string Penetration = FeminineArticle + Space + "pénétration";
     public const string Puissance = FeminineArticle + Space + "puissance";
     public const string Petrole = MasculineArticle + Space + "pétrole";
     public const string Phenomene = MasculineArticle + Space + "phénomène";
@@ -2250,7 +2250,7 @@ public class Constants
     public const string Voix = FeminineArticle + Space + "voix";
     public const string Vide = MasculineArticle + Space + "vide";
     public const string Vache = FeminineArticle + Space + "vache";
-    public const string Vêtement = MasculineArticle + Space + "vêtement";
+    public const string Vetement = MasculineArticle + Space + "vêtement";
     public const string Villageois = MasculineArticle + Space + "villageois";
     public const string Vote = MasculineArticle + Space + "vote";
     public const string Voiture = FeminineArticle + Space + "voiture";
