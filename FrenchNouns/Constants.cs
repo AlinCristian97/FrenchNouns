@@ -38,6 +38,7 @@ public class Constants
 
     public const string MasculineArticle = "un";
     public const string FeminineArticle = "une";
+    public const string PluralArticle = "des";
 
     #region "A" Nouns
     public const string Aspect = MasculineArticle + Space + "aspect";
@@ -2348,30 +2349,30 @@ public class Constants
     #region Plural-only Nouns
 
     // A
-    public const string Plural_Alentours = "alentours";
+    public const string Plural_Alentours = PluralArticle + Space + "alentours";
 
     // C
-    public const string Plural_Condoleances = "condoléances";
+    public const string Plural_Condoleances = PluralArticle + Space + "condoléances";
 
     // G
-    public const string Plural_Gens = "gens";
+    public const string Plural_Gens = PluralArticle + Space + "gens";
 
     // F
-    public const string Plural_Frais = "frais";
-    public const string Plural_Fesses = "fesses";
+    public const string Plural_Frais = PluralArticle + Space + "frais";
+    public const string Plural_Fesses = PluralArticle + Space + "fesses";
 
     // L
-    public const string Plural_Lunettes = "lunettes";
+    public const string Plural_Lunettes = PluralArticle + Space + "lunettes";
 
     // S
-    public const string Plural_Soldes = "soldes";
+    public const string Plural_Soldes = PluralArticle + Space + "soldes";
 
     // T
-    public const string Plural_Toilettes = "toilettes";
+    public const string Plural_Toilettes = PluralArticle + Space + "toilettes";
 
     // V
-    public const string Plural_Vacances = "vacances";
-    public const string Plural_Vetements = "vêtements";
+    public const string Plural_Vacances = PluralArticle + Space + "vacances";
+    public const string Plural_Vetements = PluralArticle + Space + "vêtements";
 
     #endregion
 }
