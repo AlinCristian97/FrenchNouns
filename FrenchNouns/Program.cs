@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FrenchNouns
+﻿namespace FrenchNouns
 {
     internal class Program
     {
