@@ -65,7 +65,7 @@ namespace FrenchNouns
 
                 if (choice == "3")
                 {
-                    Console.Write("Entrez le mot : ");
+                    Console.Write("Entrez le mot (avec ou sans article) : ");
                     var userInput = Console.ReadLine()?.Trim();
                     if (string.IsNullOrEmpty(userInput))
                     {
@@ -140,6 +140,10 @@ namespace FrenchNouns
                 else if (string.Equals(article, Constants.FeminineArticle, StringComparison.Ordinal))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
+                }
+                else if (string.Equals(article, Constants.PluralArticle, StringComparison.Ordinal))
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
                 }
                 else
                 {
@@ -235,7 +239,7 @@ namespace FrenchNouns
             {
                 var article = parts[0].ToLowerInvariant();
                 var noun = nounPart.ToLowerInvariant();
-                if (article == Constants.MasculineArticle || article == Constants.FeminineArticle)
+                if (article == Constants.MasculineArticle || article == Constants.FeminineArticle || article == Constants.PluralArticle)
                     return article + Constants.Space + noun;
             }
 
