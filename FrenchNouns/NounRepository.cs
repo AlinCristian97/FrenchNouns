@@ -580,6 +580,7 @@ public static class NounRepository
         Constants.Crochet,
         Constants.Cruche,
         Constants.Cuivre,
+        Constants.Crevette,
 
         //
 

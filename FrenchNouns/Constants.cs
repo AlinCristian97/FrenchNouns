@@ -598,6 +598,7 @@ public class Constants
     public const string Crochet = MasculineArticle + Space + "crochet";
     public const string Cruche = FeminineArticle + Space + "cruche";
     public const string Cuivre = MasculineArticle + Space + "cuivre";
+    public const string Crevette = FeminineArticle + Space + "crevette";
 
     #endregion
 
