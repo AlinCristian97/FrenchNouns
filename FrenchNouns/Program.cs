@@ -12,6 +12,7 @@ namespace FrenchNouns
                 Console.WriteLine("1) Mot aléatoire");
                 Console.WriteLine("2) Mot aléatoire par lettre");
                 Console.WriteLine("3) Entrer un mot");
+                Console.WriteLine("4) Mot aléatoire (noms pluriels uniquement)");
                 Console.WriteLine("Q) Quitter");
 
                 var choice = Console.ReadLine()?.Trim();
@@ -94,6 +95,21 @@ namespace FrenchNouns
                     }
 
                     DisplayWordWithMetadata(canonical);
+
+                    continue;
+                }
+
+                if (choice == "4")
+                {
+                    var plurals = NounRepository.PluralOnlyNouns;
+                    if (plurals.Count == 0)
+                    {
+                        Console.WriteLine("Aucun nom pluriel disponible.\n");
+                        continue;
+                    }
+
+                    var word = plurals[Random.Shared.Next(plurals.Count)];
+                    DisplayWordWithMetadata(word);
 
                     continue;
                 }
