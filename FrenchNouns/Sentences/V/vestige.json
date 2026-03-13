@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Les vestiges du chateau sont encore visibles.",
-                      "Un vestige de l\u0027epoque romaine a ete decouvert.",
-                      "Ce mur est le dernier vestige de l\u0027ancienne eglise.",
-                      "Les archeologues etudient les vestiges de la cite.",
-                      "Le vestige temoigne d\u0027une civilisation avancee."
-                  ],
-    "description":  "Nom masculin designant une trace, un reste d\u0027une chose disparue."
+  "description": "Nom masculin désignant une trace, un reste d'une chose disparue. Le mot « vestige » est courant en français dans les contextes historiques et archéologiques.",
+  "sentences": [
+    "Les vestiges du château sont encore visibles.",
+    "Un vestige de l'époque romaine a été découvert.",
+    "Ce mur est le dernier vestige de l'ancienne église.",
+    "Les archéologues étudient les vestiges de la cité.",
+    "Le vestige témoigne d'une civilisation avancée."
+  ]
 }

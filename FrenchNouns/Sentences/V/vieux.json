@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le vieux s\u0027asseyait chaque jour sur le banc.",
-                      "Un vieux monsieur nous a indique le chemin.",
-                      "Ce vieux chapeau appartenait a mon grand-pere.",
-                      "Le vieux racontait ses souvenirs de guerre.",
-                      "Un vieux sage dispensait ses conseils au village."
-                  ],
-    "description":  "Nom masculin designant un homme age ou quelque chose d\u0027ancien."
+  "description": "Nom masculin désignant un homme âgé ou quelque chose d'ancien. Le mot « vieux » est très courant en français dans les contextes quotidiens.",
+  "sentences": [
+    "Le vieux s'asseyait chaque jour sur le banc.",
+    "Un vieux monsieur nous a indiqué le chemin.",
+    "Ce vieux chapeau appartenait à mon grand-père.",
+    "Le vieux racontait ses souvenirs de guerre.",
+    "Un vieux sage dispensait ses conseils au village."
+  ]
 }

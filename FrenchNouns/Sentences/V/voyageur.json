@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le voyageur a pose son sac sur le quai.",
-                      "Un voyageur fatigue s\u0027est endormi dans le train.",
-                      "Le voyageur a perdu son passeport.",
-                      "Chaque voyageur doit presenter son billet.",
-                      "Le voyageur solitaire explorait la region."
-                  ],
-    "description":  "Nom masculin designant une personne qui effectue un voyage."
+  "description": "Nom masculin désignant une personne qui effectue un voyage. Le mot « voyageur » est courant en français dans les contextes de transport.",
+  "sentences": [
+    "Le voyageur a posé son sac sur le quai.",
+    "Un voyageur fatigué s'est endormi dans le train.",
+    "Le voyageur a perdu son passeport.",
+    "Chaque voyageur doit présenter son billet.",
+    "Le voyageur solitaire explorait la région."
+  ]
 }

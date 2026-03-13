@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le village est situe au pied de la montagne.",
-                      "Les habitants du village se connaissent tous.",
-                      "Un joli village de pecheurs borde la cote.",
-                      "Le village organise une fete chaque ete.",
-                      "Ce village a conserve son charme d\u0027antan."
-                  ],
-    "description":  "Nom masculin designant une petite agglomeration rurale."
+  "description": "Nom masculin désignant une petite agglomération rurale. Le mot « village » est très courant en français dans les contextes géographiques.",
+  "sentences": [
+    "Le village est situé au pied de la montagne.",
+    "Les habitants du village se connaissent tous.",
+    "Un joli village de pêcheurs borde la côte.",
+    "Le village organise une fête chaque été.",
+    "Ce village a conservé son charme d'antan."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La victime a ete transportee a l\u0027hopital.",
-                      "Les victimes de l\u0027accident ont ete secourues.",
-                      "Elle est victime d\u0027une injustice.",
-                      "La victime a porte plainte au commissariat.",
-                      "Les secours ont pris en charge chaque victime."
-                  ],
-    "description":  "Nom feminin designant une personne qui subit un dommage."
+  "description": "Nom féminin désignant une personne qui subit un dommage. Le mot « victime » est courant en français dans les contextes juridiques et sociaux.",
+  "sentences": [
+    "La victime a été transportée à l'hôpital.",
+    "Les victimes de l'accident ont été secourues.",
+    "Elle est victime d'une injustice.",
+    "La victime a porté plainte au commissariat.",
+    "Les secours ont pris en charge chaque victime."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La viande grille embaumait le jardin.",
-                      "Il prefere la viande bien cuite.",
-                      "La viande de boeuf est riche en proteines.",
-                      "Le boucher decoupe la viande avec precision.",
-                      "Cette viande est tendre et savoureuse."
-                  ],
-    "description":  "Nom feminin designant la chair des animaux utilisee comme aliment."
+  "description": "Nom féminin désignant la chair des animaux utilisée comme aliment. Le mot « viande » est très courant en français dans les contextes culinaires.",
+  "sentences": [
+    "La viande grillée embaumait le jardin.",
+    "Il préfère la viande bien cuite.",
+    "La viande de bœuf est riche en protéines.",
+    "Le boucher découpe la viande avec précision.",
+    "Cette viande est tendre et savoureuse."
+  ]
 }

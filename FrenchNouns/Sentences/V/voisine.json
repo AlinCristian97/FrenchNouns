@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La voisine nous a offert des fleurs.",
-                      "Ma voisine est tres serviable.",
-                      "La voisine du rez-de-chaussee a un chat.",
-                      "Notre voisine organise souvent des fetes.",
-                      "La voisine garde les enfants le mercredi."
-                  ],
-    "description":  "Nom feminin designant une femme qui habite a proximite."
+  "description": "Nom féminin désignant une femme qui habite à proximité. Le mot « voisine » est courant en français dans les contextes quotidiens.",
+  "sentences": [
+    "La voisine nous a offert des fleurs.",
+    "Ma voisine est très serviable.",
+    "La voisine du rez-de-chaussée a un chat.",
+    "Notre voisine organise souvent des fêtes.",
+    "La voisine garde les enfants le mercredi."
+  ]
 }

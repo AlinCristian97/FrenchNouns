@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le vol de l\u0027aigle est majestueux.",
-                      "Le vol a destination de Paris est retarde.",
-                      "Un vol a ete commis dans le quartier.",
-                      "Le vol des oiseaux migrateurs annonce l\u0027automne.",
-                      "Le vol dure environ deux heures."
-                  ],
-    "description":  "Nom masculin designant l\u0027action de voler dans les airs ou un larcin."
+  "description": "Nom masculin désignant l'action de voler dans les airs ou un larcin. Le mot « vol » est très courant en français.",
+  "sentences": [
+    "Le vol de l'aigle est majestueux.",
+    "Le vol à destination de Paris est retardé.",
+    "Un vol a été commis dans le quartier.",
+    "Le vol des oiseaux migrateurs annonce l'automne.",
+    "Le vol dure environ deux heures."
+  ]
 }

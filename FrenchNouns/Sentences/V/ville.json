@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La ville est animee jour et nuit.",
-                      "Il a grandi dans une grande ville.",
-                      "La ville offre de nombreuses opportunites.",
-                      "Le centre de la ville est pietonne.",
-                      "Cette ville attire des milliers de touristes."
-                  ],
-    "description":  "Nom feminin designant une agglomeration urbaine importante."
+  "description": "Nom féminin désignant une agglomération urbaine importante. Le mot « ville » est très courant en français dans les contextes géographiques.",
+  "sentences": [
+    "La ville est animée jour et nuit.",
+    "Il a grandi dans une grande ville.",
+    "La ville offre de nombreuses opportunités.",
+    "Le centre de la ville est piéton.",
+    "Cette ville attire des milliers de touristes."
+  ]
 }

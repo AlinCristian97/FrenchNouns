@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Son visage exprimait une grande joie.",
-                      "Le visage de l\u0027enfant etait couvert de chocolat.",
-                      "Elle a un visage doux et souriant.",
-                      "Le peintre a immortalise son visage.",
-                      "Un visage familier est apparu dans la foule."
-                  ],
-    "description":  "Nom masculin designant la face, la figure d\u0027une personne."
+  "description": "Nom masculin désignant la face, la figure d'une personne. Le mot « visage » est très courant en français dans les contextes quotidiens.",
+  "sentences": [
+    "Son visage exprimait une grande joie.",
+    "Le visage de l'enfant était couvert de chocolat.",
+    "Elle a un visage doux et souriant.",
+    "Le peintre a immortalisé son visage.",
+    "Un visage familier est apparu dans la foule."
+  ]
 }

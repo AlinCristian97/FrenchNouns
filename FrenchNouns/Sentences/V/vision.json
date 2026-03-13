@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Sa vision du monde est optimiste.",
-                      "La vision nocturne du chat est excellente.",
-                      "Il a partage sa vision du projet.",
-                      "Une vision claire guide ses decisions.",
-                      "La vision de l\u0027artiste transparait dans son oeuvre."
-                  ],
-    "description":  "Nom feminin designant la faculte de voir ou une conception de l\u0027avenir."
+  "description": "Nom féminin désignant la faculté de voir ou une conception de l'avenir. Le mot « vision » est courant en français dans les contextes médicaux et philosophiques.",
+  "sentences": [
+    "Sa vision du monde est optimiste.",
+    "La vision nocturne du chat est excellente.",
+    "Il a partagé sa vision du projet.",
+    "Une vision claire guide ses décisions.",
+    "La vision de l'artiste transparaît dans son œuvre."
+  ]
 }

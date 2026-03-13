@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le veuf vivait seul dans sa grande maison.",
-                      "Un veuf inconsolable pleurait devant la tombe.",
-                      "Le veuf a eleve ses enfants seul.",
-                      "Ce veuf a retrouve le sourire avec le temps.",
-                      "Le vieux veuf racontait souvent des souvenirs."
-                  ],
-    "description":  "Nom masculin designant un homme dont l\u0027epouse est decedee."
+  "description": "Nom masculin désignant un homme dont l'épouse est décédée. Le mot « veuf » est courant en français dans les contextes familiaux et juridiques.",
+  "sentences": [
+    "Le veuf vivait seul dans sa grande maison.",
+    "Un veuf inconsolable pleurait devant la tombe.",
+    "Le veuf a élevé ses enfants seul.",
+    "Ce veuf a retrouvé le sourire avec le temps.",
+    "Le vieux veuf racontait souvent des souvenirs."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La vignette automobile doit etre renouvelee chaque annee.",
-                      "Une vignette decorative ornait la premiere page.",
-                      "Il a colle la vignette sur le pare-brise.",
-                      "La vignette Crit\u0027Air est obligatoire en ville.",
-                      "Chaque vignette illustre un moment de l\u0027histoire."
-                  ],
-    "description":  "Nom feminin designant une petite image ou un timbre."
+  "description": "Nom féminin désignant une petite image ou un timbre. Le mot « vignette » est courant en français dans les contextes administratifs et décoratifs.",
+  "sentences": [
+    "La vignette automobile doit être renouvelée chaque année.",
+    "Une vignette décorative ornait la première page.",
+    "Il a collé la vignette sur le pare-brise.",
+    "La vignette Crit'Air est obligatoire en ville.",
+    "Chaque vignette illustre un moment de l'histoire."
+  ]
 }

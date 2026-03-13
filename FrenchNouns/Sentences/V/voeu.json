@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Il a formule un vœu en soufflant les bougies.",
-                      "Les vœux de bonne annee sont une tradition.",
-                      "Son vœu le plus cher est de voyager.",
-                      "Elle a fait un vœu devant la fontaine.",
-                      "Le vœu de l\u0027assemblee a ete exauce."
-                  ],
-    "description":  "Nom masculin designant un souhait, un desir exprime."
+{
+  "description": "Nom masculin désignant un souhait, un désir exprimé. Le mot « vœu » est courant en français dans les contextes festifs et religieux.",
+  "sentences": [
+    "Il a formulé un vœu en soufflant les bougies.",
+    "Les vœux de bonne année sont une tradition.",
+    "Son vœu le plus cher est de voyager.",
+    "Elle a fait un vœu devant la fontaine.",
+    "Le vœu de l'assemblée a été exaucé."
+  ]
 }

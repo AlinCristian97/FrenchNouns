@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Sa voix est douce et melodieuse.",
-                      "La voix du chanteur a emu le public.",
-                      "Il a perdu la voix a cause du froid.",
-                      "Une voix grave resonna dans la salle.",
-                      "Elle a reconnu sa voix au telephone."
-                  ],
-    "description":  "Nom feminin designant le son produit par les cordes vocales."
+  "description": "Nom féminin désignant le son produit par les cordes vocales. Le mot « voix » est très courant en français dans les contextes musicaux et quotidiens.",
+  "sentences": [
+    "Sa voix est douce et mélodieuse.",
+    "La voix du chanteur a ému le public.",
+    "Il a perdu la voix à cause du froid.",
+    "Une voix grave résonna dans la salle.",
+    "Elle a reconnu sa voix au téléphone."
+  ]
 }

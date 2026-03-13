@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Il a bu un verre d\u0027eau fraiche.",
-                      "Le verre s\u0027est brise en tombant.",
-                      "Les fenetres sont en verre trempe.",
-                      "Elle a leve son verre pour porter un toast.",
-                      "Le souffleur de verre cree des objets magnifiques."
-                  ],
-    "description":  "Nom masculin designant un recipient pour boire ou un materiau transparent."
+  "description": "Nom masculin désignant un récipient pour boire ou un matériau transparent. Le mot « verre » est très courant en français dans les contextes quotidiens et industriels.",
+  "sentences": [
+    "Il a bu un verre d'eau fraîche.",
+    "Le verre s'est brisé en tombant.",
+    "Les fenêtres sont en verre trempé.",
+    "Elle a levé son verre pour porter un toast.",
+    "Le souffleur de verre crée des objets magnifiques."
+  ]
 }

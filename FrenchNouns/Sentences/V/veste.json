@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Il a enfile sa veste avant de sortir.",
-                      "La veste en cuir lui allait parfaitement.",
-                      "Elle a pose sa veste sur le dossier de la chaise.",
-                      "Une veste elegante completait sa tenue.",
-                      "Le vent etait frais, il a boutonne sa veste."
-                  ],
-    "description":  "Nom feminin designant un vetement court couvrant le haut du corps."
+  "description": "Nom féminin désignant un vêtement court couvrant le haut du corps. Le mot « veste » est courant en français dans les contextes vestimentaires.",
+  "sentences": [
+    "Il a enfilé sa veste avant de sortir.",
+    "La veste en cuir lui allait parfaitement.",
+    "Elle a posé sa veste sur le dossier de la chaise.",
+    "Une veste élégante complétait sa tenue.",
+    "Le vent était frais, il a boutonné sa veste."
+  ]
 }

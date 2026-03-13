@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La voirie de la ville est en bon etat.",
-                      "Les agents de la voirie nettoient les rues.",
-                      "La voirie a ete refaite recemment.",
-                      "Le budget de la voirie a ete augmente.",
-                      "La voirie municipale gere l\u0027entretien des routes."
-                  ],
-    "description":  "Nom feminin designant l\u0027ensemble des voies de circulation et leur entretien."
+  "description": "Nom féminin désignant l'ensemble des voies de circulation et leur entretien. Le mot « voirie » est courant en français dans les contextes municipaux.",
+  "sentences": [
+    "La voirie de la ville est en bon état.",
+    "Les agents de la voirie nettoient les rues.",
+    "La voirie a été refaite récemment.",
+    "Le budget de la voirie a été augmenté.",
+    "La voirie municipale gère l'entretien des routes."
+  ]
 }

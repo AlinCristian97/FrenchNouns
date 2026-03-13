@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le voleur a ete arrete par la police.",
-                      "Un voleur s\u0027est introduit dans la maison.",
-                      "Le voleur a pris la fuite a pied.",
-                      "Les cameras ont filme le voleur.",
-                      "Le voleur a ete condamne a deux ans de prison."
-                  ],
-    "description":  "Nom masculin designant une personne qui commet un vol."
+  "description": "Nom masculin désignant une personne qui commet un vol. Le mot « voleur » est courant en français dans les contextes juridiques.",
+  "sentences": [
+    "Le voleur a été arrêté par la police.",
+    "Un voleur s'est introduit dans la maison.",
+    "Le voleur a pris la fuite à pied.",
+    "Les caméras ont filmé le voleur.",
+    "Le voleur a été condamné à deux ans de prison."
+  ]
 }

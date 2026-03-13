@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La vulve est un organe de l\u0027anatomie feminine.",
-                      "Le medecin a examine la vulve lors de la consultation.",
-                      "L\u0027hygiene de la vulve est importante pour la sante.",
-                      "La vulve est etudiee en cours d\u0027anatomie.",
-                      "Une irritation de la vulve necessite un avis medical."
-                  ],
-    "description":  "Nom feminin designant l\u0027ensemble des organes genitaux externes feminins."
+  "description": "Nom féminin désignant l'ensemble des organes génitaux externes féminins. Le mot « vulve » est courant en français dans les contextes médicaux.",
+  "sentences": [
+    "La vulve est un organe de l'anatomie féminine.",
+    "Le médecin a examiné la vulve lors de la consultation.",
+    "L'hygiène de la vulve est importante pour la santé.",
+    "La vulve est étudiée en cours d'anatomie.",
+    "Une irritation de la vulve nécessite un avis médical."
+  ]
 }

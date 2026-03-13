@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le villageois cultive son potager chaque jour.",
-                      "Les villageois se reunissent sur la place.",
-                      "Un villageois nous a offert du pain frais.",
-                      "Ce villageois connait chaque sentier de la foret.",
-                      "Les villageois celebrent ensemble la fete du village."
-                  ],
-    "description":  "Nom masculin designant un habitant d\u0027un village."
+  "description": "Nom masculin désignant un habitant d'un village. Le mot « villageois » est courant en français dans les contextes ruraux.",
+  "sentences": [
+    "Le villageois cultive son potager chaque jour.",
+    "Les villageois se réunissent sur la place.",
+    "Un villageois nous a offert du pain frais.",
+    "Ce villageois connaît chaque sentier de la forêt.",
+    "Les villageois célèbrent ensemble la fête du village."
+  ]
 }

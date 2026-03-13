@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le vin rouge accompagne bien la viande.",
-                      "Un bon vin se deguste lentement.",
-                      "Le vin de cette region est tres repute.",
-                      "Il a ouvert une bouteille de vin pour le diner.",
-                      "Le vin blanc se sert bien frais."
-                  ],
-    "description":  "Nom masculin designant une boisson alcoolisee issue du raisin."
+  "description": "Nom masculin désignant une boisson alcoolisée issue du raisin. Le mot « vin » est très courant en français dans les contextes culinaires et culturels.",
+  "sentences": [
+    "Le vin rouge accompagne bien la viande.",
+    "Un bon vin se déguste lentement.",
+    "Le vin de cette région est très réputé.",
+    "Il a ouvert une bouteille de vin pour le dîner.",
+    "Le vin blanc se sert bien frais."
+  ]
 }

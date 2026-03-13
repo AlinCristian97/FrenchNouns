@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La violette pousse au pied des arbres.",
-                      "Un bouquet de violettes parfumait la piece.",
-                      "La violette est le symbole de la modestie.",
-                      "Elle a cueilli quelques violettes dans le jardin.",
-                      "Le parfum de violette est delicat et subtil."
-                  ],
-    "description":  "Nom feminin designant une petite fleur odorante de couleur mauve."
+  "description": "Nom féminin désignant une petite fleur odorante de couleur mauve. Le mot « violette » est courant en français dans les contextes botaniques.",
+  "sentences": [
+    "La violette pousse au pied des arbres.",
+    "Un bouquet de violettes parfumait la pièce.",
+    "La violette est le symbole de la modestie.",
+    "Elle a cueilli quelques violettes dans le jardin.",
+    "Le parfum de violette est délicat et subtil."
+  ]
 }

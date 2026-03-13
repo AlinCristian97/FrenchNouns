@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La voleuse a ete identifiee grace aux cameras.",
-                      "Une voleuse a la tire sevissait dans le metro.",
-                      "La voleuse a ete apprehendee par les agents.",
-                      "Cette voleuse operait toujours la nuit.",
-                      "La voleuse a restitue les objets derobes."
-                  ],
-    "description":  "Nom feminin designant une femme qui commet un vol."
+  "description": "Nom féminin désignant une femme qui commet un vol. Le mot « voleuse » est courant en français dans les contextes juridiques.",
+  "sentences": [
+    "La voleuse a été identifiée grâce aux caméras.",
+    "Une voleuse à la tire sévissait dans le métro.",
+    "La voleuse a été appréhendée par les agents.",
+    "Cette voleuse opérait toujours la nuit.",
+    "La voleuse a restitué les objets dérobés."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le vignoble s\u0027etend sur toute la colline.",
-                      "Ce vignoble produit un vin d\u0027excellente qualite.",
-                      "Le vignoble bordelais est repute dans le monde entier.",
-                      "Les vendanges au vignoble commencent en septembre.",
-                      "Un vignoble familial existe ici depuis trois generations."
-                  ],
-    "description":  "Nom masculin designant un terrain plante de vignes."
+  "description": "Nom masculin désignant un terrain planté de vignes. Le mot « vignoble » est courant en français dans les contextes viticoles.",
+  "sentences": [
+    "Le vignoble s'étend sur toute la colline.",
+    "Ce vignoble produit un vin d'excellente qualité.",
+    "Le vignoble bordelais est réputé dans le monde entier.",
+    "Les vendanges au vignoble commencent en septembre.",
+    "Un vignoble familial existe ici depuis trois générations."
+  ]
 }

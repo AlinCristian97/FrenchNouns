@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La vibration du telephone l\u0027a reveille.",
-                      "On sentait la vibration du sol lors du passage du train.",
-                      "La vibration des cordes produit le son.",
-                      "Une legere vibration parcourait le moteur.",
-                      "La vibration de sa voix trahissait son emotion."
-                  ],
-    "description":  "Nom feminin designant un mouvement rapide et regulier d\u0027oscillation."
+  "description": "Nom féminin désignant un mouvement rapide et régulier d'oscillation. Le mot « vibration » est courant en français dans les contextes scientifiques et quotidiens.",
+  "sentences": [
+    "La vibration du téléphone l'a réveillé.",
+    "On sentait la vibration du sol lors du passage du train.",
+    "La vibration des cordes produit le son.",
+    "Une légère vibration parcourait le moteur.",
+    "La vibration de sa voix trahissait son émotion."
+  ]
 }

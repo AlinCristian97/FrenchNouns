@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le volcan est entre en eruption ce matin.",
-                      "Un volcan eteint domine le paysage.",
-                      "Le volcan crache de la fumee et des cendres.",
-                      "Les habitants vivent au pied du volcan.",
-                      "L\u0027eruption du volcan a force une evacuation."
-                  ],
-    "description":  "Nom masculin designant une ouverture dans la croute terrestre emettant de la lave."
+  "description": "Nom masculin désignant une ouverture dans la croûte terrestre émettant de la lave. Le mot « volcan » est courant en français dans les contextes géologiques.",
+  "sentences": [
+    "Le volcan est entré en éruption ce matin.",
+    "Un volcan éteint domine le paysage.",
+    "Le volcan crache de la fumée et des cendres.",
+    "Les habitants vivent au pied du volcan.",
+    "L'éruption du volcan a forcé une évacuation."
+  ]
 }

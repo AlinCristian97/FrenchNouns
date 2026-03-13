@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Ce poeme compte douze vers par strophe.",
-                      "Il a recite quelques vers de Baudelaire.",
-                      "Les vers de ce sonnet sont magnifiques.",
-                      "L\u0027eleve a appris les vers par coeur.",
-                      "Chaque vers rime avec le suivant."
-                  ],
-    "description":  "Nom masculin designant une ligne d\u0027un poeme."
+  "description": "Nom masculin désignant une ligne d'un poème. Le mot « vers » est courant en français dans les contextes littéraires et poétiques.",
+  "sentences": [
+    "Ce poème compte douze vers par strophe.",
+    "Il a récité quelques vers de Baudelaire.",
+    "Les vers de ce sonnet sont magnifiques.",
+    "L'élève a appris les vers par cœur.",
+    "Chaque vers rime avec le suivant."
+  ]
 }

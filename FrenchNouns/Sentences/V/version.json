@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La nouvelle version du logiciel est disponible.",
-                      "Chacun a donne sa version des faits.",
-                      "La version francaise du film est excellente.",
-                      "Cette version du contrat contient des modifications.",
-                      "Il prefere la version originale du roman."
-                  ],
-    "description":  "Nom feminin designant une variante ou une traduction d\u0027un texte."
+  "description": "Nom féminin désignant une variante ou une traduction d'un texte. Le mot « version » est courant en français dans les contextes littéraires et technologiques.",
+  "sentences": [
+    "La nouvelle version du logiciel est disponible.",
+    "Chacun a donné sa version des faits.",
+    "La version française du film est excellente.",
+    "Cette version du contrat contient des modifications.",
+    "Il préfère la version originale du roman."
+  ]
 }

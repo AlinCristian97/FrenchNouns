@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La vie est pleine de surprises.",
-                      "Il mene une vie tranquille a la campagne.",
-                      "La vie quotidienne est parfois monotone.",
-                      "Elle a consacre sa vie a la recherche.",
-                      "La vie est un cadeau precieux."
-                  ],
-    "description":  "Nom feminin designant l\u0027existence, le fait de vivre."
+  "description": "Nom féminin désignant l'existence, le fait de vivre. Le mot « vie » est très courant en français dans tous les contextes.",
+  "sentences": [
+    "La vie est pleine de surprises.",
+    "Il mène une vie tranquille à la campagne.",
+    "La vie quotidienne est parfois monotone.",
+    "Elle a consacré sa vie à la recherche.",
+    "La vie est un cadeau précieux."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La vitrine du magasin est magnifiquement decoree.",
-                      "Les enfants admiraient les jouets dans la vitrine.",
-                      "La vitrine presente les nouveautes de la saison.",
-                      "Le bijoutier a installe un eclairage dans la vitrine.",
-                      "Un mannequin elegant tronait dans la vitrine."
-                  ],
-    "description":  "Nom feminin designant la devanture vitree d\u0027un magasin."
+  "description": "Nom féminin désignant la devanture vitrée d'un magasin. Le mot « vitrine » est courant en français dans les contextes commerciaux.",
+  "sentences": [
+    "La vitrine du magasin est magnifiquement décorée.",
+    "Les enfants admiraient les jouets dans la vitrine.",
+    "La vitrine présente les nouveautés de la saison.",
+    "Le bijoutier a installé un éclairage dans la vitrine.",
+    "Un mannequin élégant trônait dans la vitrine."
+  ]
 }

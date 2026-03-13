@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Il est difficile de distinguer le vrai du faux.",
-                      "Le vrai courage est de reconnaitre ses erreurs.",
-                      "Ce bijou est un vrai diamant.",
-                      "Le vrai sens de cette phrase est cache.",
-                      "Il a dit le vrai sans hesiter."
-                  ],
-    "description":  "Nom masculin designant ce qui est conforme a la verite."
+  "description": "Nom masculin désignant ce qui est conforme à la vérité. Le mot « vrai » est très courant en français dans tous les contextes.",
+  "sentences": [
+    "Il est difficile de distinguer le vrai du faux.",
+    "Le vrai courage est de reconnaître ses erreurs.",
+    "Ce bijou est un vrai diamant.",
+    "Le vrai sens de cette phrase est caché.",
+    "Il a dit le vrai sans hésiter."
+  ]
 }

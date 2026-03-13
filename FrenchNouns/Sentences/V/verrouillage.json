@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le verrouillage automatique rassure les habitants.",
-                      "Le verrouillage du telephone se fait par empreinte.",
-                      "Un verrouillage centralise equipe cette voiture.",
-                      "Le verrouillage du coffre est sophistique.",
-                      "Verifiez le verrouillage avant de partir."
-                  ],
-    "description":  "Nom masculin designant l\u0027action de verrouiller ou son resultat."
+  "description": "Nom masculin désignant l'action de verrouiller ou son résultat. Le mot « verrouillage » est courant en français dans les contextes de sécurité et de technologie.",
+  "sentences": [
+    "Le verrouillage automatique rassure les habitants.",
+    "Le verrouillage du téléphone se fait par empreinte.",
+    "Un verrouillage centralisé équipe cette voiture.",
+    "Le verrouillage du coffre est sophistiqué.",
+    "Vérifiez le verrouillage avant de partir."
+  ]
 }

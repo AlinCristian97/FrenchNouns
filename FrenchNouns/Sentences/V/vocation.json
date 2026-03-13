@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Sa vocation est d\u0027enseigner aux enfants.",
-                      "Il a decouvert sa vocation tres jeune.",
-                      "La medecine est une veritable vocation.",
-                      "Elle a suivi sa vocation artistique.",
-                      "Ce centre a vocation a accueillir les sans-abri."
-                  ],
-    "description":  "Nom feminin designant un penchant, une inclination pour une activite."
+  "description": "Nom féminin désignant un penchant, une inclination pour une activité. Le mot « vocation » est courant en français dans les contextes professionnels.",
+  "sentences": [
+    "Sa vocation est d'enseigner aux enfants.",
+    "Il a découvert sa vocation très jeune.",
+    "La médecine est une véritable vocation.",
+    "Elle a suivi sa vocation artistique.",
+    "Ce centre a vocation à accueillir les sans-abri."
+  ]
 }

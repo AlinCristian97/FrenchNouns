@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le virage etait dangereux par temps de pluie.",
-                      "Il a ralenti avant le virage serre.",
-                      "Un panneau signale le virage a droite.",
-                      "La voiture a derape dans le virage.",
-                      "Ce virage en epingle necessite de la prudence."
-                  ],
-    "description":  "Nom masculin designant un changement de direction sur une route."
+  "description": "Nom masculin désignant un changement de direction sur une route. Le mot « virage » est courant en français dans les contextes routiers.",
+  "sentences": [
+    "Le virage était dangereux par temps de pluie.",
+    "Il a ralenti avant le virage serré.",
+    "Un panneau signale le virage à droite.",
+    "La voiture a dérapé dans le virage.",
+    "Ce virage en épingle nécessite de la prudence."
+  ]
 }

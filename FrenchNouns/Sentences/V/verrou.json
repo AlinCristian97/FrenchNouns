@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Il a tire le verrou avant de se coucher.",
-                      "Le verrou de la porte etait rouille.",
-                      "Un verrou solide protege l\u0027entree.",
-                      "Elle a pousse le verrou pour s\u0027enfermer.",
-                      "Le serrurier a change le verrou de la cave."
-                  ],
-    "description":  "Nom masculin designant un dispositif de fermeture d\u0027une porte."
+  "description": "Nom masculin désignant un dispositif de fermeture d'une porte. Le mot « verrou » est courant en français dans les contextes de sécurité et quotidiens.",
+  "sentences": [
+    "Il a tiré le verrou avant de se coucher.",
+    "Le verrou de la porte était rouillé.",
+    "Un verrou solide protège l'entrée.",
+    "Elle a poussé le verrou pour s'enfermer.",
+    "Le serrurier a changé le verrou de la cave."
+  ]
 }

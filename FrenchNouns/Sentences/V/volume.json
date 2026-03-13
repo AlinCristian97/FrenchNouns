@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le volume de la musique est trop eleve.",
-                      "Le volume de ce reservoir est de mille litres.",
-                      "Il a baisse le volume de la television.",
-                      "Le volume du colis depasse la limite autorisee.",
-                      "Ce livre est le premier volume d\u0027une trilogie."
-                  ],
-    "description":  "Nom masculin designant l\u0027espace occupe par un corps ou l\u0027intensite d\u0027un son."
+  "description": "Nom masculin désignant l'espace occupé par un corps ou l'intensité d'un son. Le mot « volume » est courant en français dans les contextes scientifiques et quotidiens.",
+  "sentences": [
+    "Le volume de la musique est trop élevé.",
+    "Le volume de ce réservoir est de mille litres.",
+    "Il a baissé le volume de la télévision.",
+    "Le volume du colis dépasse la limite autorisée.",
+    "Ce livre est le premier volume d'une trilogie."
+  ]
 }

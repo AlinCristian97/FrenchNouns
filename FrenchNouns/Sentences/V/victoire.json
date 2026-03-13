@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La victoire de l\u0027equipe a ete celebree.",
-                      "Une victoire ecrasante a surpris les adversaires.",
-                      "Il a remporte la victoire apres un match intense.",
-                      "La victoire etait meritee apres tant d\u0027efforts.",
-                      "Chaque victoire renforce la confiance de l\u0027equipe."
-                  ],
-    "description":  "Nom feminin designant le succes dans un combat ou une competition."
+  "description": "Nom féminin désignant le succès dans un combat ou une compétition. Le mot « victoire » est courant en français dans les contextes sportifs et militaires.",
+  "sentences": [
+    "La victoire de l'équipe a été célébrée.",
+    "Une victoire écrasante a surpris les adversaires.",
+    "Il a remporté la victoire après un match intense.",
+    "La victoire était méritée après tant d'efforts.",
+    "Chaque victoire renforce la confiance de l'équipe."
+  ]
 }

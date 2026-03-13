@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "Le visiteur a admire les tableaux du musee.",
-                      "Un visiteur inattendu a frappe a la porte.",
-                      "Le parc accueille des milliers de visiteurs chaque annee.",
-                      "Le visiteur a signe le registre d\u0027entree.",
-                      "Chaque visiteur recoit un plan du site."
-                  ],
-    "description":  "Nom masculin designant une personne qui rend visite ou visite un lieu."
+  "description": "Nom masculin désignant une personne qui rend visite ou visite un lieu. Le mot « visiteur » est courant en français dans les contextes touristiques.",
+  "sentences": [
+    "Le visiteur a admiré les tableaux du musée.",
+    "Un visiteur inattendu a frappé à la porte.",
+    "Le parc accueille des milliers de visiteurs chaque année.",
+    "Le visiteur a signé le registre d'entrée.",
+    "Chaque visiteur reçoit un plan du site."
+  ]
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La violence ne resout jamais les problemes.",
-                      "La violence de la tempete a surpris les habitants.",
-                      "Il condamne toute forme de violence.",
-                      "La violence verbale est aussi destructrice.",
-                      "Les associations luttent contre la violence domestique."
-                  ],
-    "description":  "Nom feminin designant l\u0027usage de la force pour contraindre."
+  "description": "Nom féminin désignant l'usage de la force pour contraindre. Le mot « violence » est courant en français dans les contextes sociaux et juridiques.",
+  "sentences": [
+    "La violence ne résout jamais les problèmes.",
+    "La violence de la tempête a surpris les habitants.",
+    "Il condamne toute forme de violence.",
+    "La violence verbale est aussi destructrice.",
+    "Les associations luttent contre la violence domestique."
+  ]
 }

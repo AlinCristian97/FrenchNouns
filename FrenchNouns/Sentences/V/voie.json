@@ -1,10 +1,10 @@
 ﻿{
-    "sentences":  [
-                      "La voie ferree traverse la campagne.",
-                      "Une voie pietonne longe la riviere.",
-                      "Il cherche sa voie professionnelle.",
-                      "La voie de droite est reservee aux bus.",
-                      "Cette voie mene directement au centre-ville."
-                  ],
-    "description":  "Nom feminin designant un chemin, une route ou un moyen."
+  "description": "Nom féminin désignant un chemin, une route ou un moyen. Le mot « voie » est très courant en français dans les contextes de transport.",
+  "sentences": [
+    "La voie ferrée traverse la campagne.",
+    "Une voie piétonne longe la rivière.",
+    "Il cherche sa voie professionnelle.",
+    "La voie de droite est réservée aux bus.",
+    "Cette voie mène directement au centre-ville."
+  ]
 }
