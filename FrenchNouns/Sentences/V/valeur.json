@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La valeur de cette maison a doublé en dix ans.",
-                      "Le courage est une valeur fondamentale.",
-                      "Il faut connaître la valeur de chaque pièce.",
-                      "La valeur sentimentale de ce bijou est inestimable.",
-                      "Cette découverte a une grande valeur scientifique."
-                  ],
-    "description":  "Nom féminin désignant ce que vaut quelque chose en termes de prix, de mérite ou d\u0027importance morale."
+{
+  "description": "Nom féminin désignant ce que vaut quelque chose en termes de prix, de mérite ou d'importance morale.",
+  "sentences": [
+    "La valeur de cette maison a doublé en dix ans.",
+    "Le courage est une valeur fondamentale.",
+    "Il faut connaître la valeur de chaque pièce.",
+    "La valeur sentimentale de ce bijou est inestimable.",
+    "Cette découverte a une grande valeur scientifique."
+  ]
 }

@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le verdict du jury a surpris tout le monde.",
-                      "Le verdict sera annoncé demain matin.",
-                      "Un verdict de culpabilité a été prononcé.",
-                      "L\u0027avocat a contesté le verdict du tribunal.",
-                      "Le verdict a été rendu après trois heures de délibération."
-                  ],
-    "description":  "Nom masculin désignant la décision rendue par un tribunal."
+{
+  "description": "Nom masculin désignant la décision rendue par un tribunal.",
+  "sentences": [
+    "Le verdict du jury a surpris tout le monde.",
+    "Le verdict sera annoncé demain matin.",
+    "Un verdict de culpabilité a été prononcé.",
+    "L'avocat a contesté le verdict du tribunal.",
+    "Le verdict a été rendu après trois heures de délibération."
+  ]
 }

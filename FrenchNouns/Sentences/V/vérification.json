@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La vérification des documents prendra quelques jours.",
-                      "Une vérification minutieuse a révélé une erreur.",
-                      "La vérification des comptes est obligatoire chaque année.",
-                      "Le technicien procède à la vérification du système.",
-                      "Après vérification, tout était en ordre."
-                  ],
-    "description":  "Nom féminin désignant l\u0027action de vérifier, de contrôler l\u0027exactitude."
+{
+  "description": "Nom féminin désignant l'action de vérifier, de contrôler l'exactitude.",
+  "sentences": [
+    "La vérification des documents prendra quelques jours.",
+    "Une vérification minutieuse a révélé une erreur.",
+    "La vérification des comptes est obligatoire chaque année.",
+    "Le technicien procède à la vérification du système.",
+    "Après vérification, tout était en ordre."
+  ]
 }

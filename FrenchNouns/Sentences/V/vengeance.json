@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La vengeance est un plat qui se mange froid.",
-                      "Il a juré vengeance contre son ennemi.",
-                      "La vengeance ne résout jamais les conflits.",
-                      "Son désir de vengeance le consumait.",
-                      "Elle a renoncé à la vengeance par sagesse."
-                  ],
-    "description":  "Nom féminin désignant l\u0027acte de se venger, de punir en retour."
+{
+  "description": "Nom féminin désignant l'acte de se venger, de punir en retour.",
+  "sentences": [
+    "La vengeance est un plat qui se mange froid.",
+    "Il a juré vengeance contre son ennemi.",
+    "La vengeance ne résout jamais les conflits.",
+    "Son désir de vengeance le consumait.",
+    "Elle a renoncé à la vengeance par sagesse."
+  ]
 }

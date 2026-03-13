@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le vase en cristal trône sur la cheminée.",
-                      "Elle a mis les roses dans un vase en porcelaine.",
-                      "Le vase s\u0027est brisé en tombant de la table.",
-                      "Un magnifique vase chinois orne le salon.",
-                      "Le vase débordait de fleurs fraîches."
-                  ],
-    "description":  "Nom masculin désignant un récipient décoratif destiné à contenir des fleurs ou la boue qui se dépose au fond de l\u0027eau."
+{
+  "description": "Nom masculin désignant un récipient décoratif destiné à contenir des fleurs ou la boue qui se dépose au fond de l'eau.",
+  "sentences": [
+    "Le vase en cristal trône sur la cheminée.",
+    "Elle a mis les roses dans un vase en porcelaine.",
+    "Le vase s'est brisé en tombant de la table.",
+    "Un magnifique vase chinois orne le salon.",
+    "Le vase débordait de fleurs fraîches."
+  ]
 }

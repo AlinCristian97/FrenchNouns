@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le volet claquait au vent pendant la nuit.",
-                      "Il a fermé les volets avant la tempête.",
-                      "Le volet en bois donnait du charme à la maison.",
-                      "Un volet roulant équipe chaque fenêtre.",
-                      "Le peintre a repeint les volets en bleu."
-                  ],
-    "description":  "Nom masculin désignant un panneau qui ferme une fenêtre."
+{
+  "description": "Nom masculin désignant un panneau qui ferme une fenêtre.",
+  "sentences": [
+    "Le volet claquait au vent pendant la nuit.",
+    "Il a fermé les volets avant la tempête.",
+    "Le volet en bois donnait du charme à la maison.",
+    "Un volet roulant équipe chaque fenêtre.",
+    "Le peintre a repeint les volets en bleu."
+  ]
 }

@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le ver de terre aère le sol du jardin.",
-                      "Un ver se cachait dans la pomme.",
-                      "Le pêcheur a mis un ver à l\u0027hameçon.",
-                      "Le ver à soie produit un fil précieux.",
-                      "Les oiseaux cherchent des vers après la pluie."
-                  ],
-    "description":  "Nom masculin désignant un petit animal invertébré au corps mou et allongé."
+{
+  "description": "Nom masculin désignant un petit animal invertébré au corps mou et allongé.",
+  "sentences": [
+    "Le ver de terre aère le sol du jardin.",
+    "Un ver se cachait dans la pomme.",
+    "Le pêcheur a mis un ver à l'hameçon.",
+    "Le ver à soie produit un fil précieux.",
+    "Les oiseaux cherchent des vers après la pluie."
+  ]
 }

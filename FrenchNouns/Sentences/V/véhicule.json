@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le véhicule était garé devant la maison.",
-                      "Un véhicule de secours est arrivé rapidement.",
-                      "Ce véhicule consomme peu de carburant.",
-                      "Le véhicule a été contrôlé par la police.",
-                      "Il a acheté un véhicule d\u0027occasion."
-                  ],
-    "description":  "Nom masculin désignant un moyen de transport terrestre."
+{
+  "description": "Nom masculin désignant un moyen de transport terrestre.",
+  "sentences": [
+    "Le véhicule était garé devant la maison.",
+    "Un véhicule de secours est arrivé rapidement.",
+    "Ce véhicule consomme peu de carburant.",
+    "Le véhicule a été contrôlé par la police.",
+    "Il a acheté un véhicule d'occasion."
+  ]
 }

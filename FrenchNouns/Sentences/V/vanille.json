@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La glace à la vanille est le parfum le plus populaire.",
-                      "La vanille parfume délicieusement cette crème brûlée.",
-                      "Un extrait de vanille suffit pour aromatiser le gâteau.",
-                      "La vanille de Madagascar est réputée dans le monde entier.",
-                      "Le prix de la vanille a beaucoup augmenté ces dernières années."
-                  ],
-    "description":  "Nom féminin désignant une épice aromatique tirée d\u0027une orchidée tropicale."
+{
+  "description": "Nom féminin désignant une épice aromatique tirée d'une orchidée tropicale.",
+  "sentences": [
+    "La glace à la vanille est le parfum le plus populaire.",
+    "La vanille parfume délicieusement cette crème brûlée.",
+    "Un extrait de vanille suffit pour aromatiser le gâteau.",
+    "La vanille de Madagascar est réputée dans le monde entier.",
+    "Le prix de la vanille a beaucoup augmenté ces dernières années."
+  ]
 }

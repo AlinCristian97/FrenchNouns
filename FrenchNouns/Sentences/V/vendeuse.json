@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La vendeuse a proposé plusieurs modèles.",
-                      "Une vendeuse souriante nous a accueillis.",
-                      "La vendeuse connaissait chaque article du rayon.",
-                      "Cette vendeuse travaille ici depuis dix ans.",
-                      "La vendeuse a fait une démonstration du produit."
-                  ],
-    "description":  "Nom féminin désignant une femme dont le métier est de vendre."
+{
+  "description": "Nom féminin désignant une femme dont le métier est de vendre.",
+  "sentences": [
+    "La vendeuse a proposé plusieurs modèles.",
+    "Une vendeuse souriante nous a accueillis.",
+    "La vendeuse connaissait chaque article du rayon.",
+    "Cette vendeuse travaille ici depuis dix ans.",
+    "La vendeuse a fait une démonstration du produit."
+  ]
 }

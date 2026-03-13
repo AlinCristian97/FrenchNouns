@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La végétarienne a commandé une salade composée.",
-                      "Une végétarienne convaincue refuse tout produit carné.",
-                      "Ma cousine est végétarienne depuis son adolescence.",
-                      "La végétarienne prépare des plats savoureux sans viande.",
-                      "Cette végétarienne milite pour le bien-être animal."
-                  ],
-    "description":  "Nom féminin désignant une femme qui ne consomme ni viande ni poisson."
+{
+  "description": "Nom féminin désignant une femme qui ne consomme ni viande ni poisson.",
+  "sentences": [
+    "La végétarienne a commandé une salade composée.",
+    "Une végétarienne convaincue refuse tout produit carné.",
+    "Ma cousine est végétarienne depuis son adolescence.",
+    "La végétarienne prépare des plats savoureux sans viande.",
+    "Cette végétarienne milite pour le bien-être animal."
+  ]
 }

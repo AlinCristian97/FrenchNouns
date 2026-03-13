@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La vainqueuse a été applaudie par tout le public.",
-                      "La vainqueuse du marathon a battu le record.",
-                      "Elle est la vainqueuse incontestée de ce concours.",
-                      "La vainqueuse a dédié sa victoire à sa famille.",
-                      "On a couronné la vainqueuse lors de la cérémonie."
-                  ],
-    "description":  "Nom féminin désignant celle qui remporte une victoire dans un combat ou une compétition."
+{
+  "description": "Nom féminin désignant celle qui remporte une victoire dans un combat ou une compétition.",
+  "sentences": [
+    "La vainqueuse a été applaudie par tout le public.",
+    "La vainqueuse du marathon a battu le record.",
+    "Elle est la vainqueuse incontestée de ce concours.",
+    "La vainqueuse a dédié sa victoire à sa famille.",
+    "On a couronné la vainqueuse lors de la cérémonie."
+  ]
 }

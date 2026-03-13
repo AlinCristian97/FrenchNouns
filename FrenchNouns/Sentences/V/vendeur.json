@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le vendeur a conseillé le client avec patience.",
-                      "Un bon vendeur connaît parfaitement ses produits.",
-                      "Le vendeur du magasin était très aimable.",
-                      "Ce vendeur a dépassé ses objectifs de vente.",
-                      "Le vendeur a emballé le cadeau avec soin."
-                  ],
-    "description":  "Nom masculin désignant une personne dont le métier est de vendre."
+{
+  "description": "Nom masculin désignant une personne dont le métier est de vendre.",
+  "sentences": [
+    "Le vendeur a conseillé le client avec patience.",
+    "Un bon vendeur connaît parfaitement ses produits.",
+    "Le vendeur du magasin était très aimable.",
+    "Ce vendeur a dépassé ses objectifs de vente.",
+    "Le vendeur a emballé le cadeau avec soin."
+  ]
 }

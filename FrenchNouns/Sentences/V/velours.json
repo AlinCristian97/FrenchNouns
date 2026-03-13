@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le canapé en velours est très confortable.",
-                      "Elle portait une robe en velours rouge.",
-                      "Le velours de ce rideau est d\u0027une douceur exquise.",
-                      "Un coussin en velours décorait le fauteuil.",
-                      "Le chat a un pelage doux comme du velours."
-                  ],
-    "description":  "Nom masculin désignant un tissu doux à surface rase."
+{
+  "description": "Nom masculin désignant un tissu doux à surface rase.",
+  "sentences": [
+    "Le canapé en velours est très confortable.",
+    "Elle portait une robe en velours rouge.",
+    "Le velours de ce rideau est d'une douceur exquise.",
+    "Un coussin en velours décorait le fauteuil.",
+    "Le chat a un pelage doux comme du velours."
+  ]
 }

@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le venin du serpent peut être mortel.",
-                      "Le venin de cette araignée provoque des douleurs.",
-                      "Un antivenin a été administré rapidement.",
-                      "Le venin du scorpion paralyse sa proie.",
-                      "Les scientifiques étudient le venin à des fins médicales."
-                  ],
-    "description":  "Nom masculin désignant une substance toxique produite par certains animaux."
+{
+  "description": "Nom masculin désignant une substance toxique produite par certains animaux.",
+  "sentences": [
+    "Le venin du serpent peut être mortel.",
+    "Le venin de cette araignée provoque des douleurs.",
+    "Un antivenin a été administré rapidement.",
+    "Le venin du scorpion paralyse sa proie.",
+    "Les scientifiques étudient le venin à des fins médicales."
+  ]
 }

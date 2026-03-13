@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le végétal a besoin de lumière pour se développer.",
-                      "Ce végétal pousse uniquement en milieu tropical.",
-                      "Le lait végétal remplace le lait de vache pour certains.",
-                      "Un végétal peut vivre des centaines d\u0027années.",
-                      "L\u0027étude du végétal relève de la botanique."
-                  ],
-    "description":  "Nom masculin désignant un être vivant appartenant au règne des plantes."
+{
+  "description": "Nom masculin désignant un être vivant appartenant au règne des plantes.",
+  "sentences": [
+    "Le végétal a besoin de lumière pour se développer.",
+    "Ce végétal pousse uniquement en milieu tropical.",
+    "Le lait végétal remplace le lait de vache pour certains.",
+    "Un végétal peut vivre des centaines d'années.",
+    "L'étude du végétal relève de la botanique."
+  ]
 }

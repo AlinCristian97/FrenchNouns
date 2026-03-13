@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le verglas rend les routes très dangereuses.",
-                      "Attention au verglas sur le trottoir ce matin.",
-                      "Le verglas a provoqué plusieurs accidents.",
-                      "Du sel a été répandu pour faire fondre le verglas.",
-                      "Le verglas se forme quand la pluie gèle au sol."
-                  ],
-    "description":  "Nom masculin désignant une couche de glace fine et transparente sur le sol."
+{
+  "description": "Nom masculin désignant une couche de glace fine et transparente sur le sol.",
+  "sentences": [
+    "Le verglas rend les routes très dangereuses.",
+    "Attention au verglas sur le trottoir ce matin.",
+    "Le verglas a provoqué plusieurs accidents.",
+    "Du sel a été répandu pour faire fondre le verglas.",
+    "Le verglas se forme quand la pluie gèle au sol."
+  ]
 }

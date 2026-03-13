@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "Le valettois connaît chaque ruelle de sa ville.",
-                      "Un valettois nous a guidés à travers la cité.",
-                      "Ce valettois est fier de son patrimoine historique.",
-                      "Le valettois parle couramment le maltais et l\u0027anglais.",
-                      "Un vieux valettois raconte l\u0027histoire de la ville."
-                  ],
-    "description":  "Nom masculin désignant un habitant de La Valette, capitale de Malte."
+{
+  "description": "Nom masculin désignant un habitant de La Valette, capitale de Malte.",
+  "sentences": [
+    "Le valettois connaît chaque ruelle de sa ville.",
+    "Un valettois nous a guidés à travers la cité.",
+    "Ce valettois est fier de son patrimoine historique.",
+    "Le valettois parle couramment le maltais et l'anglais.",
+    "Un vieux valettois raconte l'histoire de la ville."
+  ]
 }

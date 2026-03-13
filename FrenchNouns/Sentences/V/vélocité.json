@@ -1,10 +1,10 @@
-﻿{
-    "sentences":  [
-                      "La vélocité du guépard est impressionnante.",
-                      "Le pianiste joue avec une vélocité remarquable.",
-                      "La vélocité de ses doigts sur le clavier fascine.",
-                      "Cette danseuse se distingue par sa vélocité.",
-                      "La vélocité du vent augmente en altitude."
-                  ],
-    "description":  "Nom féminin désignant la rapidité, la vitesse d\u0027exécution."
+{
+  "description": "Nom féminin désignant la rapidité, la vitesse d'exécution.",
+  "sentences": [
+    "La vélocité du guépard est impressionnante.",
+    "Le pianiste joue avec une vélocité remarquable.",
+    "La vélocité de ses doigts sur le clavier fascine.",
+    "Cette danseuse se distingue par sa vélocité.",
+    "La vélocité du vent augmente en altitude."
+  ]
 }
