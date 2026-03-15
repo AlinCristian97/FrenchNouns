@@ -2306,6 +2306,7 @@ public class Constants
     public const string Vignoble = MasculineArticle + Space + "vignoble";
     public const string Viaduc = MasculineArticle + Space + "viaduc";
     public const string Verglas = MasculineArticle + Space + "verglas";
+    public const string Verbe = MasculineArticle + Space + "verbe";
     #endregion
 
     #region "W" Nouns

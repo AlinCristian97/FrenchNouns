@@ -2329,6 +2329,7 @@ public static class NounRepository
         Constants.Vignoble,
         Constants.Viaduc,
         Constants.Verglas,
+        Constants.Verbe,
 
         //
 
