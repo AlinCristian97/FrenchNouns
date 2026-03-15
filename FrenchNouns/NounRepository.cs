@@ -292,6 +292,7 @@ public static class NounRepository
         Constants.Ble,
         Constants.Bocage,
         Constants.Broderie,
+        Constants.Brume,
     };
 
     public static readonly IReadOnlyList<string> C = new[]
