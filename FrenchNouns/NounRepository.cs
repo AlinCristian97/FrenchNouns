@@ -2198,7 +2198,7 @@ public static class NounRepository
         Constants.Trousseau,
         Constants.Torrent,
         Constants.Tampon,
-
+        Constants.Toit,
         //
 
         Constants.Plural_Toilettes,
