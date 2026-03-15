@@ -581,7 +581,7 @@ public static class NounRepository
         Constants.Cruche,
         Constants.Cuivre,
         Constants.Crevette,
-
+        Constants.Citrouille,
         //
 
         Constants.Plural_Condoleances,
