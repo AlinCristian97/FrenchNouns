@@ -1920,7 +1920,7 @@ public class Constants
     public const string Remboursement = MasculineArticle + Space + "remboursement";
     public const string Rangee = FeminineArticle + Space + "rangée";
     public const string Rang = MasculineArticle + Space + "rang";
-
+    public const string Rideau = MasculineArticle + Space + "rideau";
     #endregion
 
     #region "S" Nouns

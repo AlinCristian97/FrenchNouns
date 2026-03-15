@@ -1932,6 +1932,7 @@ public static class NounRepository
         Constants.Remboursement,
         Constants.Rangee,
         Constants.Rang,
+        Constants.Rideau,
     };
 
     public static readonly IReadOnlyList<string> S = new[]
