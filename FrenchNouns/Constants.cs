@@ -1945,6 +1945,7 @@ public class Constants
     #endregion
 
     #region "S" Nouns
+    public const string Souci = MasculineArticle + Space + "souci";
     public const string Secheresse = FeminineArticle + Space + "sécheresse";
     public const string Sagesse = FeminineArticle + Space + "sagesse";
     public const string Seisme = MasculineArticle + Space + "séisme";
