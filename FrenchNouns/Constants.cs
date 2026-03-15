@@ -914,7 +914,7 @@ public class Constants
     public const string Farce = FeminineArticle + Space + "farce";
     public const string Fourrure = FeminineArticle + Space + "fourrure";
     public const string Fouille = FeminineArticle + Space + "fouille";
-    public const string Figues = FeminineArticle + Space + "figues";
+    public const string Figue = FeminineArticle + Space + "figue";
     public const string Francais = MasculineArticle + Space + "français";
     public const string Feu = MasculineArticle + Space + "feu";
     public const string Foule = FeminineArticle + Space + "foule";

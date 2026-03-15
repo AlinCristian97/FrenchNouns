@@ -902,7 +902,7 @@ public static class NounRepository
         Constants.Farce,
         Constants.Fourrure,
         Constants.Fouille,
-        Constants.Figues,
+        Constants.Figue,
         Constants.Francais,
         Constants.Feu,
         Constants.Foule,
