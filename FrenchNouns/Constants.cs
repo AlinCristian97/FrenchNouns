@@ -41,6 +41,8 @@ public class Constants
     public const string PluralArticle = "des";
 
     #region "A" Nouns
+    public const string Asperge = FeminineArticle + Space + "asperge";
+    public const string Aubergine = FeminineArticle + Space + "aubergine";
     public const string Aspect = MasculineArticle + Space + "aspect";
     public const string Assaut = MasculineArticle + Space + "assaut";
     public const string Anniversaire = MasculineArticle + Space + "anniversaire";
@@ -526,6 +528,9 @@ public class Constants
     public const string Caverne = FeminineArticle + Space + "caverne";
     public const string Celebrite = FeminineArticle + Space + "célébrité";
     public const string Centaine = FeminineArticle + Space + "centaine";
+    public const string Celeri = MasculineArticle + Space + "céleri";
+    public const string Concombre = MasculineArticle + Space + "concombre";
+    public const string Courgette = FeminineArticle + Space + "courgette";
     public const string Chaleur = FeminineArticle + Space + "chaleur";
     public const string Chanson = FeminineArticle + Space + "chanson";
     public const string Chauffeur = MasculineArticle + Space + "chauffeur";
@@ -701,6 +706,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Epinard = MasculineArticle + Space + "épinard";
     public const string Eclair = MasculineArticle + Space + "éclair";
     public const string Ecueil = MasculineArticle + Space + "écueil";
     public const string Enthousiasme = MasculineArticle + Space + "enthousiasme";
@@ -858,6 +864,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Framboise = FeminineArticle + Space + "framboise";
     public const string Flot = MasculineArticle + Space + "flot";
     public const string Fragment = MasculineArticle + Space + "fragment";
     public const string Fumeur = MasculineArticle + Space + "fumeur";
@@ -1315,6 +1322,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Myrtille = FeminineArticle + Space + "myrtille";
     public const string Mangue = FeminineArticle + Space + "mangue";
     public const string Maillot = MasculineArticle + Space + "maillot";
     public const string Marque = FeminineArticle + Space + "marque";
@@ -1570,6 +1578,9 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pamplemousse = MasculineArticle + Space + "pamplemousse";
+    public const string Poireau = MasculineArticle + Space + "poireau";
+    public const string Prune = FeminineArticle + Space + "prune";
     public const string Pasteque = FeminineArticle + Space + "pastèque";
     public const string Prestance = FeminineArticle + Space + "prestance";
     public const string Profondeur = FeminineArticle + Space + "profondeur";
