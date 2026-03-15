@@ -1569,6 +1569,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pasteque = FeminineArticle + Space + "pastèque";
     public const string Prestance = FeminineArticle + Space + "prestance";
     public const string Profondeur = FeminineArticle + Space + "profondeur";
     public const string Parasite = MasculineArticle + Space + "parasite";

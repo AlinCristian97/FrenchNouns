@@ -1579,6 +1579,7 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> P = new[]
     {
+        Constants.Pasteque,
         Constants.Prestance,
         Constants.Profondeur,
         Constants.Parasite,
