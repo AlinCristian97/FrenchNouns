@@ -1315,6 +1315,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Maillot = MasculineArticle + Space + "maillot";
     public const string Marque = FeminineArticle + Space + "marque";
     public const string Menestrel = MasculineArticle + Space + "ménestrel";
     public const string Marais = MasculineArticle + Space + "marais";
