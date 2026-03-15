@@ -298,6 +298,7 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> C = new[]
     {
         Constants.Crue,
+        Constants.Canicule,
         Constants.Coquillage,
         Constants.Courbe,
         Constants.Continent,
