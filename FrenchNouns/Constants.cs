@@ -701,6 +701,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Eclair = MasculineArticle + Space + "éclair";
     public const string Ecueil = MasculineArticle + Space + "écueil";
     public const string Enthousiasme = MasculineArticle + Space + "enthousiasme";
     public const string Empire = MasculineArticle + Space + "empire";

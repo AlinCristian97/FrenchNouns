@@ -688,6 +688,7 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> E = new[]
     {
+        Constants.Eclair,
         Constants.Ecueil,
         Constants.Enthousiasme,
         Constants.Empire,
