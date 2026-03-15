@@ -317,6 +317,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Creme = MasculineArticle + Space + "crème";
     public const string Cornichon = MasculineArticle + Space + "cornichon";
     public const string Crue = FeminineArticle + Space + "crue";
     public const string Coquillage = MasculineArticle + Space + "coquillage";
