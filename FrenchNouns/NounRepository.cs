@@ -1940,6 +1940,7 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> S = new[]
     {
+        Constants.Secheresse,
         Constants.Sagesse,
         Constants.Seisme,
         Constants.Squelette,
