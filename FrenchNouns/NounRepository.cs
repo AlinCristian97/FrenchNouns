@@ -303,6 +303,7 @@ public static class NounRepository
         Constants.Canicule,
         Constants.Coquillage,
         Constants.Courbe,
+        Constants.Cornichon,
         Constants.Continent,
         Constants.Charbon,
         Constants.Culot,
