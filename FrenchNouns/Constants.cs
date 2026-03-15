@@ -1798,6 +1798,7 @@ public class Constants
     #endregion
 
     #region "R" Nouns
+    public const string Rage = MasculineArticle + Space + "rage";
     public const string Renforcement = MasculineArticle + Space + "renforcement";
     public const string Ridicule = MasculineArticle + Space + "ridicule";
     public const string Rituel = MasculineArticle + Space + "rituel";

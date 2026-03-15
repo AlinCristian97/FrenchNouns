@@ -1933,6 +1933,7 @@ public static class NounRepository
         Constants.Rangee,
         Constants.Rang,
         Constants.Rideau,
+        Constants.Rage,
     };
 
     public static readonly IReadOnlyList<string> S = new[]
