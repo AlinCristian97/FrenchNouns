@@ -1323,6 +1323,7 @@ public static class NounRepository
 
     public static readonly IReadOnlyList<string> M = new[]
     {
+        Constants.Mangue,
         Constants.Marque,
         Constants.Maillot,
         Constants.Menestrel,
