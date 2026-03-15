@@ -613,6 +613,7 @@ public class Constants
     #endregion
 
     #region "D" Nouns
+    public const string Divorce = MasculineArticle + Space + "divorce";
     public const string Duche = MasculineArticle + Space + "duché";
     public const string Detresse = FeminineArticle + Space + "détresse";
     public const string Duelist = MasculineArticle + Space + "duelliste";

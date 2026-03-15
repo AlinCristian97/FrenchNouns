@@ -668,6 +668,7 @@ public static class NounRepository
         Constants.Dragon,
         Constants.Directeur,
         Constants.Dejeuner,
+        Constants.Divorce,
         Constants.Dessert,
         Constants.Desert,
         Constants.Discipline,
