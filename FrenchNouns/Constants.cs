@@ -41,6 +41,7 @@ public class Constants
     public const string PluralArticle = "des";
 
     #region "A" Nouns
+    public const string Aile = FeminineArticle + Space + "aile";
     public const string Asperge = FeminineArticle + Space + "asperge";
     public const string Aubergine = FeminineArticle + Space + "aubergine";
     public const string Aspect = MasculineArticle + Space + "aspect";
