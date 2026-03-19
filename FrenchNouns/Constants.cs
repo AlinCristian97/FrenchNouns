@@ -780,6 +780,7 @@ public class Constants
     public const string Episode = MasculineArticle + Space + "épisode";
     public const string Ecriture = FeminineArticle + Space + "écriture";
     public const string Espagnol = MasculineArticle + Space + "espagnol";
+    public const string Elu = MasculineArticle + Space + "élu";
     public const string Escargot = MasculineArticle + Space + "escargot";
     public const string Eau = FeminineArticle + Space + "eau";
     public const string Estomac = MasculineArticle + Space + "estomac";
