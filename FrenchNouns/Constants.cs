@@ -359,6 +359,7 @@ public class Constants
     public const string Cuisinier = MasculineArticle + Space + "cuisinier";
     public const string Chef = MasculineArticle + Space + "chef";
     public const string Conseil = MasculineArticle + Space + "conseil";
+    public const string Conseiller = MasculineArticle + Space + "conseiller";
     public const string Chapitre = MasculineArticle + Space + "chapitre";
     public const string Crypte = FeminineArticle + Space + "crypte";
     public const string Caserne = FeminineArticle + Space + "caserne";
