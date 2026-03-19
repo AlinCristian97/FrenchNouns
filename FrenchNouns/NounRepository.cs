@@ -713,6 +713,7 @@ public static class NounRepository
         Constants.Endettement,
         Constants.Enterprise,
         Constants.Empire,
+        Constants.Embellie,
         Constants.Epidemie,
         Constants.Epinard,
         Constants.Epitre,
