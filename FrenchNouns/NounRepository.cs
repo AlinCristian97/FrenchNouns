@@ -1250,6 +1250,10 @@ public static class NounRepository
         Constants.Jasmin,
         Constants.Jumelle,
         Constants.Jupon,
+
+        //
+
+        Constants.Plural_Jambieres
     };
 
     public static readonly IReadOnlyList<string> K = new[]
@@ -2437,6 +2441,9 @@ public static class NounRepository
 
         // G
         Constants.Plural_Gens,
+
+        // J
+        Constants.Plural_Jambieres,
 
         // L
         Constants.Plural_Lunettes,

@@ -2402,6 +2402,9 @@ public class Constants
     // G
     public const string Plural_Gens = PluralArticle + Space + "gens";
 
+    // J
+    public const string Plural_Jambieres = PluralArticle + Space + "jambières";
+
     // F
     public const string Plural_Frais = PluralArticle + Space + "frais";
     public const string Plural_Fesses = PluralArticle + Space + "fesses";
