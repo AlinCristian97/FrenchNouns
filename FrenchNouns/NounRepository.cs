@@ -1876,6 +1876,7 @@ public static class NounRepository
         Constants.Ramassage,
         Constants.Reservoir,
         Constants.Role,
+        Constants.Ruban,
         Constants.Ronce,
         Constants.Repetition,
         Constants.Ranger,
