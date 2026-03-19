@@ -611,6 +611,7 @@ public class Constants
     public const string Crevette = FeminineArticle + Space + "crevette";
     public const string Citrouille = FeminineArticle + Space + "citrouille";
     public const string Canicule = FeminineArticle + Space + "canicule";
+    public const string Coleoptere = MasculineArticle + Space + "coléoptère";
     #endregion
 
     #region "D" Nouns
