@@ -1211,6 +1211,7 @@ public static class NounRepository
     {
         Constants.Journee,
         Constants.Jalousie,
+        Constants.Jet,
         Constants.Joueur,
         Constants.Junior,
         Constants.Jonquille,

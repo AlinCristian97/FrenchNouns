@@ -1208,6 +1208,7 @@ public class Constants
     #endregion
 
     #region "J" Nouns
+    public const string Jet = MasculineArticle + Space + "jet";
     public const string Journee = FeminineArticle + Space + "journée";
     public const string Jalousie = FeminineArticle + Space + "jalousie";
     public const string Joueur = MasculineArticle + Space + "joueur";
