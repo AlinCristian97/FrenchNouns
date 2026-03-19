@@ -1967,6 +1967,7 @@ public class Constants
     public const string Score = MasculineArticle + Space + "score";
     public const string Souffrance = FeminineArticle + Space + "souffrance";
     public const string Secours = MasculineArticle + Space + "secours";
+    public const string Scorpion = MasculineArticle + Space + "scorpion";
     public const string Sommet = MasculineArticle + Space + "sommet";
     public const string Serviette = FeminineArticle + Space + "serviette";
     public const string Sanctuaire = MasculineArticle + Space + "sanctuaire";

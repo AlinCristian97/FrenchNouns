@@ -1966,6 +1966,7 @@ public static class NounRepository
     {
         Constants.Secheresse,
         Constants.Souci,
+        Constants.Scorpion,
         Constants.Sagesse,
         Constants.Seisme,
         Constants.Squelette,
