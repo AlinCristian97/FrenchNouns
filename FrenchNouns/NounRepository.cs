@@ -2268,6 +2268,7 @@ public static class NounRepository
         Constants.Voile,
         Constants.Virus,
         Constants.Vallee,
+        Constants.Vautour,
         Constants.Volonte,
         Constants.Vaisselle,
         Constants.Ver,

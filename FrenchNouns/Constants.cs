@@ -2240,6 +2240,7 @@ public class Constants
     #endregion
 
     #region "V" Nouns
+    public const string Vautour = MasculineArticle + Space + "vautour";
     public const string Vitamine = FeminineArticle + Space + "vitamine";
     public const string Veuf = MasculineArticle + Space + "veuf";
     public const string Voile = MasculineArticle + Space + "voile";
