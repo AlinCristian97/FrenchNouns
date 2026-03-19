@@ -729,6 +729,7 @@ public static class NounRepository
         Constants.Eveil,
         Constants.Expediteur,
         Constants.Escalier,
+        Constants.Election,
         Constants.Edition,
         Constants.Ecaille,
         Constants.Engourdissement,
