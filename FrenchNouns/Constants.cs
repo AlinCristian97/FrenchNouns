@@ -204,6 +204,7 @@ public class Constants
     #endregion
 
     #region "B" Nouns
+    public const string Bete = FeminineArticle + Space + "bête";
     public const string Brume = FeminineArticle + Space + "brume";
     public const string Bribe = FeminineArticle + Space + "bribe";
     public const string Bain = MasculineArticle + Space + "bain";

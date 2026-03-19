@@ -200,6 +200,7 @@ public static class NounRepository
         Constants.Batiment,
         Constants.Bande,
         Constants.Betise,
+        Constants.Bete,
         Constants.Bandeau,
         Constants.Baton,
         Constants.Bien,
