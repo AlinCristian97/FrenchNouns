@@ -813,6 +813,7 @@ public static class NounRepository
         Constants.Elasticite,
         Constants.Eminence,
         Constants.Emploi,
+        Constants.Emplacement,
         Constants.Emprunt,
         Constants.Enigme,
         Constants.Entite,

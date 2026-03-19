@@ -713,6 +713,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Emplacement = MasculineArticle + Space + "emplacement";
     public const string Epinard = MasculineArticle + Space + "épinard";
     public const string Eclair = MasculineArticle + Space + "éclair";
     public const string Ecueil = MasculineArticle + Space + "écueil";
