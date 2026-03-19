@@ -327,6 +327,7 @@ public static class NounRepository
         Constants.Chaos,
         Constants.Collection,
         Constants.Createur,
+        Constants.Col,
         Constants.Constante,
         Constants.Codex,
         Constants.Courroux,
