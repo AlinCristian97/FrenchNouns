@@ -2363,6 +2363,7 @@ public class Constants
     #endregion
 
     #region "Z" Nouns
+    public const string Zombie = MasculineArticle + Space + "zombie";
     public const string Zebre = MasculineArticle + Space + "zèbre";
     public const string Zeste = MasculineArticle + Space + "zeste";
     public const string Zone = FeminineArticle + Space + "zone";
