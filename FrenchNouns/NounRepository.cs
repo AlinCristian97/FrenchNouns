@@ -613,6 +613,7 @@ public static class NounRepository
         Constants.Defense,
         Constants.Demon,
         Constants.Dorsale,
+        Constants.Dette,
         Constants.Detail,
         Constants.Delai,
         Constants.Destruction,
