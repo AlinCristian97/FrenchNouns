@@ -1611,6 +1611,7 @@ public static class NounRepository
         Constants.Pasteque,
         Constants.Pamplemousse,
         Constants.Poireau,
+        Constants.Pretre,
         Constants.Prune,
         Constants.Prestance,
         Constants.Profondeur,

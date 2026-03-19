@@ -1594,6 +1594,7 @@ public class Constants
     #endregion
 
     #region "P" Nouns
+    public const string Pretre = MasculineArticle + Space + "prêtre";
     public const string Pamplemousse = MasculineArticle + Space + "pamplemousse";
     public const string Poireau = MasculineArticle + Space + "poireau";
     public const string Prune = FeminineArticle + Space + "prune";
