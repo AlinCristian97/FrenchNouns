@@ -728,6 +728,7 @@ public class Constants
     public const string Envahisseur = MasculineArticle + Space + "envahisseur";
     public const string Enterrement = MasculineArticle + Space + "enterrement";
     public const string Eternite = FeminineArticle + Space + "éternité";
+    public const string Enterprise = FeminineArticle + Space + "enterprise";
     public const string Endurance = FeminineArticle + Space + "endurance";
     public const string Ecumeur = MasculineArticle + Space + "écumeur";
     public const string Egalite = FeminineArticle + Space + "égalité";
