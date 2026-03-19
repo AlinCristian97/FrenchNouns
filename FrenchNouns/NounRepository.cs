@@ -303,6 +303,7 @@ public static class NounRepository
     {
         Constants.Crue,
         Constants.Canicule,
+        Constants.Canditature,
         Constants.Couleur,
         Constants.Conseiller,
         Constants.Contenu,
