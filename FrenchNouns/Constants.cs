@@ -321,6 +321,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Candidat = MasculineArticle + Space + "candidat";
     public const string Canditature = FeminineArticle + Space + "canditature";
     public const string Couleur = FeminineArticle + Space + "couleur";
     public const string Contenu = MasculineArticle + Space + "contenu";
