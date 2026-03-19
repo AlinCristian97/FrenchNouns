@@ -1556,6 +1556,7 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> O = new[]
     {
         Constants.Opus,
+        Constants.Occupation,
         Constants.Ossement,
         Constants.Oubli,
         Constants.Opportuniste,

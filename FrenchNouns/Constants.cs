@@ -1542,6 +1542,7 @@ public class Constants
     #endregion
 
     #region "O" Nouns
+    public const string Occupation = FeminineArticle + Space + "occupation";
     public const string Opus = MasculineArticle + Space + "opus";
     public const string Ossement = MasculineArticle + Space + "ossement";
     public const string Oubli = MasculineArticle + Space + "oubli";
