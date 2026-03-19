@@ -1014,6 +1014,7 @@ public class Constants
     public const string Gemissement = MasculineArticle + Space + "gémissement";
     public const string Geste = MasculineArticle + Space + "geste";
     public const string Generation = FeminineArticle + Space + "génération";
+    public const string Gestion = FeminineArticle + Space + "gestion";
     public const string Groupe = MasculineArticle + Space + "groupe";
     public const string Grenade = FeminineArticle + Space + "grenade";
     public const string Groseille = FeminineArticle + Space + "groseille";

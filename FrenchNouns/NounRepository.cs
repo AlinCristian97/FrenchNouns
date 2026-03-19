@@ -983,6 +983,7 @@ public static class NounRepository
     {
         Constants.Guidage,
         Constants.Gamin,
+        Constants.Gestion,
         Constants.Grandeur,
         Constants.Gratitude,
         Constants.Grace,
