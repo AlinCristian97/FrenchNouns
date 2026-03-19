@@ -1074,6 +1074,7 @@ public class Constants
     #endregion
 
     #region "H" Nouns
+    public const string Hausse = FeminineArticle + Space + "hausse";
     public const string Horizon = MasculineArticle + Space + "horizon";
     public const string Hochement = MasculineArticle + Space + "hochement";
     public const string Haine = FeminineArticle + Space + "haine";

@@ -1074,6 +1074,7 @@ public static class NounRepository
     public static readonly IReadOnlyList<string> H = new[]
     {
         Constants.Horizon,
+        Constants.Hausse,
         Constants.Hochement,
         Constants.Haine,
         Constants.Heaume,
