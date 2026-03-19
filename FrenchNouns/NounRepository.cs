@@ -2164,6 +2164,7 @@ public static class NounRepository
         Constants.Total,
         Constants.Tentation,
         Constants.Tabagisme,
+        Constants.Tablette,
         Constants.Taille,
         Constants.Tromperie,
         Constants.Titan,
