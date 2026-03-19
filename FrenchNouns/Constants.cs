@@ -2118,6 +2118,7 @@ public class Constants
     #endregion
 
     #region "T" Nouns
+    public const string Totem = MasculineArticle + Space + "totem";
     public const string Toit = MasculineArticle + Space + "toit";
     public const string Trone = MasculineArticle + Space + "trône";
     public const string Tentacule = FeminineArticle + Space + "tentacule";

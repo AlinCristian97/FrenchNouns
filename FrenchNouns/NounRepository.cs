@@ -2139,6 +2139,7 @@ public static class NounRepository
         Constants.Trone,
         Constants.Tentacule,
         Constants.Tapis,
+        Constants.Totem,
         Constants.Tenue,
         Constants.Terreur,
         Constants.Total,
