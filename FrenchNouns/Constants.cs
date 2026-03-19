@@ -317,6 +317,7 @@ public class Constants
     #endregion
 
     #region "C" Nouns
+    public const string Contenu = MasculineArticle + Space + "contenu";
     public const string Composition = FeminineArticle + Space + "composition";
     public const string Col = MasculineArticle + Space + "col";
     public const string Creme = MasculineArticle + Space + "crème";

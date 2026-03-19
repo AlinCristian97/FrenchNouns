@@ -301,6 +301,7 @@ public static class NounRepository
     {
         Constants.Crue,
         Constants.Canicule,
+        Constants.Contenu,
         Constants.Composition,
         Constants.Coleoptere,
         Constants.Creme,
