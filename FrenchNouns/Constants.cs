@@ -1329,6 +1329,7 @@ public class Constants
     #endregion
 
     #region "M" Nouns
+    public const string Maitrise = FeminineArticle + Space + "maîtrise";
     public const string Militaire = MasculineArticle + Space + "militaire";
     public const string Manche_Feminine = FeminineArticle + Space + "manche";
     public const string Manche_Masculine = MasculineArticle + Space + "manche";
