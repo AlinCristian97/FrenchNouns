@@ -718,6 +718,7 @@ public class Constants
     #endregion
 
     #region "E" Nouns
+    public const string Endettement = MasculineArticle + Space + "endettement";
     public const string Election = FeminineArticle + Space + "élection";
     public const string Emplacement = MasculineArticle + Space + "emplacement";
     public const string Epinard = MasculineArticle + Space + "épinard";

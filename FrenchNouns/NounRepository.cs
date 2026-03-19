@@ -708,6 +708,7 @@ public static class NounRepository
         Constants.Eclair,
         Constants.Ecueil,
         Constants.Enthousiasme,
+        Constants.Endettement,
         Constants.Enterprise,
         Constants.Empire,
         Constants.Epidemie,
