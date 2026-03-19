@@ -55,6 +55,7 @@ public static class NounRepository
         Constants.Affaire,
         Constants.Abomination,
         Constants.Atout,
+        Constants.Attente,
         Constants.Adaptation,
         Constants.Asperge,
         Constants.Aubergine,
