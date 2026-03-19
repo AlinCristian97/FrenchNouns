@@ -1345,6 +1345,8 @@ public static class NounRepository
         Constants.Manteau,
         Constants.Mercenaire,
         Constants.Mortel,
+        Constants.Manche_Feminine,
+        Constants.Manche_Masculine,
         Constants.Mensonge,
         Constants.Mitain,
         Constants.Malediction,
