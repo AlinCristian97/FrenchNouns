@@ -2152,6 +2152,7 @@ public static class NounRepository
         Constants.Septembre,
         Constants.Suite,
         Constants.Saga,
+        Constants.Store,
 
         //
 

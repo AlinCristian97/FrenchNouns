@@ -2135,6 +2135,7 @@ public class Constants
     public const string Septembre = MasculineArticle + Space + "septembre";
     public const string Suite = FeminineArticle + Space + "suite";
     public const string Saga = FeminineArticle + Space + "saga";
+    public const string Store = MasculineArticle + Space + "store";
     #endregion
 
     #region "T" Nouns
