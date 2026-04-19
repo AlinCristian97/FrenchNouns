@@ -999,6 +999,7 @@ public class Constants
     public const string Friandise = FeminineArticle + Space + "friandise";
     public const string Flaque = FeminineArticle + Space + "flaque";
     public const string Fermentation = FeminineArticle + Space + "fermentation";
+    public const string Facture = FeminineArticle + Space + "facture";
 
     #endregion
 
