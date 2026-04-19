@@ -2164,6 +2164,7 @@ public static class NounRepository
         Constants.Suite,
         Constants.Saga,
         Constants.Store,
+        Constants.Symphonie,
 
         //
 

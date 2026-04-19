@@ -2148,6 +2148,7 @@ public class Constants
     public const string Suite = FeminineArticle + Space + "suite";
     public const string Saga = FeminineArticle + Space + "saga";
     public const string Store = MasculineArticle + Space + "store";
+    public const string Symphonie = FeminineArticle + Space + "symphonie";
     #endregion
 
     #region "T" Nouns
