@@ -1617,6 +1617,7 @@ public class Constants
     public const string Orchestre = MasculineArticle + Space + "orchestre";
     public const string Oreillette = FeminineArticle + Space + "oreillette";
     public const string Oasis = FeminineArticle + Space + "oasis";
+    public const string Orphelin = MasculineArticle + Space + "orphelin";
     #endregion
 
     #region "P" Nouns

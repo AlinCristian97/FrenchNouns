@@ -1630,6 +1630,7 @@ public static class NounRepository
         Constants.Orchestre,
         Constants.Oreillette,
         Constants.Oasis,
+        Constants.Orphelin,
     };
 
     public static readonly IReadOnlyList<string> P = new[]
