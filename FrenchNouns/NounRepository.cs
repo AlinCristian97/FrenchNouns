@@ -180,6 +180,7 @@ public static class NounRepository
         Constants.Aube,
         Constants.Aumone,
         Constants.Astuce,
+        Constants.Aiguillon,
 
         //
 

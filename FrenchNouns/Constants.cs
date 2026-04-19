@@ -203,6 +203,7 @@ public class Constants
     public const string Aube = FeminineArticle + Space + "aube";
     public const string Aumone = FeminineArticle + Space + "aumône";
     public const string Astuce = FeminineArticle + Space + "astuce";
+    public const string Aiguillon = MasculineArticle + Space + "aiguillon";
     #endregion
 
     #region "B" Nouns
