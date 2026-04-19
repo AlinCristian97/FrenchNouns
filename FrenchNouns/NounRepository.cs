@@ -1849,6 +1849,7 @@ public static class NounRepository
         Constants.Paroxysme,
         Constants.Policier,
         Constants.Poivre,
+        Constants.Profil,
     };
 
     public static readonly IReadOnlyList<string> Q = new[]

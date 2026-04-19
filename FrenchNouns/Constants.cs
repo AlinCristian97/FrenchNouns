@@ -1836,6 +1836,7 @@ public class Constants
     public const string Policier = MasculineArticle + Space + "policier";
     public const string Poivre = MasculineArticle + Space + "poivre";
     public const string Collectionneur = MasculineArticle + Space + "collectionneur";
+    public const string Profil = MasculineArticle + Space + "profil";
     #endregion
 
     #region "Q" Nouns
