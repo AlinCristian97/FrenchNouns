@@ -994,6 +994,7 @@ public class Constants
     public const string Foulard = MasculineArticle + Space + "foulard";
     public const string Foudre = FeminineArticle + Space + "foudre";
     public const string Friandise = FeminineArticle + Space + "friandise";
+    public const string Flaque = FeminineArticle + Space + "flaque";
     #endregion
 
     #region "G" Nouns

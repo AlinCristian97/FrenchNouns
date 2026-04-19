@@ -982,6 +982,7 @@ public static class NounRepository
         Constants.Foulard,
         Constants.Foudre,
         Constants.Friandise,
+        Constants.Flaque,
 
         //
 
