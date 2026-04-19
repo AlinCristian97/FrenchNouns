@@ -1835,6 +1835,7 @@ public class Constants
     public const string Paroxysme = MasculineArticle + Space + "paroxysme";
     public const string Policier = MasculineArticle + Space + "policier";
     public const string Poivre = MasculineArticle + Space + "poivre";
+    public const string Collectionneur = MasculineArticle + Space + "collectionneur";
     #endregion
 
     #region "Q" Nouns

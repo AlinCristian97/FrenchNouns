@@ -532,6 +532,7 @@ public static class NounRepository
         Constants.Centaine,
         Constants.Chaleur,
         Constants.Chanson,
+        Constants.Collectionneur,
         Constants.Chauffeur,
         Constants.Cheminee,
         Constants.Chute,
