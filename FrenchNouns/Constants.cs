@@ -1226,6 +1226,7 @@ public class Constants
     public const string Ivresse = FeminineArticle + Space + "ivresse";
     public const string Itineraire = MasculineArticle + Space + "itinéraire";
     public const string Intrigue = FeminineArticle + Space + "intrigue";
+    public const string Infraction = FeminineArticle + Space + "infraction";
     #endregion
 
     #region "J" Nouns

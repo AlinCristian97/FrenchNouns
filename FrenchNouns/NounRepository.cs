@@ -1225,6 +1225,7 @@ public static class NounRepository
         Constants.Ivresse,
         Constants.Itineraire,
         Constants.Intrigue,
+        Constants.Infraction,
     };
 
     public static readonly IReadOnlyList<string> J = new[]
