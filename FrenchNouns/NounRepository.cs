@@ -566,6 +566,7 @@ public static class NounRepository
         Constants.Cabaret,
         Constants.Cacao,
         Constants.Calculatrice,
+        Constants.Calendrier,
         Constants.Campagne,
         Constants.Canal,
         Constants.Canape,

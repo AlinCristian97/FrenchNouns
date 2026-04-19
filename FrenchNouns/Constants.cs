@@ -357,6 +357,7 @@ public class Constants
     public const string Constante = FeminineArticle + Space + "constante";
     public const string Codex = MasculineArticle + Space + "codex";
     public const string Courroux = MasculineArticle + Space + "courroux";
+    public const string Calendrier = MasculineArticle + Space + "calendrier";
     public const string Chaloupe = FeminineArticle + Space + "chaloupe";
     public const string Compensation = FeminineArticle + Space + "compensation";
     public const string Culpabilite = FeminineArticle + Space + "culpabilité";
