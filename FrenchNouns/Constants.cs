@@ -885,6 +885,7 @@ public class Constants
     public const string Etablissement = MasculineArticle + Space + "établissement";
     public const string Elan = MasculineArticle + Space + "élan";
     public const string Embouteillage = MasculineArticle + Space + "embouteillage";
+    public const string Embouchure = FeminineArticle + Space + "embouchure";
     public const string Engrais = MasculineArticle + Space + "engrais";
     #endregion
 

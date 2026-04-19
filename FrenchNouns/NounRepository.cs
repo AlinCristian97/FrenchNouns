@@ -872,6 +872,7 @@ public static class NounRepository
         Constants.Etablissement,
         Constants.Elan,
         Constants.Embouteillage,
+        Constants.Embouchure,
         Constants.Engrais,
     };
 
