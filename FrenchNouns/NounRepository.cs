@@ -989,6 +989,7 @@ public static class NounRepository
         Constants.Flaque,
         Constants.Fermentation,
         Constants.Facture,
+        Constants.Fracture,
 
         //
 

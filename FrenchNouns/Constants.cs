@@ -891,6 +891,7 @@ public class Constants
     #endregion
 
     #region "F" Nouns
+    public const string Fracture = FeminineArticle + Space + "fracture";
     public const string Framboise = FeminineArticle + Space + "framboise";
     public const string Flot = MasculineArticle + Space + "flot";
     public const string Fragment = MasculineArticle + Space + "fragment";
