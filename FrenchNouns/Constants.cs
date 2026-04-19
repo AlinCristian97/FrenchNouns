@@ -997,6 +997,8 @@ public class Constants
     public const string Foudre = FeminineArticle + Space + "foudre";
     public const string Friandise = FeminineArticle + Space + "friandise";
     public const string Flaque = FeminineArticle + Space + "flaque";
+    public const string Fermentation = FeminineArticle + Space + "fermentation";
+
     #endregion
 
     #region "G" Nouns

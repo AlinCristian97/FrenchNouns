@@ -985,6 +985,7 @@ public static class NounRepository
         Constants.Foudre,
         Constants.Friandise,
         Constants.Flaque,
+        Constants.Fermentation,
 
         //
 
