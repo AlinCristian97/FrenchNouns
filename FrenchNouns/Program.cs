@@ -1,4 +1,5 @@
 ﻿using FrenchNouns.AllConstants;
+using FrenchNouns.AllNounRepository;
 
 namespace FrenchNouns
 {
