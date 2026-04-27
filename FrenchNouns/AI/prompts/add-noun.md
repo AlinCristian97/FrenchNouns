@@ -38,10 +38,10 @@ Rules:
 ## 3) Update `NounRepository.cs`
 
 - Add the constant to the matching letter list (`A`, `B`, ...).
-- Keep ordering/style consistent with nearby entries.
+- List order does **not** need to be alphabetical; append new nouns at the end of the relevant block.
 - For plural-only nouns:
   - add to the letter list after the `//` separator block,
-  - add to `PluralOnlyNouns` under matching letter.
+  - add to `PluralOnlyNouns` under matching letter (append at the end of that letter block).
 
 ## 4) Add sentence JSON
 
