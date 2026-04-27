@@ -116,6 +116,7 @@ public static partial class NounRepository
         Constants.Fermentation,
         Constants.Facture,
         Constants.Fracture,
+        Constants.Faute,
 
         //
 
