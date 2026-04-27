@@ -35,13 +35,18 @@ Rules:
 
 `public const string Plural_Lunettes = PluralArticle + Space + "lunettes";`
 
-## 3) Update `NounRepository.cs`
+## 3) Update split `NounRepository` partial files
 
-- Add the constant to the matching letter list (`A`, `B`, ...).
+Repository files are split by letter. You must target the matching letter file only.
+
+- Edit: `FrenchNouns\AllNounRepository\NounRepository.{LETTER}.cs`
+- Add the constant to that letter list (`A`, `B`, ...).
 - List order does **not** need to be alphabetical; append new nouns at the end of the relevant block.
-- For plural-only nouns:
-  - add to the letter list after the `//` separator block,
-  - add to `PluralOnlyNouns` under matching letter (append at the end of that letter block).
+- Do **not** add a noun to any other letter file.
+
+For plural-only nouns:
+- add to `NounRepository.{LETTER}.cs` after the `//` separator block,
+- add to `FrenchNouns\AllNounRepository\NounRepository.main.cs` inside `PluralOnlyNouns`, under the matching letter comment (append at end of that letter block).
 
 ## 4) Add sentence JSON
 
