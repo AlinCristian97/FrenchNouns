@@ -1,4 +1,6 @@
-﻿namespace FrenchNouns
+﻿using FrenchNouns.AllConstants;
+
+namespace FrenchNouns
 {
     internal class Program
     {

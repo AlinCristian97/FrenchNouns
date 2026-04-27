@@ -3,6 +3,7 @@ using System.Text;
 
 namespace FrenchNouns;
 
+using FrenchNouns.AllConstants;
 using System;
 using System.Collections.Generic;
 using System.IO;
