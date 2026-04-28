@@ -169,5 +169,6 @@ public static partial class NounRepository
         Constants.Embouteillage,
         Constants.Embouchure,
         Constants.Engrais,
+        Constants.Equipage,
     };
 }
