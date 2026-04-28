@@ -1,12 +1,166 @@
 # Copilot Instructions
 
 ## General Guidelines
-- Normalize user-entered bare nouns to canonical 'article noun' using the repository when possible; accept both 'arbre' and 'un arbre' and return the canonical constant's value.
+
+* Normalize user-entered bare nouns to canonical 'article noun' using the repository when possible; accept both 'arbre' and 'un arbre' and return the canonical constant's value.
 
 ## Code Style
-- Use specific formatting rules
-- Follow naming conventions
+
+* Use specific formatting rules
+* Follow naming conventions
 
 ## Project-Specific Rules
-- Custom requirement A
-- Custom requirement B
+
+* Custom requirement A
+* Custom requirement B
+
+
+
+
+
+
+
+\# Add a French Noun
+
+
+
+Use this prompt when a user asks to add one or more nouns.
+
+Accept both bare noun (`arbre`) and article+noun (`un arbre`, `une maison`, `des lunettes`).
+
+
+
+\## 1) Determine canonical form
+
+
+
+\- Canonical value format is always: `article + space + noun`.
+
+\- Articles:
+
+&#x20; - `un` = masculine singular
+
+&#x20; - `une` = feminine singular
+
+&#x20; - `des` = plural-only noun
+
+\- If user gives only a bare noun, infer the correct gender.
+
+\- Keep accents/diacritics in string values and JSON filenames/content.
+
+
+
+\## 2) Update constants (split files)
+
+
+
+\### Singular nouns (`un` / `une`)
+
+
+
+\- Edit: `FrenchNouns\\AllConstants\\Constants.{LETTER}.cs`
+
+\- `{LETTER}` = uppercase ASCII first letter of the noun (`é` -> `E`).
+
+\- Add at end of file/class:
+
+
+
+`public const string Arbre = MasculineArticle + Space + "arbre";`
+
+
+
+Rules:
+
+\- Constant name: PascalCase, no accents/hyphens.
+
+\- Value noun: lowercase, accents preserved.
+
+\- If same spelling needs disambiguation, add suffix (example: `\_Side`, `\_Rib`).
+
+
+
+\### Plural-only nouns (`des`)
+
+
+
+\- Edit: `FrenchNouns\\AllConstants\\Constants.main.cs`
+
+\- Add under `#region Plural-only Nouns`, in the matching letter section:
+
+
+
+`public const string Plural\_Lunettes = PluralArticle + Space + "lunettes";`
+
+
+
+\## 3) Update split `NounRepository` partial files
+
+
+
+Repository files are split by letter. You must target the matching letter file only.
+
+
+
+\- Edit: `FrenchNouns\\AllNounRepository\\NounRepository.{LETTER}.cs`
+
+\- Add the constant to that letter list (`A`, `B`, ...).
+
+\- List order does \*\*not\*\* need to be alphabetical; append new nouns at the end of the relevant block.
+
+\- Do \*\*not\*\* add a noun to any other letter file.
+
+
+
+For plural-only nouns:
+
+\- add to `NounRepository.{LETTER}.cs` after the `//` separator block,
+
+\- add to `FrenchNouns\\AllNounRepository\\NounRepository.main.cs` inside `PluralOnlyNouns`, under the matching letter comment (append at end of that letter block).
+
+
+
+\## 4) Add sentence JSON
+
+
+
+Create: `FrenchNouns\\Sentences\\{LETTER}\\{noun}.json`
+
+
+
+\- `{LETTER}` = uppercase ASCII first letter.
+
+\- `{noun}` = lowercase bare noun with accents preserved.
+
+
+
+Content shape:
+
+
+
+\- `description`: French only.
+
+\- `sentences`: exactly 5 French sentences using the noun naturally.
+
+
+
+Description guidelines:
+
+\- Singular: start with `Nom masculin désignant...` or `Nom féminin désignant...`.
+
+\- Plural-only: use `Nom ... pluriel uniquement (...)` and end with `Ce mot s'emploie toujours au pluriel.`
+
+\- Include French guillemets around the noun: `« noun »`.
+
+
+
+\## 5) Validate
+
+
+
+\- Build after edits and ensure no compile errors.
+
+\- If noun already exists, do not duplicate; return/keep the canonical existing constant value.
+
+
+
