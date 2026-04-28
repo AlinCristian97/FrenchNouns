@@ -305,4 +305,5 @@ public partial class Constants
     public const string Canicule = FeminineArticle + Space + "canicule";
     public const string Coleoptere = MasculineArticle + Space + "coléoptère";
     public const string Commencement = MasculineArticle + Space + "commencement";
+    public const string Cabriolet = MasculineArticle + Space + "cabriolet";
 }

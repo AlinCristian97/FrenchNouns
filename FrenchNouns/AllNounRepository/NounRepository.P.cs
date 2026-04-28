@@ -225,5 +225,6 @@ public static partial class NounRepository
         Constants.Poivre,
         Constants.Profil,
         Constants.Palourde,
+        Constants.Pompe,
     };
 }

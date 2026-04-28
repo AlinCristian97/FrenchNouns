@@ -310,6 +310,7 @@ public static partial class NounRepository
         Constants.Crevette,
         Constants.Citrouille,
         Constants.Commencement,
+        Constants.Cabriolet,
         //
 
         Constants.Plural_Condoleances,

@@ -222,4 +222,5 @@ public partial class Constants
     public const string Collectionneur = MasculineArticle + Space + "collectionneur";
     public const string Profil = MasculineArticle + Space + "profil";
     public const string Palourde = FeminineArticle + Space + "palourde";
+    public const string Pompe = FeminineArticle + Space + "pompe";
 }
