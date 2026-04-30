@@ -160,4 +160,5 @@ public partial class Constants
     public const string Saga = FeminineArticle + Space + "saga";
     public const string Store = MasculineArticle + Space + "store";
     public const string Symphonie = FeminineArticle + Space + "symphonie";
+    public const string Substance = FeminineArticle + Space + "substance";
 }

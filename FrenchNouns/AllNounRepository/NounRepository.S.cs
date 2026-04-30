@@ -164,6 +164,7 @@ public static partial class NounRepository
         Constants.Saga,
         Constants.Store,
         Constants.Symphonie,
+        Constants.Substance,
 
         //
 

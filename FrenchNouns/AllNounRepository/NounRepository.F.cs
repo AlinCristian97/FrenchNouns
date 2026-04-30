@@ -117,6 +117,7 @@ public static partial class NounRepository
         Constants.Facture,
         Constants.Fracture,
         Constants.Faute,
+        Constants.Flacon,
 
         //
 

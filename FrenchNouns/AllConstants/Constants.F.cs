@@ -113,4 +113,5 @@ public partial class Constants
     public const string Fermentation = FeminineArticle + Space + "fermentation";
     public const string Facture = FeminineArticle + Space + "facture";
     public const string Faute = FeminineArticle + Space + "faute";
+    public const string Flacon = MasculineArticle + Space + "flacon";
 }

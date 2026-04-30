@@ -129,4 +129,5 @@ public partial class Constants
     public const string Rang = MasculineArticle + Space + "rang";
     public const string Rideau = MasculineArticle + Space + "rideau";
     public const string Rene = FeminineArticle + Space + "rêne";
+    public const string Reproduction = FeminineArticle + Space + "reproduction";
 }

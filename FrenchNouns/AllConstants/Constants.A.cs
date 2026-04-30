@@ -165,4 +165,5 @@ public partial class Constants
     public const string Aumone = FeminineArticle + Space + "aumône";
     public const string Astuce = FeminineArticle + Space + "astuce";
     public const string Aiguillon = MasculineArticle + Space + "aiguillon";
+    public const string Amant = MasculineArticle + Space + "amant";
 }

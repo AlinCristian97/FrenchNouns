@@ -133,5 +133,6 @@ public static partial class NounRepository
         Constants.Rideau,
         Constants.Rage,
         Constants.Rene,
+        Constants.Reproduction,
     };
 }

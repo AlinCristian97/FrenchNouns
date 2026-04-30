@@ -169,6 +169,7 @@ public static partial class NounRepository
         Constants.Aumone,
         Constants.Astuce,
         Constants.Aiguillon,
+        Constants.Amant,
 
         //
 
