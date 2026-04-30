@@ -33,4 +33,26 @@ public static partial class NounRepository
         Constants.Quintet,
         Constants.Quidam,
     };
+
+    public static readonly IReadOnlyList<string> Q_Popular = new[]
+    {
+        Constants.Quai,
+        Constants.Qualite,
+        Constants.Quantite,
+        Constants.Quartier,
+        Constants.Querelle,
+        Constants.Question,
+        Constants.Questionnaire,
+        Constants.Queue,
+        Constants.Quete,
+        Constants.Quiche,
+        Constants.Quinoa,
+        Constants.Quinzaine,
+        Constants.Quota,
+        Constants.Quotidien,
+        Constants.Quartz,
+        Constants.Quiproquo,
+        Constants.Quietude,
+        Constants.Quintessence,
+    };
 }
