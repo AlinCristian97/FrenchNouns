@@ -306,4 +306,14 @@ public partial class Constants
     public const string Coleoptere = MasculineArticle + Space + "coléoptère";
     public const string Commencement = MasculineArticle + Space + "commencement";
     public const string Cabriolet = MasculineArticle + Space + "cabriolet";
+    public const string Carrefour = MasculineArticle + Space + "carrefour";
+    public const string Cathedrale = FeminineArticle + Space + "cathédrale";
+    public const string Clairiere = FeminineArticle + Space + "clairière";
+    public const string Clocher = MasculineArticle + Space + "clocher";
+    public const string Cobaye = MasculineArticle + Space + "cobaye";
+    public const string Comete = FeminineArticle + Space + "comète";
+    public const string Comptoir = MasculineArticle + Space + "comptoir";
+    public const string Contree = FeminineArticle + Space + "contrée";
+    public const string Cerisier = MasculineArticle + Space + "cerisier";
+    public const string Charpente = FeminineArticle + Space + "charpente";
 }

@@ -311,6 +311,16 @@ public static partial class NounRepository
         Constants.Citrouille,
         Constants.Commencement,
         Constants.Cabriolet,
+        Constants.Carrefour,
+        Constants.Cathedrale,
+        Constants.Clairiere,
+        Constants.Clocher,
+        Constants.Cobaye,
+        Constants.Comete,
+        Constants.Comptoir,
+        Constants.Contree,
+        Constants.Cerisier,
+        Constants.Charpente,
         //
 
         Constants.Plural_Condoleances,
