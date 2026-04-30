@@ -68,5 +68,15 @@ public static partial class NounRepository
         Constants.Nid,
         Constants.Nettoyage,
         Constants.Noce,
+        Constants.Narguile,
+        Constants.Nacelle,
+        Constants.Nurserie,
+        Constants.Narval,
+        Constants.Nigaud,
+        Constants.Nuance,
+        Constants.Nabab,
+        Constants.Nageoire,
+        Constants.Notable,
+        Constants.Nichee,
     };
 }

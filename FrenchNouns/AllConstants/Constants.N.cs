@@ -64,4 +64,14 @@ public partial class Constants
     public const string Nid = MasculineArticle + Space + "nid";
     public const string Nettoyage = MasculineArticle + Space + "nettoyage";
     public const string Noce = FeminineArticle + Space + "noce";
+    public const string Narguile = MasculineArticle + Space + "narguilé";
+    public const string Nacelle = FeminineArticle + Space + "nacelle";
+    public const string Nurserie = FeminineArticle + Space + "nurserie";
+    public const string Narval = MasculineArticle + Space + "narval";
+    public const string Nigaud = MasculineArticle + Space + "nigaud";
+    public const string Nuance = FeminineArticle + Space + "nuance";
+    public const string Nabab = MasculineArticle + Space + "nabab";
+    public const string Nageoire = FeminineArticle + Space + "nageoire";
+    public const string Notable = MasculineArticle + Space + "notable";
+    public const string Nichee = FeminineArticle + Space + "nichée";
 }
