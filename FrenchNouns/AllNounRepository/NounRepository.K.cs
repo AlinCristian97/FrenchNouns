@@ -28,4 +28,26 @@ public static partial class NounRepository
         Constants.Kraken,
         Constants.Kabbale,
     };
+
+    public static readonly IReadOnlyList<string> K_Popular = new[]
+    {
+        Constants.Kangourou,
+        Constants.Karate,
+        Constants.Karma,
+        Constants.Karting,
+        Constants.Kayak,
+        Constants.Kebab,
+        Constants.Kefir,
+        Constants.Kepi,
+        Constants.Kermesse,
+        Constants.Kilo,
+        Constants.Kilometre,
+        Constants.Kimono,
+        Constants.Kiosque,
+        Constants.Kit,
+        Constants.Kiwi,
+        Constants.Klaxon,
+        Constants.Koala,
+        Constants.Kaleidoscope,
+    };
 }
