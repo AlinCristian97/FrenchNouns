@@ -19,4 +19,14 @@ public partial class Constants
     public const string Usure = FeminineArticle + Space + "usure";
     public const string Usager = MasculineArticle + Space + "usager";
     public const string Unanimite = FeminineArticle + Space + "unanimité";
+    public const string Ultimatum = MasculineArticle + Space + "ultimatum";
+    public const string Ukulele = MasculineArticle + Space + "ukulélé";
+    public const string Urticaire = FeminineArticle + Space + "urticaire";
+    public const string Ulcere = MasculineArticle + Space + "ulcère";
+    public const string Usurpation = FeminineArticle + Space + "usurpation";
+    public const string Ultrason = MasculineArticle + Space + "ultrason";
+    public const string Uppercut = MasculineArticle + Space + "uppercut";
+    public const string Uterus = MasculineArticle + Space + "utérus";
+    public const string Uvule = FeminineArticle + Space + "uvule";
+    public const string Urbaniste = MasculineArticle + Space + "urbaniste";
 }

@@ -23,5 +23,15 @@ public static partial class NounRepository
         Constants.Usure,
         Constants.Usager,
         Constants.Unanimite,
+        Constants.Ultimatum,
+        Constants.Ukulele,
+        Constants.Urticaire,
+        Constants.Ulcere,
+        Constants.Usurpation,
+        Constants.Ultrason,
+        Constants.Uppercut,
+        Constants.Uterus,
+        Constants.Uvule,
+        Constants.Urbaniste,
     };
 }
