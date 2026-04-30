@@ -114,4 +114,14 @@ public partial class Constants
     public const string Facture = FeminineArticle + Space + "facture";
     public const string Faute = FeminineArticle + Space + "faute";
     public const string Flacon = MasculineArticle + Space + "flacon";
+    public const string Fagot = MasculineArticle + Space + "fagot";
+    public const string Fanfare = FeminineArticle + Space + "fanfare";
+    public const string Fardeau = MasculineArticle + Space + "fardeau";
+    public const string Fougere = FeminineArticle + Space + "fougère";
+    public const string Faucon = MasculineArticle + Space + "faucon";
+    public const string Fenouil = MasculineArticle + Space + "fenouil";
+    public const string Fiacre = MasculineArticle + Space + "fiacre";
+    public const string Flocon = MasculineArticle + Space + "flocon";
+    public const string Fregate = FeminineArticle + Space + "frégate";
+    public const string Fjord = MasculineArticle + Space + "fjord";
 }

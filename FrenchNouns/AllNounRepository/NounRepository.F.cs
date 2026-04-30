@@ -118,6 +118,16 @@ public static partial class NounRepository
         Constants.Fracture,
         Constants.Faute,
         Constants.Flacon,
+        Constants.Fagot,
+        Constants.Fanfare,
+        Constants.Fardeau,
+        Constants.Fougere,
+        Constants.Faucon,
+        Constants.Fenouil,
+        Constants.Fiacre,
+        Constants.Flocon,
+        Constants.Fregate,
+        Constants.Fjord,
 
         //
 
