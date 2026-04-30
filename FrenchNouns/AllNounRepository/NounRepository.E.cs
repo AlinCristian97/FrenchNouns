@@ -289,5 +289,6 @@ public static partial class NounRepository
         Constants.Escale,
         Constants.Ethique,
         Constants.Etang,
+        Constants.Episode
     };
 }
