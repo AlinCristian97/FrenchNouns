@@ -71,6 +71,16 @@ public static partial class NounRepository
         Constants.Linge,
         Constants.Lucarne,
         Constants.Loyer,
+        Constants.Luthier,
+        Constants.Lagune,
+        Constants.Lardon,
+        Constants.Liasse,
+        Constants.Linceul,
+        Constants.Locomotive,
+        Constants.Lombric,
+        Constants.Labyrinthe,
+        Constants.Lame,
+        Constants.Lustre,
 
         //
 

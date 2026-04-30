@@ -67,4 +67,14 @@ public partial class Constants
     public const string Linge = MasculineArticle + Space + "linge";
     public const string Lucarne = FeminineArticle + Space + "lucarne";
     public const string Loyer = MasculineArticle + Space + "loyer";
+    public const string Luthier = MasculineArticle + Space + "luthier";
+    public const string Lagune = FeminineArticle + Space + "lagune";
+    public const string Lardon = MasculineArticle + Space + "lardon";
+    public const string Liasse = FeminineArticle + Space + "liasse";
+    public const string Linceul = MasculineArticle + Space + "linceul";
+    public const string Locomotive = FeminineArticle + Space + "locomotive";
+    public const string Lombric = MasculineArticle + Space + "lombric";
+    public const string Labyrinthe = MasculineArticle + Space + "labyrinthe";
+    public const string Lame = FeminineArticle + Space + "lame";
+    public const string Lustre = MasculineArticle + Space + "lustre";
 }
