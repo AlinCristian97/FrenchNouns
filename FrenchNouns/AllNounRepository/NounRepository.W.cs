@@ -21,4 +21,20 @@ public static partial class NounRepository
         Constants.Wharf,
         Constants.Wombat,
     };
+
+    public static readonly IReadOnlyList<string> W_Popular = new[]
+    {
+        Constants.Wagon,
+        Constants.Web,
+        Constants.Weekend,
+        Constants.Western,
+        Constants.Whisky,
+        Constants.Wifi,
+        Constants.Wok,
+        Constants.Wapiti,
+        Constants.Wasabi,
+        Constants.Webmaster,
+        Constants.Wharf,
+        Constants.Wombat,
+    };
 }
