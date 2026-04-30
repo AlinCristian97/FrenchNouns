@@ -226,5 +226,15 @@ public static partial class NounRepository
         Constants.Profil,
         Constants.Palourde,
         Constants.Pompe,
+        Constants.Poulpe,
+        Constants.Pagode,
+        Constants.Petale,
+        Constants.Perroquet,
+        Constants.Pelerin,
+        Constants.Peniche,
+        Constants.Pichet,
+        Constants.Pinceau,
+        Constants.Poudriere,
+        Constants.Palme,
     };
 }

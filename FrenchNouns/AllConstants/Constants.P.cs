@@ -223,4 +223,14 @@ public partial class Constants
     public const string Profil = MasculineArticle + Space + "profil";
     public const string Palourde = FeminineArticle + Space + "palourde";
     public const string Pompe = FeminineArticle + Space + "pompe";
+    public const string Poulpe = MasculineArticle + Space + "poulpe";
+    public const string Pagode = FeminineArticle + Space + "pagode";
+    public const string Petale = MasculineArticle + Space + "pétale";
+    public const string Perroquet = MasculineArticle + Space + "perroquet";
+    public const string Pelerin = MasculineArticle + Space + "pèlerin";
+    public const string Peniche = FeminineArticle + Space + "péniche";
+    public const string Pichet = MasculineArticle + Space + "pichet";
+    public const string Pinceau = MasculineArticle + Space + "pinceau";
+    public const string Poudriere = FeminineArticle + Space + "poudrière";
+    public const string Palme = FeminineArticle + Space + "palme";
 }
