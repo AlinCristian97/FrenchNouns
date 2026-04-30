@@ -165,6 +165,16 @@ public static partial class NounRepository
         Constants.Store,
         Constants.Symphonie,
         Constants.Substance,
+        Constants.Sablier,
+        Constants.Salamandre,
+        Constants.Sarcophage,
+        Constants.Savane,
+        Constants.Sceptre,
+        Constants.Sentinelle,
+        Constants.Sillon,
+        Constants.Sirene,
+        Constants.Sociologue,
+        Constants.Stalactite,
 
         //
 

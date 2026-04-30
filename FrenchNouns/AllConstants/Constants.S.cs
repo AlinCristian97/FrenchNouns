@@ -161,4 +161,14 @@ public partial class Constants
     public const string Store = MasculineArticle + Space + "store";
     public const string Symphonie = FeminineArticle + Space + "symphonie";
     public const string Substance = FeminineArticle + Space + "substance";
+    public const string Sablier = MasculineArticle + Space + "sablier";
+    public const string Salamandre = FeminineArticle + Space + "salamandre";
+    public const string Sarcophage = MasculineArticle + Space + "sarcophage";
+    public const string Savane = FeminineArticle + Space + "savane";
+    public const string Sceptre = MasculineArticle + Space + "sceptre";
+    public const string Sentinelle = FeminineArticle + Space + "sentinelle";
+    public const string Sillon = MasculineArticle + Space + "sillon";
+    public const string Sirene = FeminineArticle + Space + "sirène";
+    public const string Sociologue = MasculineArticle + Space + "sociologue";
+    public const string Stalactite = FeminineArticle + Space + "stalactite";
 }
