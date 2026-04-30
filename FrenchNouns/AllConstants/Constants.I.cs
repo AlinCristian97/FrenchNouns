@@ -80,4 +80,14 @@ public partial class Constants
     public const string Itineraire = MasculineArticle + Space + "itinéraire";
     public const string Intrigue = FeminineArticle + Space + "intrigue";
     public const string Infraction = FeminineArticle + Space + "infraction";
+    public const string Iceberg = MasculineArticle + Space + "iceberg";
+    public const string Idole = FeminineArticle + Space + "idole";
+    public const string Ilot = MasculineArticle + Space + "îlot";
+    public const string Impermeable = MasculineArticle + Space + "imperméable";
+    public const string Imprimerie = FeminineArticle + Space + "imprimerie";
+    public const string Incident = MasculineArticle + Space + "incident";
+    public const string Incursion = FeminineArticle + Space + "incursion";
+    public const string Ingredient = MasculineArticle + Space + "ingrédient";
+    public const string Ivoire = MasculineArticle + Space + "ivoire";
+    public const string Ivrogne = MasculineArticle + Space + "ivrogne";
 }

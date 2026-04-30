@@ -84,5 +84,15 @@ public static partial class NounRepository
         Constants.Itineraire,
         Constants.Intrigue,
         Constants.Infraction,
+        Constants.Iceberg,
+        Constants.Idole,
+        Constants.Ilot,
+        Constants.Impermeable,
+        Constants.Imprimerie,
+        Constants.Incident,
+        Constants.Incursion,
+        Constants.Ingredient,
+        Constants.Ivoire,
+        Constants.Ivrogne,
     };
 }
