@@ -46,6 +46,16 @@ public static partial class NounRepository
         Constants.Jasmin,
         Constants.Jumelle,
         Constants.Jupon,
+        Constants.Jarret,
+        Constants.Jachere,
+        Constants.Javelot,
+        Constants.Jetee,
+        Constants.Joaillier,
+        Constants.Jungle,
+        Constants.Juriste,
+        Constants.Juridiction,
+        Constants.Jubile,
+        Constants.Jarre,
 
         //
 

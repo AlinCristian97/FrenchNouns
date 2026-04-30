@@ -42,4 +42,14 @@ public partial class Constants
     public const string Jasmin = MasculineArticle + Space + "jasmin";
     public const string Jumelle = FeminineArticle + Space + "jumelle";
     public const string Jupon = MasculineArticle + Space + "jupon";
+    public const string Jarret = MasculineArticle + Space + "jarret";
+    public const string Jachere = FeminineArticle + Space + "jachère";
+    public const string Javelot = MasculineArticle + Space + "javelot";
+    public const string Jetee = FeminineArticle + Space + "jetée";
+    public const string Joaillier = MasculineArticle + Space + "joaillier";
+    public const string Jungle = FeminineArticle + Space + "jungle";
+    public const string Juriste = MasculineArticle + Space + "juriste";
+    public const string Juridiction = FeminineArticle + Space + "juridiction";
+    public const string Jubile = MasculineArticle + Space + "jubilé";
+    public const string Jarre = FeminineArticle + Space + "jarre";
 }
