@@ -12,5 +12,10 @@ public static partial class NounRepository
         Constants.Xeres,
         Constants.Xylem,
         Constants.Xylophone,
+        Constants.Xylographie,
+        Constants.Xylitol,
+        Constants.Xanthine,
+        Constants.Xerophyte,
+        Constants.Xerose,
     };
 }
