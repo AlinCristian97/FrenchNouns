@@ -50,63 +50,70 @@ public static partial class NounRepository
         Constants.Plural_Vetements,
     };
 
-    // Super-list that contains every letter list
-    public static readonly IReadOnlyList<string> All = A
-        .Concat(B)
-        .Concat(C)
-        .Concat(D)
-        .Concat(E)
-        .Concat(F)
-        .Concat(G)
-        .Concat(H)
-        .Concat(I)
-        .Concat(J)
-        .Concat(K)
-        .Concat(L)
-        .Concat(M)
-        .Concat(N)
-        .Concat(O)
-        .Concat(P)
-        .Concat(Q)
-        .Concat(R)
-        .Concat(S)
-        .Concat(T)
-        .Concat(U)
-        .Concat(V)
-        .Concat(W)
-        .Concat(X)
-        .Concat(Y)
-        .Concat(Z)
-        .ToArray();
+    // Super-list that contains every letter list — initialized in static constructor to avoid cross-partial null ordering issues
+    public static readonly IReadOnlyList<string> All;
 
-    // Super-list that contains every letter *popular* list
-    public static readonly IReadOnlyList<string> All_Popular = A_Popular
-        .Concat(B_Popular)
-        .Concat(C_Popular)
-        .Concat(D_Popular)
-        .Concat(E_Popular)
-        .Concat(F_Popular)
-        .Concat(G_Popular)
-        .Concat(H_Popular)
-        .Concat(I_Popular)
-        .Concat(J_Popular)
-        .Concat(K_Popular)
-        .Concat(L_Popular)
-        .Concat(M_Popular)
-        .Concat(N_Popular)
-        .Concat(O_Popular)
-        .Concat(P_Popular)
-        .Concat(Q_Popular)
-        .Concat(R_Popular)
-        .Concat(S_Popular)
-        .Concat(T_Popular)
-        .Concat(U_Popular)
-        .Concat(V_Popular)
-        .Concat(W_Popular)
-        .Concat(X_Popular)
-        .Concat(Y_Popular)
-        .Concat(Z_Popular)
-        .ToArray();
+    // Super-list that contains every letter *popular* list — initialized in static constructor to avoid cross-partial null ordering issues
+    public static readonly IReadOnlyList<string> All_Popular;
+
+    static NounRepository()
+    {
+        All = A
+            .Concat(B)
+            .Concat(C)
+            .Concat(D)
+            .Concat(E)
+            .Concat(F)
+            .Concat(G)
+            .Concat(H)
+            .Concat(I)
+            .Concat(J)
+            .Concat(K)
+            .Concat(L)
+            .Concat(M)
+            .Concat(N)
+            .Concat(O)
+            .Concat(P)
+            .Concat(Q)
+            .Concat(R)
+            .Concat(S)
+            .Concat(T)
+            .Concat(U)
+            .Concat(V)
+            .Concat(W)
+            .Concat(X)
+            .Concat(Y)
+            .Concat(Z)
+            .ToArray();
+
+        All_Popular = A_Popular
+            .Concat(B_Popular)
+            .Concat(C_Popular)
+            .Concat(D_Popular)
+            .Concat(E_Popular)
+            .Concat(F_Popular)
+            .Concat(G_Popular)
+            .Concat(H_Popular)
+            .Concat(I_Popular)
+            .Concat(J_Popular)
+            .Concat(K_Popular)
+            .Concat(L_Popular)
+            .Concat(M_Popular)
+            .Concat(N_Popular)
+            .Concat(O_Popular)
+            .Concat(P_Popular)
+            .Concat(Q_Popular)
+            .Concat(R_Popular)
+            .Concat(S_Popular)
+            .Concat(T_Popular)
+            .Concat(U_Popular)
+            .Concat(V_Popular)
+            .Concat(W_Popular)
+            .Concat(X_Popular)
+            .Concat(Y_Popular)
+            .Concat(Z_Popular)
+            .ToArray();
+    }
 
     private static IReadOnlyDictionary<char, IReadOnlyList<string>> BuildLetterMap()
     {
