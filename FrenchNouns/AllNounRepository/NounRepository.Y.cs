@@ -19,4 +19,19 @@ public static partial class NounRepository
         Constants.Yoyo,
         Constants.Youyou,
     };
+
+    public static readonly IReadOnlyList<string> Y_Popular = new[]
+    {
+        Constants.Yaourt,
+        Constants.Yacht,
+        Constants.Yeux,
+        Constants.Yoga,
+        Constants.Yourte,
+        Constants.Yucca,
+        Constants.Yeti,
+        Constants.Ylang,
+        Constants.Yoyo,
+        Constants.Yak,
+        Constants.Yole,
+    };
 }
