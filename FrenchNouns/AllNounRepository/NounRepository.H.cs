@@ -65,5 +65,15 @@ public static partial class NounRepository
         Constants.Hasard,
         Constants.Helicoptere,
         Constants.Herisson,
+        Constants.Hirondelle,
+        Constants.Havresac,
+        Constants.Houe,
+        Constants.Hologramme,
+        Constants.Houblon,
+        Constants.Housse,
+        Constants.Hydravion,
+        Constants.Hyene,
+        Constants.Hublot,
+        Constants.Huppe,
     };
 }

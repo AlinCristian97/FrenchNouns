@@ -61,4 +61,14 @@ public partial class Constants
     public const string Hasard = MasculineArticle + Space + "hasard";
     public const string Helicoptere = MasculineArticle + Space + "hélicoptère";
     public const string Herisson = MasculineArticle + Space + "hérisson";
+    public const string Hirondelle = FeminineArticle + Space + "hirondelle";
+    public const string Havresac = MasculineArticle + Space + "havresac";
+    public const string Houe = FeminineArticle + Space + "houe";
+    public const string Hologramme = MasculineArticle + Space + "hologramme";
+    public const string Houblon = MasculineArticle + Space + "houblon";
+    public const string Housse = FeminineArticle + Space + "housse";
+    public const string Hydravion = MasculineArticle + Space + "hydravion";
+    public const string Hyene = FeminineArticle + Space + "hyène";
+    public const string Hublot = MasculineArticle + Space + "hublot";
+    public const string Huppe = FeminineArticle + Space + "huppe";
 }
