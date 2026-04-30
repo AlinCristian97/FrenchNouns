@@ -12,5 +12,13 @@ public static partial class NounRepository
         Constants.Whisky,
         Constants.Wifi,
         Constants.Wok,
+        Constants.Wafer,
+        Constants.Wapiti,
+        Constants.Warrant,
+        Constants.Wasabi,
+        Constants.Webmaster,
+        Constants.Western,
+        Constants.Wharf,
+        Constants.Wombat,
     };
 }
