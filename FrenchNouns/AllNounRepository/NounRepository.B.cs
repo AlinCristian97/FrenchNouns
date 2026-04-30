@@ -117,5 +117,10 @@ public static partial class NounRepository
         Constants.Bocage,
         Constants.Broderie,
         Constants.Brume,
+        Constants.Balai,
+        Constants.Baignoire,
+        Constants.Brindille,
+        Constants.Bruissement,
+        Constants.Bucheron,
     };
 }

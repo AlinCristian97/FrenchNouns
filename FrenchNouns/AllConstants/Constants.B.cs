@@ -113,4 +113,9 @@ public partial class Constants
     public const string Ble = MasculineArticle + Space + "blé";
     public const string Bocage = MasculineArticle + Space + "bocage";
     public const string Broderie = FeminineArticle + Space + "broderie";
+    public const string Balai = MasculineArticle + Space + "balai";
+    public const string Baignoire = FeminineArticle + Space + "baignoire";
+    public const string Brindille = FeminineArticle + Space + "brindille";
+    public const string Bruissement = MasculineArticle + Space + "bruissement";
+    public const string Bucheron = MasculineArticle + Space + "bûcheron";
 }
