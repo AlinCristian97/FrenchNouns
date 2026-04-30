@@ -22,4 +22,23 @@ public static partial class NounRepository
         Constants.Zoologie,
         Constants.Zonage,
     };
+
+    public static readonly IReadOnlyList<string> Z_Popular = new[]
+    {
+        Constants.Zebre,
+        Constants.Zele,
+        Constants.Zenith,
+        Constants.Zephyr,
+        Constants.Zero,
+        Constants.Zeste,
+        Constants.Zigzag,
+        Constants.Zinc,
+        Constants.Zodiac,
+        Constants.Zone,
+        Constants.Zoo,
+        Constants.Zoologie,
+        Constants.Zonage,
+        Constants.Zombie,
+        Constants.Zucchini,
+    };
 }
