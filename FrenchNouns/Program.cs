@@ -14,6 +14,7 @@ namespace FrenchNouns
                 Console.WriteLine("2) Mot aléatoire par lettre");
                 Console.WriteLine("3) Entrer un mot");
                 Console.WriteLine("4) Mot aléatoire (noms pluriels uniquement)");
+                Console.WriteLine("5) Mot aléatoire (noms populaires uniquement)  ^_^");
                 Console.WriteLine("Q) Quitter");
 
                 var choice = Console.ReadLine()?.Trim();
@@ -110,6 +111,21 @@ namespace FrenchNouns
                     }
 
                     var word = plurals[Random.Shared.Next(plurals.Count)];
+                    DisplayWordWithMetadata(word);
+
+                    continue;
+                }
+
+                if (choice == "5")
+                {
+                    var popular = NounRepository.All_Popular;
+                    if (popular.Count == 0)
+                    {
+                        Console.WriteLine("Aucun mot populaire disponible.\n");
+                        continue;
+                    }
+
+                    var word = popular[Random.Shared.Next(popular.Count)];
                     DisplayWordWithMetadata(word);
 
                     continue;
