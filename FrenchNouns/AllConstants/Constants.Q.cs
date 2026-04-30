@@ -18,4 +18,14 @@ public partial class Constants
     public const string Quotidien = MasculineArticle + Space + "quotidien";
     public const string Quittance = FeminineArticle + Space + "quittance";
     public const string Quiproquo = MasculineArticle + Space + "quiproquo";
+    public const string Quartz = MasculineArticle + Space + "quartz";
+    public const string Quenelle = FeminineArticle + Space + "quenelle";
+    public const string Questionnaire = MasculineArticle + Space + "questionnaire";
+    public const string Quintessence = FeminineArticle + Space + "quintessence";
+    public const string Quorum = MasculineArticle + Space + "quorum";
+    public const string Quietude = FeminineArticle + Space + "quiétude";
+    public const string Quadrupede = MasculineArticle + Space + "quadrupède";
+    public const string Quadrature = FeminineArticle + Space + "quadrature";
+    public const string Quintet = MasculineArticle + Space + "quintet";
+    public const string Quidam = MasculineArticle + Space + "quidam";
 }

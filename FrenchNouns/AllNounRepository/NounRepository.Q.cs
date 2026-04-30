@@ -22,5 +22,15 @@ public static partial class NounRepository
         Constants.Quotidien,
         Constants.Quittance,
         Constants.Quiproquo,
+        Constants.Quartz,
+        Constants.Quenelle,
+        Constants.Questionnaire,
+        Constants.Quintessence,
+        Constants.Quorum,
+        Constants.Quietude,
+        Constants.Quadrupede,
+        Constants.Quadrature,
+        Constants.Quintet,
+        Constants.Quidam,
     };
 }
