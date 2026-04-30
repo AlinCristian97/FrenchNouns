@@ -166,4 +166,14 @@ public partial class Constants
     public const string Astuce = FeminineArticle + Space + "astuce";
     public const string Aiguillon = MasculineArticle + Space + "aiguillon";
     public const string Amant = MasculineArticle + Space + "amant";
+    public const string Album = MasculineArticle + Space + "album";
+    public const string Alarme = FeminineArticle + Space + "alarme";
+    public const string Amiral = MasculineArticle + Space + "amiral";
+    public const string Ancre = FeminineArticle + Space + "ancre";
+    public const string Atelier = MasculineArticle + Space + "atelier";
+    public const string Aubepine = FeminineArticle + Space + "aubépine";
+    public const string Auditoire = MasculineArticle + Space + "auditoire";
+    public const string Avalanche = FeminineArticle + Space + "avalanche";
+    public const string Alpaga = MasculineArticle + Space + "alpaga";
+    public const string Altesse = FeminineArticle + Space + "altesse";
 }

@@ -170,6 +170,16 @@ public static partial class NounRepository
         Constants.Astuce,
         Constants.Aiguillon,
         Constants.Amant,
+        Constants.Album,
+        Constants.Alarme,
+        Constants.Amiral,
+        Constants.Ancre,
+        Constants.Atelier,
+        Constants.Aubepine,
+        Constants.Auditoire,
+        Constants.Avalanche,
+        Constants.Alpaga,
+        Constants.Altesse,
 
         //
 
