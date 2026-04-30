@@ -109,6 +109,16 @@ public static partial class NounRepository
         Constants.Trousseau,
         Constants.Torrent,
         Constants.Tampon,
+        Constants.Tambour,
+        Constants.Tapisserie,
+        Constants.Terrier,
+        Constants.Tige,
+        Constants.Tourbillon,
+        Constants.Truite,
+        Constants.Taureau,
+        Constants.Toundra,
+        Constants.Trefle,
+        Constants.Turbine,
         Constants.Toit,
         //
 

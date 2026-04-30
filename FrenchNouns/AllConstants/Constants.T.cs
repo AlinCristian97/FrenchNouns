@@ -106,4 +106,14 @@ public partial class Constants
     public const string Trousseau = MasculineArticle + Space + "trousseau";
     public const string Torrent = MasculineArticle + Space + "torrent";
     public const string Tampon = MasculineArticle + Space + "tampon";
+    public const string Tambour = MasculineArticle + Space + "tambour";
+    public const string Tapisserie = FeminineArticle + Space + "tapisserie";
+    public const string Terrier = MasculineArticle + Space + "terrier";
+    public const string Tige = FeminineArticle + Space + "tige";
+    public const string Tourbillon = MasculineArticle + Space + "tourbillon";
+    public const string Truite = FeminineArticle + Space + "truite";
+    public const string Taureau = MasculineArticle + Space + "taureau";
+    public const string Toundra = FeminineArticle + Space + "toundra";
+    public const string Trefle = MasculineArticle + Space + "trèfle";
+    public const string Turbine = FeminineArticle + Space + "turbine";
 }
