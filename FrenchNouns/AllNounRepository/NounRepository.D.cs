@@ -101,5 +101,15 @@ public static partial class NounRepository
         Constants.Detour,
         Constants.Disque,
         Constants.Dentifrice,
+        Constants.Dahlia,
+        Constants.Demeure,
+        Constants.Detective,
+        Constants.Diademe,
+        Constants.Digestion,
+        Constants.Donjon,
+        Constants.Douceur,
+        Constants.Dune,
+        Constants.Declin,
+        Constants.Doline,
     };
 }

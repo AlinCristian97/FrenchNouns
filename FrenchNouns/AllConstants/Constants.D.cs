@@ -97,4 +97,14 @@ public partial class Constants
     public const string Detour = MasculineArticle + Space + "détour";
     public const string Disque = MasculineArticle + Space + "disque";
     public const string Dentifrice = MasculineArticle + Space + "dentifrice";
+    public const string Dahlia = MasculineArticle + Space + "dahlia";
+    public const string Demeure = FeminineArticle + Space + "demeure";
+    public const string Detective = MasculineArticle + Space + "détective";
+    public const string Diademe = MasculineArticle + Space + "diadème";
+    public const string Digestion = FeminineArticle + Space + "digestion";
+    public const string Donjon = MasculineArticle + Space + "donjon";
+    public const string Douceur = FeminineArticle + Space + "douceur";
+    public const string Dune = FeminineArticle + Space + "dune";
+    public const string Declin = MasculineArticle + Space + "déclin";
+    public const string Doline = FeminineArticle + Space + "doline";
 }
