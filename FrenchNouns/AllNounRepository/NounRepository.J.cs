@@ -61,4 +61,46 @@ public static partial class NounRepository
 
         Constants.Plural_Jambieres
     };
+
+    public static readonly IReadOnlyList<string> J_Popular = new[]
+    {
+        Constants.Jalousie,
+        Constants.Jambe,
+        Constants.Jambon,
+        Constants.Janvier,
+        Constants.Jardin,
+        Constants.Jardinier,
+        Constants.Jardiniere,
+        Constants.Jean,
+        Constants.Jeu,
+        Constants.Jeudi,
+        Constants.Jeune,
+        Constants.Jeunesse,
+        Constants.Joie,
+        Constants.Jonquille,
+        Constants.Joue,
+        Constants.Jouet,
+        Constants.Joueur,
+        Constants.Journal,
+        Constants.Journaliste,
+        Constants.Journee,
+        Constants.Juge,
+        Constants.Jugement,
+        Constants.Juillet,
+        Constants.Juin,
+        Constants.Jumeau,
+        Constants.Jumelle,
+        Constants.Jungle,
+        Constants.Jupe,
+        Constants.Juriste,
+        Constants.Jus,
+        Constants.Justice,
+        Constants.Jasmin,
+        Constants.Jetee,
+        Constants.Joyau,
+        Constants.Jubile,
+        Constants.Juridiction,
+        Constants.Jour,
+        Constants.Joaillier,
+    };
 }
