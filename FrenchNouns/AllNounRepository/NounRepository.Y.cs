@@ -12,5 +12,11 @@ public static partial class NounRepository
         Constants.Yeux,
         Constants.Yoga,
         Constants.Yourte,
+        Constants.Yole,
+        Constants.Yucca,
+        Constants.Yeti,
+        Constants.Ylang,
+        Constants.Yoyo,
+        Constants.Youyou,
     };
 }
