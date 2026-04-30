@@ -84,4 +84,14 @@ public partial class Constants
     public const string Giboulee = FeminineArticle + Space + "giboulée";
     public const string Gazelle = FeminineArticle + Space + "gazelle";
     public const string Gosier = MasculineArticle + Space + "gosier";
+    public const string Gite = MasculineArticle + Space + "gîte";
+    public const string Glycine = FeminineArticle + Space + "glycine";
+    public const string Gourde = FeminineArticle + Space + "gourde";
+    public const string Gradin = MasculineArticle + Space + "gradin";
+    public const string Grange = FeminineArticle + Space + "grange";
+    public const string Grappin = MasculineArticle + Space + "grappin";
+    public const string Grimace = FeminineArticle + Space + "grimace";
+    public const string Grisou = MasculineArticle + Space + "grisou";
+    public const string Grele = FeminineArticle + Space + "grêle";
+    public const string Goulot = MasculineArticle + Space + "goulot";
 }

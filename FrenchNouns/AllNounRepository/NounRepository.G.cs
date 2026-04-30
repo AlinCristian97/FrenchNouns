@@ -88,6 +88,16 @@ public static partial class NounRepository
         Constants.Giboulee,
         Constants.Gazelle,
         Constants.Gosier,
+        Constants.Gite,
+        Constants.Glycine,
+        Constants.Gourde,
+        Constants.Gradin,
+        Constants.Grange,
+        Constants.Grappin,
+        Constants.Grimace,
+        Constants.Grisou,
+        Constants.Grele,
+        Constants.Goulot,
 
         //
 
