@@ -15,5 +15,11 @@ public static partial class NounRepository
         Constants.Zinc,
         Constants.Zigzag,
         Constants.Zele,
+        Constants.Zenith,
+        Constants.Zephyr,
+        Constants.Zero,
+        Constants.Zodiac,
+        Constants.Zoologie,
+        Constants.Zonage,
     };
 }
