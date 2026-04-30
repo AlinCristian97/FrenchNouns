@@ -130,4 +130,14 @@ public partial class Constants
     public const string Rideau = MasculineArticle + Space + "rideau";
     public const string Rene = FeminineArticle + Space + "rêne";
     public const string Reproduction = FeminineArticle + Space + "reproduction";
+    public const string Ravin = MasculineArticle + Space + "ravin";
+    public const string Rafale = FeminineArticle + Space + "rafale";
+    public const string Roseau = MasculineArticle + Space + "roseau";
+    public const string Raquette = FeminineArticle + Space + "raquette";
+    public const string Rhinoceros = MasculineArticle + Space + "rhinocéros";
+    public const string Rosee = FeminineArticle + Space + "rosée";
+    public const string Recif = MasculineArticle + Space + "récif";
+    public const string Rancoeur = FeminineArticle + Space + "rancœur";
+    public const string Rossignol = MasculineArticle + Space + "rossignol";
+    public const string Rotonde = FeminineArticle + Space + "rotonde";
 }

@@ -134,5 +134,15 @@ public static partial class NounRepository
         Constants.Rage,
         Constants.Rene,
         Constants.Reproduction,
+        Constants.Ravin,
+        Constants.Rafale,
+        Constants.Roseau,
+        Constants.Raquette,
+        Constants.Rhinoceros,
+        Constants.Rosee,
+        Constants.Recif,
+        Constants.Rancoeur,
+        Constants.Rossignol,
+        Constants.Rotonde,
     };
 }
