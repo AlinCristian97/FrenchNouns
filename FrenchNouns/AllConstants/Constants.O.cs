@@ -59,4 +59,14 @@ public partial class Constants
     public const string Oreillette = FeminineArticle + Space + "oreillette";
     public const string Oasis = FeminineArticle + Space + "oasis";
     public const string Orphelin = MasculineArticle + Space + "orphelin";
+    public const string Oisillon = MasculineArticle + Space + "oisillon";
+    public const string Ogresse = FeminineArticle + Space + "ogresse";
+    public const string Orfèvre = MasculineArticle + Space + "orfèvre";
+    public const string Outre = FeminineArticle + Space + "outre";
+    public const string Ornement = MasculineArticle + Space + "ornement";
+    public const string Ovation = FeminineArticle + Space + "ovation";
+    public const string Oracle = MasculineArticle + Space + "oracle";
+    public const string Ombrelle = FeminineArticle + Space + "ombrelle";
+    public const string Ottoman = MasculineArticle + Space + "ottoman";
+    public const string Odyssee = FeminineArticle + Space + "odyssée";
 }

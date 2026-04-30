@@ -63,5 +63,15 @@ public static partial class NounRepository
         Constants.Oreillette,
         Constants.Oasis,
         Constants.Orphelin,
+        Constants.Oisillon,
+        Constants.Ogresse,
+        Constants.Orfèvre,
+        Constants.Outre,
+        Constants.Ornement,
+        Constants.Ovation,
+        Constants.Oracle,
+        Constants.Ombrelle,
+        Constants.Ottoman,
+        Constants.Odyssee,
     };
 }
