@@ -139,6 +139,15 @@ namespace FrenchNouns
         {
             Console.WriteLine(Constants.LongDivider);
             PrintColoredWord(word);
+
+            if (NounRepository.All_Popular.Contains(word, StringComparer.OrdinalIgnoreCase))
+            {
+                var previous = Console.ForegroundColor;
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.Write(" (populaire)");
+                Console.ForegroundColor = previous;
+            }
+
             Console.WriteLine();
             Console.WriteLine(Constants.ShortDivider);
             PrintDescription(word);
