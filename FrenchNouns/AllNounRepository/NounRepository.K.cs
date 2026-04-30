@@ -17,5 +17,15 @@ public static partial class NounRepository
         Constants.Kermesse,
         Constants.Kepi,
         Constants.Klaxon,
+        Constants.Kaleidoscope,
+        Constants.Kimono,
+        Constants.Kyrielle,
+        Constants.Kefir,
+        Constants.Karma,
+        Constants.Koala,
+        Constants.Kebab,
+        Constants.Karting,
+        Constants.Kraken,
+        Constants.Kabbale,
     };
 }
