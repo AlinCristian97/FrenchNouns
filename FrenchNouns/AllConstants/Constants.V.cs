@@ -107,4 +107,14 @@ public partial class Constants
     public const string Viaduc = MasculineArticle + Space + "viaduc";
     public const string Verglas = MasculineArticle + Space + "verglas";
     public const string Verbe = MasculineArticle + Space + "verbe";
+    public const string Vestibule = MasculineArticle + Space + "vestibule";
+    public const string Vipere = FeminineArticle + Space + "vipère";
+    public const string Vitrail = MasculineArticle + Space + "vitrail";
+    public const string Voliere = FeminineArticle + Space + "volière";
+    public const string Vortex = MasculineArticle + Space + "vortex";
+    public const string Vrille = FeminineArticle + Space + "vrille";
+    public const string Violon = MasculineArticle + Space + "violon";
+    public const string Veranda = FeminineArticle + Space + "véranda";
+    public const string Valet = MasculineArticle + Space + "valet";
+    public const string Vendange = FeminineArticle + Space + "vendange";
 }

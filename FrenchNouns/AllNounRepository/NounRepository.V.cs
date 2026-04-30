@@ -111,6 +111,16 @@ public static partial class NounRepository
         Constants.Viaduc,
         Constants.Verglas,
         Constants.Verbe,
+        Constants.Vestibule,
+        Constants.Vipere,
+        Constants.Vitrail,
+        Constants.Voliere,
+        Constants.Vortex,
+        Constants.Vrille,
+        Constants.Violon,
+        Constants.Veranda,
+        Constants.Valet,
+        Constants.Vendange,
 
         //
 
