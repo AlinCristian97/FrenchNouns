@@ -18,4 +18,15 @@ public static partial class NounRepository
         Constants.Xerophyte,
         Constants.Xerose,
     };
+
+    public static readonly IReadOnlyList<string> X_Popular = new[]
+    {
+        Constants.Xenophobie,
+        Constants.Xeres,
+        Constants.Xylophone,
+        Constants.Xylographie,
+        Constants.Xylitol,
+        Constants.Xerophyte,
+        Constants.Xerose,
+    };
 }
