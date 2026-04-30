@@ -34,4 +34,29 @@ public static partial class NounRepository
         Constants.Uvule,
         Constants.Urbaniste,
     };
+
+    public static readonly IReadOnlyList<string> U_Popular = new[]
+    {
+        Constants.Ulcere,
+        Constants.Ultimatum,
+        Constants.Unanimite,
+        Constants.Uniforme,
+        Constants.Union,
+        Constants.Unite,
+        Constants.Univers,
+        Constants.Universite,
+        Constants.Urbanisme,
+        Constants.Urbaniste,
+        Constants.Urgence,
+        Constants.Urne,
+        Constants.Usage,
+        Constants.Usager,
+        Constants.Usine,
+        Constants.Ustensile,
+        Constants.Utilisation,
+        Constants.Utilite,
+        Constants.Utopie,
+        Constants.Ukulele,
+        Constants.Urticaire,
+    };
 }
