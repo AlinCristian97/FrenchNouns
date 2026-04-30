@@ -136,4 +136,14 @@ public partial class Constants
     public const string Mobilier = MasculineArticle + Space + "mobilier";
     public const string Metro = MasculineArticle + Space + "métro";
     public const string Moralite = FeminineArticle + Space + "moralité";
+    public const string Mat = MasculineArticle + Space + "mât";
+    public const string Mouche = FeminineArticle + Space + "mouche";
+    public const string Moulin = MasculineArticle + Space + "moulin";
+    public const string Meduse = FeminineArticle + Space + "méduse";
+    public const string Monastere = MasculineArticle + Space + "monastère";
+    public const string Moisissure = FeminineArticle + Space + "moisissure";
+    public const string Murmure = MasculineArticle + Space + "murmure";
+    public const string Mousse = FeminineArticle + Space + "mousse";
+    public const string Mocassin = MasculineArticle + Space + "mocassin";
+    public const string Moue = FeminineArticle + Space + "moue";
 }

@@ -140,5 +140,15 @@ public static partial class NounRepository
         Constants.Mobilier,
         Constants.Metro,
         Constants.Moralite,
+        Constants.Mat,
+        Constants.Mouche,
+        Constants.Moulin,
+        Constants.Meduse,
+        Constants.Monastere,
+        Constants.Moisissure,
+        Constants.Murmure,
+        Constants.Mousse,
+        Constants.Mocassin,
+        Constants.Moue,
     };
 }
