@@ -170,5 +170,15 @@ public static partial class NounRepository
         Constants.Embouchure,
         Constants.Engrais,
         Constants.Equipage,
+        Constants.Ebauche,
+        Constants.Effusion,
+        Constants.Embarcadere,
+        Constants.Empreinte,
+        Constants.Enclos,
+        Constants.Enumeration,
+        Constants.Eperon,
+        Constants.Escale,
+        Constants.Etang,
+        Constants.Ecluse,
     };
 }

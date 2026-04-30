@@ -166,4 +166,14 @@ public partial class Constants
     public const string Embouchure = FeminineArticle + Space + "embouchure";
     public const string Engrais = MasculineArticle + Space + "engrais";
     public const string Equipage = MasculineArticle + Space + "équipage";
+    public const string Ebauche = FeminineArticle + Space + "ébauche";
+    public const string Effusion = FeminineArticle + Space + "effusion";
+    public const string Embarcadere = MasculineArticle + Space + "embarcadère";
+    public const string Empreinte = FeminineArticle + Space + "empreinte";
+    public const string Enclos = MasculineArticle + Space + "enclos";
+    public const string Enumeration = FeminineArticle + Space + "énumération";
+    public const string Eperon = MasculineArticle + Space + "éperon";
+    public const string Escale = FeminineArticle + Space + "escale";
+    public const string Etang = MasculineArticle + Space + "étang";
+    public const string Ecluse = FeminineArticle + Space + "écluse";
 }
